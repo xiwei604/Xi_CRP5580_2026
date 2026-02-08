@@ -1,17 +1,17 @@
 ---
 layout: splash
-title: "Seeger - LA 5880"
+title: "Wei - CRP 5580"
 header:
   overlay_image: /assets/images/cover.jpg
   overlay_filter: 0.3
-excerpt: "LA5880 – Web Mapping Portfolio"
+excerpt: "CRP5580 – Web Mapping Portfolio"
 custom_head: head/custom.html
 
 ---
 
 ## Welcome
 
-This site contains my coursework, exercises, and final project for **LA5880**.
+This site contains my coursework, exercises, and final project for **CRP5580**.
 
 Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a> me.
 
