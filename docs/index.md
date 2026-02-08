@@ -13,7 +13,7 @@ custom_head: /docs/head/custom.html
 
 This site contains my coursework, exercises, and final project for **CRP5580**.
 
-Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href="{{ '/about/' | relative_url }}">about me</a>.
+Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href="/docs/about/">about me</a>.
 
 <div class="button-container">
   <a href="/docs/tasks/" class="btn btn--primary">View Tasks</a>
