@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-permalink: /about/
+permalink: /docs/about/
 ---
 
 My name is **Xi Wei**.
