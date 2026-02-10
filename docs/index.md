@@ -16,8 +16,8 @@ This site contains my coursework, exercises, and final project for **CRP5580**.
 Use the buttons below to see the course tasks, exercises, assignments, and final project or start by going to learn more <a href="/about/">about me</a>.
 
 <div class="button-container">
-  <a href="/docs/tasks/" class="btn btn--primary">View Tasks</a>
-  <a href="/docs/exercises/" class="btn btn--primary">View Exercises</a>
-  <a href="/docs/assignments/" class="btn btn--primary">View Assignments</a>
-  <a href="/docs/final-project/" class="btn btn--primary">View Final Project</a>
+  <a href="/tasks/" class="btn btn--primary">View Tasks</a>
+  <a href="/exercises/" class="btn btn--primary">View Exercises</a>
+  <a href="/assignments/" class="btn btn--primary">View Assignments</a>
+  <a href="/final-project/" class="btn btn--primary">View Final Project</a>
 </div>
