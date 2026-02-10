@@ -5,7 +5,7 @@ header:
   overlay_image: /docs/assets/images/cover.jpg
   overlay_filter: 0.3
 excerpt: "CRP5580 – Web Mapping Portfolio"
-custom_head: /docs/head/custom.html
+custom_head: /head/custom.html
 
 ---
 
