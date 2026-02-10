@@ -1,11 +1,8 @@
-url: "https://xiwei604.github.io" 
-baseurl: ""
-
 title: "Home"
 description: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "plum"
 
 search: false
 markdown: kramdown
