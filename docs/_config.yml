@@ -2,7 +2,7 @@ title: "Home"
 description: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "plum"
+minimal_mistakes_skin: "air"
 
 search: false
 markdown: kramdown
