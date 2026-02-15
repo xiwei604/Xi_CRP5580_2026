@@ -30,13 +30,17 @@ sidebar:
     children:
       - title: "2a"
         url: /exercises/2a/
+      - title: "2b"
+        url: /exercises/2b/
       - title: "3a"
         url: /exercises/3a/
+      - title: "4a"
+        url: /exercises/4a/
 
   - title: "Assignments"
     children:
-      - title: "5a with title"
-        url: /assignments/5a/
+      - title: "Assignment 1"
+        url: /assignments/1/
       - title: "Mid Semester Project"
         url: /assignments/mid/
 
