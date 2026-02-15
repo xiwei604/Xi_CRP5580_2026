@@ -2,7 +2,7 @@
 layout: splash
 title: "Wei - CRP 5580"
 header:
-  overlay_image: /assets/images/cover.jpg
+  overlay_image: /assets/images/cover.png
   overlay_filter: 0.3
 excerpt: "CRP5580 – Web Mapping Portfolio"
 custom_head: head/custom.html
