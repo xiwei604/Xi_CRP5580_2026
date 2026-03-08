@@ -1,0 +1,1045 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20253.26.0109.0333                               -->
+<workbook original-version='18.1' source-build='2025.3.2 (20253.26.0109.0333)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <SpatialFileLayer />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+    <WorksheetBackgroundTransparency />
+    <ZoneBackgroundTransparency />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='iowa_poverty.shp+ (Multiple Connections)' inline='true' name='federated.1w8wok21i0t3431azdhts0uvm7qx' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='iowa_poverty' name='ogrdirect.0vr8tqv0cns8f218py59j1xkvqx0'>
+            <connection class='ogrdirect' directory='C:/Users/Nancy/Documents/GitHub/Xi_CRP5580_2026/docs/rcode' filename='iowa_poverty.shp' password='' server='' tablename='' />
+          </named-connection>
+          <named-connection caption='povertyRatio1Parent' name='textscan.14wjc0w1s9ncjh145mkhb1ushn9w'>
+            <connection class='textscan' directory='C:/Users/Nancy/Documents/GitHub/Xi_CRP5580_2026/docs/rcode' filename='povertyRatio1Parent.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation type='collection'>
+          <relation connection='ogrdirect.0vr8tqv0cns8f218py59j1xkvqx0' name='iowa_poverty.shp' table='[iowa_poverty.shp]' type='table'>
+            <columns>
+              <column datatype='string' name='GEOID' ordinal='0' />
+              <column datatype='string' name='NAME' ordinal='1' />
+              <column datatype='real' name='pvrty_E' ordinal='2' />
+              <column datatype='real' name='pvrty_M' ordinal='3' />
+              <column datatype='real' name='pvrt_1E' ordinal='4' />
+              <column datatype='real' name='pvrt_1M' ordinal='5' />
+              <column datatype='spatial' name='Geometry' ordinal='6' />
+            </columns>
+          </relation>
+          <relation connection='textscan.14wjc0w1s9ncjh145mkhb1ushn9w' name='povertyRatio1Parent.csv' table='[povertyRatio1Parent#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=';'>
+              <column datatype='string' name='GEOID' ordinal='0' />
+              <column datatype='string' name='NAME' ordinal='1' />
+              <column datatype='integer' name='poverty_1parent_und1E' ordinal='2' />
+              <column datatype='integer' name='poverty_1parent_und1M' ordinal='3' />
+            </columns>
+          </relation>
+        </relation>
+        <cols>
+          <map key='[GEOID (povertyRatio1Parent.csv)]' value='[povertyRatio1Parent.csv].[GEOID]' />
+          <map key='[GEOID]' value='[iowa_poverty.shp].[GEOID]' />
+          <map key='[Geometry]' value='[iowa_poverty.shp].[Geometry]' />
+          <map key='[NAME (povertyRatio1Parent.csv)]' value='[povertyRatio1Parent.csv].[NAME]' />
+          <map key='[NAME]' value='[iowa_poverty.shp].[NAME]' />
+          <map key='[poverty_1parent_und1E]' value='[povertyRatio1Parent.csv].[poverty_1parent_und1E]' />
+          <map key='[poverty_1parent_und1M]' value='[povertyRatio1Parent.csv].[poverty_1parent_und1M]' />
+          <map key='[pvrt_1E]' value='[iowa_poverty.shp].[pvrt_1E]' />
+          <map key='[pvrt_1M]' value='[iowa_poverty.shp].[pvrt_1M]' />
+          <map key='[pvrty_E]' value='[iowa_poverty.shp].[pvrty_E]' />
+          <map key='[pvrty_M]' value='[iowa_poverty.shp].[pvrty_M]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[povertyRatio1Parent.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;;&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>GEOID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[GEOID]</local-name>
+            <parent-name>[iowa_poverty.shp]</parent-name>
+            <remote-alias>GEOID</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>NAME</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[NAME]</local-name>
+            <parent-name>[iowa_poverty.shp]</parent-name>
+            <remote-alias>NAME</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pvrty_E</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pvrty_E]</local-name>
+            <parent-name>[iowa_poverty.shp]</parent-name>
+            <remote-alias>pvrty_E</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pvrty_M</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pvrty_M]</local-name>
+            <parent-name>[iowa_poverty.shp]</parent-name>
+            <remote-alias>pvrty_M</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pvrt_1E</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pvrt_1E]</local-name>
+            <parent-name>[iowa_poverty.shp]</parent-name>
+            <remote-alias>pvrt_1E</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pvrt_1M</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pvrt_1M]</local-name>
+            <parent-name>[iowa_poverty.shp]</parent-name>
+            <remote-alias>pvrt_1M</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Geometry</remote-name>
+            <remote-type>8</remote-type>
+            <local-name>[Geometry]</local-name>
+            <parent-name>[iowa_poverty.shp]</parent-name>
+            <remote-alias>Geometry</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>spatial</local-type>
+            <aggregation>Collect</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>GEOID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[GEOID (povertyRatio1Parent.csv)]</local-name>
+            <parent-name>[povertyRatio1Parent.csv]</parent-name>
+            <remote-alias>GEOID</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>NAME</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[NAME (povertyRatio1Parent.csv)]</local-name>
+            <parent-name>[povertyRatio1Parent.csv]</parent-name>
+            <remote-alias>NAME</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>poverty_1parent_und1E</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[poverty_1parent_und1E]</local-name>
+            <parent-name>[povertyRatio1Parent.csv]</parent-name>
+            <remote-alias>poverty_1parent_und1E</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>poverty_1parent_und1M</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[poverty_1parent_und1M]</local-name>
+            <parent-name>[povertyRatio1Parent.csv]</parent-name>
+            <remote-alias>poverty_1parent_und1M</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='TEXT DEMO' datatype='string' name='[Calculation_0147106345230336]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='[NAME] + &quot;has a value of &quot; + STR([pvrty_E])' />
+      </column>
+      <column caption='Geoid' datatype='string' name='[GEOID]' role='dimension' type='nominal' />
+      <column caption='Name' datatype='string' name='[NAME]' role='dimension' type='nominal' />
+      <column caption='iowa_poverty.shp' datatype='table' name='[__tableau_internal_object_id__].[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]' role='measure' type='quantitative' />
+      <column caption='povertyRatio1Parent.csv' datatype='table' name='[__tableau_internal_object_id__].[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]' role='measure' type='quantitative' />
+      <column caption='1parent und1E' datatype='integer' name='[poverty_1parent_und1E]' role='measure' type='quantitative' />
+      <column caption='poverty 1parent und1M' datatype='integer' name='[poverty_1parent_und1M]' role='measure' type='quantitative' />
+      <column caption='pvrt 1E' datatype='real' name='[pvrt_1E]' role='measure' type='quantitative' />
+      <column caption='pvrt 1M' datatype='real' name='[pvrt_1M]' role='measure' type='quantitative' />
+      <column caption='pvrty E' datatype='real' name='[pvrty_E]' role='measure' type='quantitative' />
+      <column caption='pvrty M' datatype='real' name='[pvrty_M]' role='measure' type='quantitative' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/Nancy/AppData/Local/Temp/TableauTemp/#TableauTemp_02mszp400c9gt51bg5fya1cbxjw3.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='03/08/2026 08:10:23 PM' username='tableau_internal_user'>
+          <relation type='collection'>
+            <relation name='iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772' table='[Extract].[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]' type='table' />
+            <relation name='povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A' table='[Extract].[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]' type='table' />
+          </relation>
+          <cols>
+            <map key='[GEOID (povertyRatio1Parent.csv)]' value='[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A].[GEOID]' />
+            <map key='[GEOID]' value='[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772].[GEOID]' />
+            <map key='[Geometry]' value='[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772].[Geometry]' />
+            <map key='[NAME (povertyRatio1Parent.csv)]' value='[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A].[NAME]' />
+            <map key='[NAME]' value='[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772].[NAME]' />
+            <map key='[poverty_1parent_und1E]' value='[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A].[poverty_1parent_und1E]' />
+            <map key='[poverty_1parent_und1M]' value='[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A].[poverty_1parent_und1M]' />
+            <map key='[pvrt_1E]' value='[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772].[pvrt_1E]' />
+            <map key='[pvrt_1M]' value='[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772].[pvrt_1M]' />
+            <map key='[pvrty_E]' value='[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772].[pvrty_E]' />
+            <map key='[pvrty_M]' value='[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772].[pvrty_M]' />
+          </cols>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>GEOID</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[GEOID]</local-name>
+              <parent-name>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</parent-name>
+              <remote-alias>GEOID</remote-alias>
+              <ordinal>0</ordinal>
+              <family>iowa_poverty.shp</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>99</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>NAME</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[NAME]</local-name>
+              <parent-name>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</parent-name>
+              <remote-alias>NAME</remote-alias>
+              <ordinal>1</ordinal>
+              <family>iowa_poverty.shp</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>99</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pvrty_E</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pvrty_E]</local-name>
+              <parent-name>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</parent-name>
+              <remote-alias>pvrty_E</remote-alias>
+              <ordinal>2</ordinal>
+              <family>iowa_poverty.shp</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>98</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pvrty_M</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pvrty_M]</local-name>
+              <parent-name>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</parent-name>
+              <remote-alias>pvrty_M</remote-alias>
+              <ordinal>3</ordinal>
+              <family>iowa_poverty.shp</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>76</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pvrt_1E</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pvrt_1E]</local-name>
+              <parent-name>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</parent-name>
+              <remote-alias>pvrt_1E</remote-alias>
+              <ordinal>4</ordinal>
+              <family>iowa_poverty.shp</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>94</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pvrt_1M</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pvrt_1M]</local-name>
+              <parent-name>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</parent-name>
+              <remote-alias>pvrt_1M</remote-alias>
+              <ordinal>5</ordinal>
+              <family>iowa_poverty.shp</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>83</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Geometry</remote-name>
+              <remote-type>128</remote-type>
+              <local-name>[Geometry]</local-name>
+              <parent-name>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</parent-name>
+              <remote-alias>Geometry</remote-alias>
+              <ordinal>6</ordinal>
+              <family>iowa_poverty.shp</family>
+              <local-type>spatial</local-type>
+              <aggregation>Collect</aggregation>
+              <approx-count>99</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>GEOID</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[GEOID (povertyRatio1Parent.csv)]</local-name>
+              <parent-name>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</parent-name>
+              <remote-alias>GEOID</remote-alias>
+              <ordinal>7</ordinal>
+              <family>povertyRatio1Parent.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>99</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>NAME</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[NAME (povertyRatio1Parent.csv)]</local-name>
+              <parent-name>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</parent-name>
+              <remote-alias>NAME</remote-alias>
+              <ordinal>8</ordinal>
+              <family>povertyRatio1Parent.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>99</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>poverty_1parent_und1E</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[poverty_1parent_und1E]</local-name>
+              <parent-name>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</parent-name>
+              <remote-alias>poverty_1parent_und1E</remote-alias>
+              <ordinal>9</ordinal>
+              <family>povertyRatio1Parent.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>95</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>poverty_1parent_und1M</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[poverty_1parent_und1M]</local-name>
+              <parent-name>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</parent-name>
+              <remote-alias>poverty_1parent_und1M</remote-alias>
+              <ordinal>10</ordinal>
+              <family>povertyRatio1Parent.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>83</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <field-sort-info field-sort-order-type='custom-order'>
+        <field-sort-custom-order field='GEOID' />
+        <field-sort-custom-order field='NAME' />
+        <field-sort-custom-order field='Calculation_0147106345230336' />
+        <field-sort-custom-order field='pvrty_E' />
+        <field-sort-custom-order field='pvrty_M' />
+        <field-sort-custom-order field='pvrt_1E' />
+        <field-sort-custom-order field='pvrt_1M' />
+        <field-sort-custom-order field='Geometry' />
+      </field-sort-info>
+      <object-graph>
+        <objects>
+          <object caption='iowa_poverty.shp' id='iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772'>
+            <properties context=''>
+              <relation connection='ogrdirect.0vr8tqv0cns8f218py59j1xkvqx0' name='iowa_poverty.shp' table='[iowa_poverty.shp]' type='table'>
+                <columns>
+                  <column datatype='string' name='GEOID' ordinal='0' />
+                  <column datatype='string' name='NAME' ordinal='1' />
+                  <column datatype='real' name='pvrty_E' ordinal='2' />
+                  <column datatype='real' name='pvrty_M' ordinal='3' />
+                  <column datatype='real' name='pvrt_1E' ordinal='4' />
+                  <column datatype='real' name='pvrt_1M' ordinal='5' />
+                  <column datatype='spatial' name='Geometry' ordinal='6' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772' table='[Extract].[iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772]' type='table' />
+            </properties>
+          </object>
+          <object caption='povertyRatio1Parent.csv' id='povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A'>
+            <properties context=''>
+              <relation connection='textscan.14wjc0w1s9ncjh145mkhb1ushn9w' name='povertyRatio1Parent.csv' table='[povertyRatio1Parent#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=';'>
+                  <column datatype='string' name='GEOID' ordinal='0' />
+                  <column datatype='string' name='NAME' ordinal='1' />
+                  <column datatype='integer' name='poverty_1parent_und1E' ordinal='2' />
+                  <column datatype='integer' name='poverty_1parent_und1M' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A' table='[Extract].[povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A]' type='table' />
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[GEOID]' />
+              <expression op='[GEOID (povertyRatio1Parent.csv)]' />
+            </expression>
+            <first-end-point object-id='iowa_poverty.shp_A3A6C275CB7D451AA252508B61A23772' />
+            <second-end-point object-id='povertyRatio1Parent.csv_EA071D33250C42A0887780AD42A3076A' />
+          </relationship>
+        </relationships>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>&lt;</run>
+            <run>[federated.1w8wok21i0t3431azdhts0uvm7qx].[attr:Calculation_0147106345230336:nk]</run>
+            <run>&gt;</run>
+          </formatted-text>
+        </title>
+        <caption>
+          <formatted-text>
+            <run>&lt;</run>
+            <run>[federated.1w8wok21i0t3431azdhts0uvm7qx].[attr:Calculation_0147106345230336:nk]</run>
+            <run>&gt;</run>
+          </formatted-text>
+        </caption>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='iowa_poverty.shp+ (Multiple Connections)' name='federated.1w8wok21i0t3431azdhts0uvm7qx' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1w8wok21i0t3431azdhts0uvm7qx'>
+            <column caption='TEXT DEMO' datatype='string' name='[Calculation_0147106345230336]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[NAME] + &quot;has a value of &quot; + STR([pvrty_E])' />
+            </column>
+            <column caption='Name' datatype='string' name='[NAME]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_0147106345230336]' derivation='Attribute' name='[attr:Calculation_0147106345230336:nk]' pivot='key' type='nominal' />
+            <column-instance column='[NAME]' derivation='None' name='[none:NAME:nk]' pivot='key' type='nominal' />
+            <column caption='1parent und1E' datatype='integer' name='[poverty_1parent_und1E]' role='measure' type='quantitative' />
+            <column caption='pvrt 1E' datatype='real' name='[pvrt_1E]' role='measure' type='quantitative' />
+            <column caption='pvrty E' datatype='real' name='[pvrty_E]' role='measure' type='quantitative' />
+            <column-instance column='[poverty_1parent_und1E]' derivation='Sum' name='[sum:poverty_1parent_und1E:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[pvrt_1E]' derivation='Sum' name='[sum:pvrt_1E:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[pvrty_E]' derivation='Sum' name='[sum:pvrty_E:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1w8wok21i0t3431azdhts0uvm7qx].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1w8wok21i0t3431azdhts0uvm7qx].[sum:pvrty_E:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1w8wok21i0t3431azdhts0uvm7qx].[sum:pvrt_1E:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1w8wok21i0t3431azdhts0uvm7qx].[sum:poverty_1parent_und1E:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.1w8wok21i0t3431azdhts0uvm7qx].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.1w8wok21i0t3431azdhts0uvm7qx].[sum:pvrty_E:qk]&quot;</bucket>
+              <bucket>&quot;[federated.1w8wok21i0t3431azdhts0uvm7qx].[sum:pvrt_1E:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:NAME:nk]' filter-group='3'>
+            <groupfilter function='member' level='[none:NAME:nk]' member='&quot;Adair County, Iowa&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1w8wok21i0t3431azdhts0uvm7qx].[:Measure Names]</column>
+            <column>[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:NAME:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1w8wok21i0t3431azdhts0uvm7qx].[:Measure Names]' value='108' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Text' />
+            <encodings>
+              <tooltip column='[federated.1w8wok21i0t3431azdhts0uvm7qx].[attr:Calculation_0147106345230336:nk]' />
+              <text column='[federated.1w8wok21i0t3431azdhts0uvm7qx].[Multiple Values]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:NAME:nk]</rows>
+        <cols>[federated.1w8wok21i0t3431azdhts0uvm7qx].[:Measure Names]</cols>
+      </table>
+      <simple-id uuid='{358C51FA-7A48-4FD3-BAF5-003F19BD8856}' />
+    </worksheet>
+    <worksheet name='text'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='iowa_poverty.shp+ (Multiple Connections)' name='federated.1w8wok21i0t3431azdhts0uvm7qx' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1w8wok21i0t3431azdhts0uvm7qx'>
+            <column caption='TEXT DEMO' datatype='string' name='[Calculation_0147106345230336]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[NAME] + &quot;has a value of &quot; + STR([pvrty_E])' />
+            </column>
+            <column caption='Name' datatype='string' name='[NAME]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_0147106345230336]' derivation='None' name='[none:Calculation_0147106345230336:nk]' pivot='key' type='nominal' />
+            <column-instance column='[NAME]' derivation='None' name='[none:NAME:nk]' pivot='key' type='nominal' />
+            <column caption='pvrty E' datatype='real' name='[pvrty_E]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:NAME:nk]' filter-group='3'>
+            <groupfilter function='member' level='[none:NAME:nk]' member='&quot;Adair County, Iowa&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:NAME:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' value='479' />
+            <format attr='height' value='31' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='background-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='font-weight' value='bold' />
+            <format attr='color' value='#f9a655' />
+            <format attr='font-size' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Text' />
+            <encodings>
+              <text column='[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:Calculation_0147106345230336:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{865798CC-0AD4-40E1-8A3C-39AFD25F0FCF}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Dashboard 1'>
+      <style />
+      <size maxheight='860' maxwidth='650' minheight='560' minwidth='420' />
+      <datasources>
+        <datasource caption='iowa_poverty.shp+ (Multiple Connections)' name='federated.1w8wok21i0t3431azdhts0uvm7qx' />
+      </datasources>
+      <datasource-dependencies datasource='federated.1w8wok21i0t3431azdhts0uvm7qx'>
+        <column caption='Name' datatype='string' name='[NAME]' role='dimension' type='nominal' />
+        <column-instance column='[NAME]' derivation='None' name='[none:NAME:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <zones>
+        <zone h='54767' id='3' name='Sheet 1' show-caption='true' w='72000' x='27231' y='2674' />
+        <zone h='14186' id='4' name='text' show-title='false' w='90769' x='3846' y='60581' />
+        <zone h='11628' id='5' mode='dropdown' name='Sheet 1' param='[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:NAME:nk]' show-all='false' type-v2='filter' values='database' w='24615' x='59538' y='70581' />
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='7' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98140' id='6' param='vert' type-v2='layout-flow' w='97538' x='1231' y='930'>
+                <zone h='11628' id='5' mode='dropdown' name='Sheet 1' param='[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:NAME:nk]' show-all='false' type-v2='filter' values='database' w='24615' x='59538' y='70581'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='54767' id='3' is-fixed='true' name='Sheet 1' show-caption='true' w='72000' x='27231' y='2674'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='122' h='14186' id='4' is-fixed='true' name='text' show-title='false' w='90769' x='3846' y='60581'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{7160EDF2-AA13-4605-9FE9-ACDC3FE6FC40}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:NAME:nk]' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1w8wok21i0t3431azdhts0uvm7qx].[:Measure Names]</field>
+            <field>[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:Calculation_0147106345230336:nk]</field>
+            <field>[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:NAME:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{5D88A923-00AF-4A55-8308-F01F2FA2CA38}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='Sheet 1' />
+        <viewpoint name='text' />
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{1410FD3D-F73A-4E95-8598-09B394B5B22B}' />
+    </window>
+    <window class='worksheet' name='text'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1w8wok21i0t3431azdhts0uvm7qx].[none:Calculation_0147106345230336:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{B131FA00-F83D-4C8C-BD82-AAFEA00CAA6E}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Dashboard 1' width='192'>
+      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
+      cwAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='65' name='Sheet 1' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='35' name='text' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
