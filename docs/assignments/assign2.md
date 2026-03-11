@@ -4,11 +4,6 @@ permalink: /assignments/assign2/
 markdown: false
 ---
 
----
-title: "Assignment 2 - Parameters"
-permalink: /assignments/assign2/
-markdown: false
----
 
 <!-- Tableau Embed -->
 <div class='tableauPlaceholder' id='viz1771736490870' style='position: relative; width:100%; height:1200px;'>
