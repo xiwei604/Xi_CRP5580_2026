@@ -4,6 +4,12 @@ permalink: /assignments/assign2/
 markdown: false
 ---
 
+---
+title: "Assignment 2 - Parameters"
+permalink: /assignments/assign2/
+markdown: false
+---
+
 <!-- Tableau Embed -->
 <div class='tableauPlaceholder' id='viz1771736490870' style='position: relative; width:100%; height:1200px;'>
   <noscript>
@@ -36,24 +42,8 @@ markdown: false
   var divElement = document.getElementById('viz1771736490870');
   var vizElement = divElement.getElementsByTagName('object')[0];
 
-  if (divElement.offsetWidth > 800) {
-    vizElement.style.minWidth  = '520px';
-    vizElement.style.maxWidth  = '650px';
-    vizElement.style.width     = '100%';
-    vizElement.style.minHeight = '587px';
-    vizElement.style.maxHeight = '887px';
-    vizElement.style.height    = (divElement.offsetWidth * 0.75) + 'px';
-  } else if (divElement.offsetWidth > 500) {
-    vizElement.style.minWidth  = '520px';
-    vizElement.style.maxWidth  = '650px';
-    vizElement.style.width     = '100%';
-    vizElement.style.minHeight = '587px';
-    vizElement.style.maxHeight = '887px';
-    vizElement.style.height    = (divElement.offsetWidth * 0.75) + 'px';
-  } else {
-    vizElement.style.width  = '100%';
-    vizElement.style.height = '1027px';
-  }
+  vizElement.style.width = '100%';
+  vizElement.style.height = '1200px';
 
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
