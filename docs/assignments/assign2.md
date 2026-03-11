@@ -5,6 +5,17 @@ markdown: false
 ---
 
 
+
+<style>
+.page-content,
+.wrapper,
+.container,
+main {
+  max-width: 1400px !important;
+  width: 95% !important;
+}
+</style>
+
 <!-- Tableau Embed -->
 <div class='tableauPlaceholder' id='viz1771736490870' style='position: relative; width:100%; height:1200px;'>
   <noscript>
