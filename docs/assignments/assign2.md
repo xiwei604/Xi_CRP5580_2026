@@ -5,7 +5,7 @@ markdown: false
 ---
 
 <!-- Tableau Embed -->
-<div class='tableauPlaceholder' id='viz1771736490870' style='position: relative; width:100%; height:900px;'>
+<div class='tableauPlaceholder' id='viz1771736490870' style='position: relative; width:100%; height:1200px;'>
   <noscript>
     <a href='#'>
       <img alt='Dashboard 1'
