@@ -1,27 +1,15 @@
 ---
-title: "Assignment 2 - Parameters "
-permalink: /assignments/assign2/
+title: "Assignment 3"
+permalink: /assignments/assign3/
 markdown: false
 ---
 
-
-
-<style>
-.page-content,
-.wrapper,
-.container,
-main {
-  max-width: 1400px !important;
-  width: 95% !important;
-}
-</style>
-
 <!-- Tableau Embed -->
-<div class='tableauPlaceholder' id='viz1771736490870' style='position: relative; width:100%; height:1200px;'>
+<div class='tableauPlaceholder' id='viz1773017319049' style='position: relative; width:100%; height:900px;'>
   <noscript>
     <a href='#'>
       <img alt='Dashboard 1'
-           src='https://public.tableau.com/static/images/as/assign2_17717364668010/Dashboard1/1_rss.png'
+           src='https://public.tableau.com/static/images/as/assign3_17730173113940/Dashboard1/1_rss.png'
            style='border: none' />
     </a>
   </noscript>
@@ -30,10 +18,10 @@ main {
     <param name='host_url'             value='https%3A%2F%2Fpublic.tableau.com%2F' />
     <param name='embed_code_version'   value='3' />
     <param name='site_root'            value='' />
-    <param name='name'                 value='assign2_17717364668010/Dashboard1' />
+    <param name='name'                 value='assign3_17730173113940/Dashboard1' />
     <param name='tabs'                 value='no' />
     <param name='toolbar'              value='yes' />
-    <param name='static_image'         value='https://public.tableau.com/static/images/as/assign2_17717364668010/Dashboard1/1.png' />
+    <param name='static_image'         value='https://public.tableau.com/static/images/as/assign3_17730173113940/Dashboard1/1.png' />
     <param name='animate_transition'   value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner'      value='yes' />
@@ -45,11 +33,11 @@ main {
 </div>
 
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1771736490870');
+  var divElement = document.getElementById('viz1773017319049');
   var vizElement = divElement.getElementsByTagName('object')[0];
 
   vizElement.style.width = '100%';
-  vizElement.style.height = '1200px';
+  vizElement.style.height = '900px';
 
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
