@@ -28,8 +28,6 @@ sidebar:
 
   - title: "Exercises"
     children:
-      - title: "2a"
-        url: /exercises/2a/
       - title: "2b"
         url: /exercises/2b/
       - title: "3a"
