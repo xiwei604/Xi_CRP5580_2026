@@ -1,0 +1,591 @@
+GeoFIPS,GeoName,year,metric,value,Unit
+01000,Alabama,2020,state_real_gdp,223025.5,Millions of chained 2017 dollars
+01000,Alabama,2021,state_real_gdp,233951.1,Millions of chained 2017 dollars
+01000,Alabama,2022,state_real_gdp,239846.6,Millions of chained 2017 dollars
+01000,Alabama,2023,state_real_gdp,248313.7,Millions of chained 2017 dollars
+01000,Alabama,2024,state_real_gdp,255629.4,Millions of chained 2017 dollars
+01000,Alabama,2020,state_current_gdp,235859,Millions of current dollars
+01000,Alabama,2021,state_current_gdp,260325,Millions of current dollars
+01000,Alabama,2022,state_current_gdp,286873.3,Millions of current dollars
+01000,Alabama,2023,state_current_gdp,309543.8,Millions of current dollars
+01000,Alabama,2024,state_current_gdp,325345.1,Millions of current dollars
+02000,Alaska,2020,state_real_gdp,50901.3,Millions of chained 2017 dollars
+02000,Alaska,2021,state_real_gdp,51764,Millions of chained 2017 dollars
+02000,Alaska,2022,state_real_gdp,50509.1,Millions of chained 2017 dollars
+02000,Alaska,2023,state_real_gdp,54183.8,Millions of chained 2017 dollars
+02000,Alaska,2024,state_real_gdp,55945.7,Millions of chained 2017 dollars
+02000,Alaska,2020,state_current_gdp,51861.7,Millions of current dollars
+02000,Alaska,2021,state_current_gdp,59363,Millions of current dollars
+02000,Alaska,2022,state_current_gdp,65682.5,Millions of current dollars
+02000,Alaska,2023,state_current_gdp,68232.7,Millions of current dollars
+02000,Alaska,2024,state_current_gdp,71567.2,Millions of current dollars
+04000,Arizona,2020,state_real_gdp,366588,Millions of chained 2017 dollars
+04000,Arizona,2021,state_real_gdp,396457.5,Millions of chained 2017 dollars
+04000,Arizona,2022,state_real_gdp,413798.8,Millions of chained 2017 dollars
+04000,Arizona,2023,state_real_gdp,427644,Millions of chained 2017 dollars
+04000,Arizona,2024,state_real_gdp,446968.2,Millions of chained 2017 dollars
+04000,Arizona,2020,state_current_gdp,390503.2,Millions of current dollars
+04000,Arizona,2021,state_current_gdp,438136,Millions of current dollars
+04000,Arizona,2022,state_current_gdp,488722.2,Millions of current dollars
+04000,Arizona,2023,state_current_gdp,530105,Millions of current dollars
+04000,Arizona,2024,state_current_gdp,570088.6,Millions of current dollars
+05000,Arkansas,2020,state_real_gdp,128395.6,Millions of chained 2017 dollars
+05000,Arkansas,2021,state_real_gdp,137634.8,Millions of chained 2017 dollars
+05000,Arkansas,2022,state_real_gdp,138672,Millions of chained 2017 dollars
+05000,Arkansas,2023,state_real_gdp,141968,Millions of chained 2017 dollars
+05000,Arkansas,2024,state_real_gdp,147389.9,Millions of chained 2017 dollars
+05000,Arkansas,2020,state_current_gdp,136145.9,Millions of current dollars
+05000,Arkansas,2021,state_current_gdp,154261.8,Millions of current dollars
+05000,Arkansas,2022,state_current_gdp,167863.5,Millions of current dollars
+05000,Arkansas,2023,state_current_gdp,178114.8,Millions of current dollars
+05000,Arkansas,2024,state_current_gdp,188339.6,Millions of current dollars
+06000,California,2020,state_real_gdp,2930654.6,Millions of chained 2017 dollars
+06000,California,2021,state_real_gdp,3151112.5,Millions of chained 2017 dollars
+06000,California,2022,state_real_gdp,3147211.4,Millions of chained 2017 dollars
+06000,California,2023,state_real_gdp,3204016.4,Millions of chained 2017 dollars
+06000,California,2024,state_real_gdp,3306928.6,Millions of chained 2017 dollars
+06000,California,2020,state_current_gdp,3072927.6,Millions of current dollars
+06000,California,2021,state_current_gdp,3418256.1,Millions of current dollars
+06000,California,2022,state_current_gdp,3618289.7,Millions of current dollars
+06000,California,2023,state_current_gdp,3827007.3,Millions of current dollars
+06000,California,2024,state_current_gdp,4048108.1,Millions of current dollars
+08000,Colorado,2020,state_real_gdp,380544,Millions of chained 2017 dollars
+08000,Colorado,2021,state_real_gdp,406309.2,Millions of chained 2017 dollars
+08000,Colorado,2022,state_real_gdp,422576.1,Millions of chained 2017 dollars
+08000,Colorado,2023,state_real_gdp,440225.2,Millions of chained 2017 dollars
+08000,Colorado,2024,state_real_gdp,448838.5,Millions of chained 2017 dollars
+08000,Colorado,2020,state_current_gdp,396981.1,Millions of current dollars
+08000,Colorado,2021,state_current_gdp,445781.3,Millions of current dollars
+08000,Colorado,2022,state_current_gdp,499197.4,Millions of current dollars
+08000,Colorado,2023,state_current_gdp,533268.6,Millions of current dollars
+08000,Colorado,2024,state_current_gdp,557633,Millions of current dollars
+09000,Connecticut,2020,state_real_gdp,261737.1,Millions of chained 2017 dollars
+09000,Connecticut,2021,state_real_gdp,270779.8,Millions of chained 2017 dollars
+09000,Connecticut,2022,state_real_gdp,279348.5,Millions of chained 2017 dollars
+09000,Connecticut,2023,state_real_gdp,283228.5,Millions of chained 2017 dollars
+09000,Connecticut,2024,state_real_gdp,286160.1,Millions of chained 2017 dollars
+09000,Connecticut,2020,state_current_gdp,278747.9,Millions of current dollars
+09000,Connecticut,2021,state_current_gdp,297366,Millions of current dollars
+09000,Connecticut,2022,state_current_gdp,321625.2,Millions of current dollars
+09000,Connecticut,2023,state_current_gdp,341851.8,Millions of current dollars
+09000,Connecticut,2024,state_current_gdp,356834.9,Millions of current dollars
+10000,Delaware,2020,state_real_gdp,72728.8,Millions of chained 2017 dollars
+10000,Delaware,2021,state_real_gdp,75205.5,Millions of chained 2017 dollars
+10000,Delaware,2022,state_real_gdp,81111.8,Millions of chained 2017 dollars
+10000,Delaware,2023,state_real_gdp,82090.9,Millions of chained 2017 dollars
+10000,Delaware,2024,state_real_gdp,85350.5,Millions of chained 2017 dollars
+10000,Delaware,2020,state_current_gdp,77757.2,Millions of current dollars
+10000,Delaware,2021,state_current_gdp,83554.7,Millions of current dollars
+10000,Delaware,2022,state_current_gdp,97030.4,Millions of current dollars
+10000,Delaware,2023,state_current_gdp,103332.5,Millions of current dollars
+10000,Delaware,2024,state_current_gdp,110971.8,Millions of current dollars
+11000,District of Columbia,2020,state_real_gdp,137828.9,Millions of chained 2017 dollars
+11000,District of Columbia,2021,state_real_gdp,143338.7,Millions of chained 2017 dollars
+11000,District of Columbia,2022,state_real_gdp,143050.8,Millions of chained 2017 dollars
+11000,District of Columbia,2023,state_real_gdp,143179.2,Millions of chained 2017 dollars
+11000,District of Columbia,2024,state_real_gdp,145088,Millions of chained 2017 dollars
+11000,District of Columbia,2020,state_current_gdp,146854.6,Millions of current dollars
+11000,District of Columbia,2021,state_current_gdp,156581.3,Millions of current dollars
+11000,District of Columbia,2022,state_current_gdp,165106.2,Millions of current dollars
+11000,District of Columbia,2023,state_current_gdp,174250.7,Millions of current dollars
+11000,District of Columbia,2024,state_current_gdp,184297.7,Millions of current dollars
+12000,Florida,2020,state_real_gdp,1072481.6,Millions of chained 2017 dollars
+12000,Florida,2021,state_real_gdp,1172655.3,Millions of chained 2017 dollars
+12000,Florida,2022,state_real_gdp,1245927.6,Millions of chained 2017 dollars
+12000,Florida,2023,state_real_gdp,1309392.2,Millions of chained 2017 dollars
+12000,Florida,2024,state_real_gdp,1352275.1,Millions of chained 2017 dollars
+12000,Florida,2020,state_current_gdp,1144653.2,Millions of current dollars
+12000,Florida,2021,state_current_gdp,1300807.8,Millions of current dollars
+12000,Florida,2022,state_current_gdp,1473688.1,Millions of current dollars
+12000,Florida,2023,state_current_gdp,1624642.3,Millions of current dollars
+12000,Florida,2024,state_current_gdp,1726709.9,Millions of current dollars
+13000,Georgia,2020,state_real_gdp,603202.5,Millions of chained 2017 dollars
+13000,Georgia,2021,state_real_gdp,643748.4,Millions of chained 2017 dollars
+13000,Georgia,2022,state_real_gdp,670107.2,Millions of chained 2017 dollars
+13000,Georgia,2023,state_real_gdp,679447.2,Millions of chained 2017 dollars
+13000,Georgia,2024,state_real_gdp,697450.9,Millions of chained 2017 dollars
+13000,Georgia,2020,state_current_gdp,638488.3,Millions of current dollars
+13000,Georgia,2021,state_current_gdp,706004.6,Millions of current dollars
+13000,Georgia,2022,state_current_gdp,785922.7,Millions of current dollars
+13000,Georgia,2023,state_current_gdp,835755.3,Millions of current dollars
+13000,Georgia,2024,state_current_gdp,881508.2,Millions of current dollars
+15000,Hawaii,2020,state_real_gdp,79696.8,Millions of chained 2017 dollars
+15000,Hawaii,2021,state_real_gdp,84532,Millions of chained 2017 dollars
+15000,Hawaii,2022,state_real_gdp,87491.2,Millions of chained 2017 dollars
+15000,Hawaii,2023,state_real_gdp,89642.2,Millions of chained 2017 dollars
+15000,Hawaii,2024,state_real_gdp,91878,Millions of chained 2017 dollars
+15000,Hawaii,2020,state_current_gdp,84788,Millions of current dollars
+15000,Hawaii,2021,state_current_gdp,93684.2,Millions of current dollars
+15000,Hawaii,2022,state_current_gdp,103954.5,Millions of current dollars
+15000,Hawaii,2023,state_current_gdp,111740.2,Millions of current dollars
+15000,Hawaii,2024,state_current_gdp,117627.4,Millions of current dollars
+16000,Idaho,2020,state_real_gdp,82711.6,Millions of chained 2017 dollars
+16000,Idaho,2021,state_real_gdp,88955.2,Millions of chained 2017 dollars
+16000,Idaho,2022,state_real_gdp,92792.5,Millions of chained 2017 dollars
+16000,Idaho,2023,state_real_gdp,95286.5,Millions of chained 2017 dollars
+16000,Idaho,2024,state_real_gdp,99567.3,Millions of chained 2017 dollars
+16000,Idaho,2020,state_current_gdp,88056.8,Millions of current dollars
+16000,Idaho,2021,state_current_gdp,99884.1,Millions of current dollars
+16000,Idaho,2022,state_current_gdp,112609.7,Millions of current dollars
+16000,Idaho,2023,state_current_gdp,120588.1,Millions of current dollars
+16000,Idaho,2024,state_current_gdp,129018.2,Millions of current dollars
+17000,Illinois,2020,state_real_gdp,810693.1,Millions of chained 2017 dollars
+17000,Illinois,2021,state_real_gdp,857114.6,Millions of chained 2017 dollars
+17000,Illinois,2022,state_real_gdp,872907.5,Millions of chained 2017 dollars
+17000,Illinois,2023,state_real_gdp,884965.3,Millions of chained 2017 dollars
+17000,Illinois,2024,state_real_gdp,899125.9,Millions of chained 2017 dollars
+17000,Illinois,2020,state_current_gdp,860807.8,Millions of current dollars
+17000,Illinois,2021,state_current_gdp,947223.9,Millions of current dollars
+17000,Illinois,2022,state_current_gdp,1037735.9,Millions of current dollars
+17000,Illinois,2023,state_current_gdp,1100794.1,Millions of current dollars
+17000,Illinois,2024,state_current_gdp,1148106.1,Millions of current dollars
+18000,Indiana,2020,state_real_gdp,359963.6,Millions of chained 2017 dollars
+18000,Indiana,2021,state_real_gdp,386872.8,Millions of chained 2017 dollars
+18000,Indiana,2022,state_real_gdp,393481.5,Millions of chained 2017 dollars
+18000,Indiana,2023,state_real_gdp,400369.5,Millions of chained 2017 dollars
+18000,Indiana,2024,state_real_gdp,412003.4,Millions of chained 2017 dollars
+18000,Indiana,2020,state_current_gdp,378293,Millions of current dollars
+18000,Indiana,2021,state_current_gdp,425270.9,Millions of current dollars
+18000,Indiana,2022,state_current_gdp,467679.6,Millions of current dollars
+18000,Indiana,2023,state_current_gdp,496849.5,Millions of current dollars
+18000,Indiana,2024,state_current_gdp,519516.5,Millions of current dollars
+19000,Iowa,2020,state_real_gdp,187261.7,Millions of chained 2017 dollars
+19000,Iowa,2021,state_real_gdp,202470.6,Millions of chained 2017 dollars
+19000,Iowa,2022,state_real_gdp,202672.5,Millions of chained 2017 dollars
+19000,Iowa,2023,state_real_gdp,201359.8,Millions of chained 2017 dollars
+19000,Iowa,2024,state_real_gdp,206438.9,Millions of chained 2017 dollars
+19000,Iowa,2020,state_current_gdp,199449.6,Millions of current dollars
+19000,Iowa,2021,state_current_gdp,225055.3,Millions of current dollars
+19000,Iowa,2022,state_current_gdp,244156.8,Millions of current dollars
+19000,Iowa,2023,state_current_gdp,253166.5,Millions of current dollars
+19000,Iowa,2024,state_current_gdp,265794.5,Millions of current dollars
+20000,Kansas,2020,state_real_gdp,166621.4,Millions of chained 2017 dollars
+20000,Kansas,2021,state_real_gdp,170401.2,Millions of chained 2017 dollars
+20000,Kansas,2022,state_real_gdp,177776.1,Millions of chained 2017 dollars
+20000,Kansas,2023,state_real_gdp,180267.5,Millions of chained 2017 dollars
+20000,Kansas,2024,state_real_gdp,181599.6,Millions of chained 2017 dollars
+20000,Kansas,2020,state_current_gdp,175385.6,Millions of current dollars
+20000,Kansas,2021,state_current_gdp,188993.3,Millions of current dollars
+20000,Kansas,2022,state_current_gdp,213368.8,Millions of current dollars
+20000,Kansas,2023,state_current_gdp,224851.3,Millions of current dollars
+20000,Kansas,2024,state_current_gdp,230522.1,Millions of current dollars
+21000,Kentucky,2020,state_real_gdp,206601.9,Millions of chained 2017 dollars
+21000,Kentucky,2021,state_real_gdp,215535,Millions of chained 2017 dollars
+21000,Kentucky,2022,state_real_gdp,220641.8,Millions of chained 2017 dollars
+21000,Kentucky,2023,state_real_gdp,226942.4,Millions of chained 2017 dollars
+21000,Kentucky,2024,state_real_gdp,230966.4,Millions of chained 2017 dollars
+21000,Kentucky,2020,state_current_gdp,218948.6,Millions of current dollars
+21000,Kentucky,2021,state_current_gdp,238693.7,Millions of current dollars
+21000,Kentucky,2022,state_current_gdp,262586.6,Millions of current dollars
+21000,Kentucky,2023,state_current_gdp,283267.7,Millions of current dollars
+21000,Kentucky,2024,state_current_gdp,295375.3,Millions of current dollars
+22000,Louisiana,2020,state_real_gdp,225636,Millions of chained 2017 dollars
+22000,Louisiana,2021,state_real_gdp,242582.1,Millions of chained 2017 dollars
+22000,Louisiana,2022,state_real_gdp,240043,Millions of chained 2017 dollars
+22000,Louisiana,2023,state_real_gdp,248949.4,Millions of chained 2017 dollars
+22000,Louisiana,2024,state_real_gdp,257055.9,Millions of chained 2017 dollars
+22000,Louisiana,2020,state_current_gdp,233652,Millions of current dollars
+22000,Louisiana,2021,state_current_gdp,273063.3,Millions of current dollars
+22000,Louisiana,2022,state_current_gdp,304299.3,Millions of current dollars
+22000,Louisiana,2023,state_current_gdp,318044.3,Millions of current dollars
+22000,Louisiana,2024,state_current_gdp,329172.8,Millions of current dollars
+23000,Maine,2020,state_real_gdp,67639.2,Millions of chained 2017 dollars
+23000,Maine,2021,state_real_gdp,71353.5,Millions of chained 2017 dollars
+23000,Maine,2022,state_real_gdp,72884.4,Millions of chained 2017 dollars
+23000,Maine,2023,state_real_gdp,75514,Millions of chained 2017 dollars
+23000,Maine,2024,state_real_gdp,77758.6,Millions of chained 2017 dollars
+23000,Maine,2020,state_current_gdp,72309.7,Millions of current dollars
+23000,Maine,2021,state_current_gdp,79407.6,Millions of current dollars
+23000,Maine,2022,state_current_gdp,86310.6,Millions of current dollars
+23000,Maine,2023,state_current_gdp,93743.8,Millions of current dollars
+23000,Maine,2024,state_current_gdp,99174.1,Millions of current dollars
+24000,Maryland,2020,state_real_gdp,389178.6,Millions of chained 2017 dollars
+24000,Maryland,2021,state_real_gdp,407160.1,Millions of chained 2017 dollars
+24000,Maryland,2022,state_real_gdp,412670.7,Millions of chained 2017 dollars
+24000,Maryland,2023,state_real_gdp,420558,Millions of chained 2017 dollars
+24000,Maryland,2024,state_real_gdp,433105.9,Millions of chained 2017 dollars
+24000,Maryland,2020,state_current_gdp,413804.5,Millions of current dollars
+24000,Maryland,2021,state_current_gdp,447714.3,Millions of current dollars
+24000,Maryland,2022,state_current_gdp,481861.4,Millions of current dollars
+24000,Maryland,2023,state_current_gdp,515035.9,Millions of current dollars
+24000,Maryland,2024,state_current_gdp,546028.4,Millions of current dollars
+25000,Massachusetts,2020,state_real_gdp,560395.8,Millions of chained 2017 dollars
+25000,Massachusetts,2021,state_real_gdp,597420,Millions of chained 2017 dollars
+25000,Massachusetts,2022,state_real_gdp,607470.6,Millions of chained 2017 dollars
+25000,Massachusetts,2023,state_real_gdp,614786.1,Millions of chained 2017 dollars
+25000,Massachusetts,2024,state_real_gdp,628786.9,Millions of chained 2017 dollars
+25000,Massachusetts,2020,state_current_gdp,592855.5,Millions of current dollars
+25000,Massachusetts,2021,state_current_gdp,650308.8,Millions of current dollars
+25000,Massachusetts,2022,state_current_gdp,696323.1,Millions of current dollars
+25000,Massachusetts,2023,state_current_gdp,737867.4,Millions of current dollars
+25000,Massachusetts,2024,state_current_gdp,778523.4,Millions of current dollars
+26000,Michigan,2020,state_real_gdp,502622.3,Millions of chained 2017 dollars
+26000,Michigan,2021,state_real_gdp,528701.8,Millions of chained 2017 dollars
+26000,Michigan,2022,state_real_gdp,539807.5,Millions of chained 2017 dollars
+26000,Michigan,2023,state_real_gdp,554556.2,Millions of chained 2017 dollars
+26000,Michigan,2024,state_real_gdp,562177.6,Millions of chained 2017 dollars
+26000,Michigan,2020,state_current_gdp,530161.3,Millions of current dollars
+26000,Michigan,2021,state_current_gdp,573329.4,Millions of current dollars
+26000,Michigan,2022,state_current_gdp,624173.2,Millions of current dollars
+26000,Michigan,2023,state_current_gdp,676030.8,Millions of current dollars
+26000,Michigan,2024,state_current_gdp,702466.9,Millions of current dollars
+27000,Minnesota,2020,state_real_gdp,357831.5,Millions of chained 2017 dollars
+27000,Minnesota,2021,state_real_gdp,377975.8,Millions of chained 2017 dollars
+27000,Minnesota,2022,state_real_gdp,385921.8,Millions of chained 2017 dollars
+27000,Minnesota,2023,state_real_gdp,389864.5,Millions of chained 2017 dollars
+27000,Minnesota,2024,state_real_gdp,399253.3,Millions of chained 2017 dollars
+27000,Minnesota,2020,state_current_gdp,378969.4,Millions of current dollars
+27000,Minnesota,2021,state_current_gdp,416141.9,Millions of current dollars
+27000,Minnesota,2022,state_current_gdp,457393.8,Millions of current dollars
+27000,Minnesota,2023,state_current_gdp,483222,Millions of current dollars
+27000,Minnesota,2024,state_current_gdp,507687.8,Millions of current dollars
+28000,Mississippi,2020,state_real_gdp,111195,Millions of chained 2017 dollars
+28000,Mississippi,2021,state_real_gdp,116078.4,Millions of chained 2017 dollars
+28000,Mississippi,2022,state_real_gdp,115700.3,Millions of chained 2017 dollars
+28000,Mississippi,2023,state_real_gdp,119454.2,Millions of chained 2017 dollars
+28000,Mississippi,2024,state_real_gdp,123419.3,Millions of chained 2017 dollars
+28000,Mississippi,2020,state_current_gdp,117441.6,Millions of current dollars
+28000,Mississippi,2021,state_current_gdp,130404.6,Millions of current dollars
+28000,Mississippi,2022,state_current_gdp,141724.2,Millions of current dollars
+28000,Mississippi,2023,state_current_gdp,151511.9,Millions of current dollars
+28000,Mississippi,2024,state_current_gdp,158192.4,Millions of current dollars
+29000,Missouri,2020,state_real_gdp,316158.6,Millions of chained 2017 dollars
+29000,Missouri,2021,state_real_gdp,331578,Millions of chained 2017 dollars
+29000,Missouri,2022,state_real_gdp,337225.4,Millions of chained 2017 dollars
+29000,Missouri,2023,state_real_gdp,346895.3,Millions of chained 2017 dollars
+29000,Missouri,2024,state_real_gdp,353307.4,Millions of chained 2017 dollars
+29000,Missouri,2020,state_current_gdp,335970.8,Millions of current dollars
+29000,Missouri,2021,state_current_gdp,366193.1,Millions of current dollars
+29000,Missouri,2022,state_current_gdp,397536.9,Millions of current dollars
+29000,Missouri,2023,state_current_gdp,428887.3,Millions of current dollars
+29000,Missouri,2024,state_current_gdp,448713.7,Millions of current dollars
+30000,Montana,2020,state_real_gdp,50062.9,Millions of chained 2017 dollars
+30000,Montana,2021,state_real_gdp,53345.9,Millions of chained 2017 dollars
+30000,Montana,2022,state_real_gdp,55806.9,Millions of chained 2017 dollars
+30000,Montana,2023,state_real_gdp,58604.9,Millions of chained 2017 dollars
+30000,Montana,2024,state_real_gdp,60605.7,Millions of chained 2017 dollars
+30000,Montana,2020,state_current_gdp,53057.3,Millions of current dollars
+30000,Montana,2021,state_current_gdp,60314.8,Millions of current dollars
+30000,Montana,2022,state_current_gdp,69087.8,Millions of current dollars
+30000,Montana,2023,state_current_gdp,74690.3,Millions of current dollars
+30000,Montana,2024,state_current_gdp,78441,Millions of current dollars
+31000,Nebraska,2020,state_real_gdp,126711.2,Millions of chained 2017 dollars
+31000,Nebraska,2021,state_real_gdp,135166.4,Millions of chained 2017 dollars
+31000,Nebraska,2022,state_real_gdp,139878.1,Millions of chained 2017 dollars
+31000,Nebraska,2023,state_real_gdp,147146.5,Millions of chained 2017 dollars
+31000,Nebraska,2024,state_real_gdp,148102.8,Millions of chained 2017 dollars
+31000,Nebraska,2020,state_current_gdp,135014.5,Millions of current dollars
+31000,Nebraska,2021,state_current_gdp,150952.5,Millions of current dollars
+31000,Nebraska,2022,state_current_gdp,167840.2,Millions of current dollars
+31000,Nebraska,2023,state_current_gdp,183780.9,Millions of current dollars
+31000,Nebraska,2024,state_current_gdp,189242.7,Millions of current dollars
+32000,Nevada,2020,state_real_gdp,165924.8,Millions of chained 2017 dollars
+32000,Nevada,2021,state_real_gdp,182618.3,Millions of chained 2017 dollars
+32000,Nevada,2022,state_real_gdp,194463.9,Millions of chained 2017 dollars
+32000,Nevada,2023,state_real_gdp,201158.6,Millions of chained 2017 dollars
+32000,Nevada,2024,state_real_gdp,207351.9,Millions of chained 2017 dollars
+32000,Nevada,2020,state_current_gdp,176178.7,Millions of current dollars
+32000,Nevada,2021,state_current_gdp,202091.8,Millions of current dollars
+32000,Nevada,2022,state_current_gdp,232437.9,Millions of current dollars
+32000,Nevada,2023,state_current_gdp,253443.3,Millions of current dollars
+32000,Nevada,2024,state_current_gdp,269010.5,Millions of current dollars
+33000,New Hampshire,2020,state_real_gdp,83682.9,Millions of chained 2017 dollars
+33000,New Hampshire,2021,state_real_gdp,90296.7,Millions of chained 2017 dollars
+33000,New Hampshire,2022,state_real_gdp,91702.1,Millions of chained 2017 dollars
+33000,New Hampshire,2023,state_real_gdp,93645.8,Millions of chained 2017 dollars
+33000,New Hampshire,2024,state_real_gdp,94926,Millions of chained 2017 dollars
+33000,New Hampshire,2020,state_current_gdp,89041.6,Millions of current dollars
+33000,New Hampshire,2021,state_current_gdp,99433.3,Millions of current dollars
+33000,New Hampshire,2022,state_current_gdp,106824.6,Millions of current dollars
+33000,New Hampshire,2023,state_current_gdp,114427.8,Millions of current dollars
+33000,New Hampshire,2024,state_current_gdp,119336.6,Millions of current dollars
+34000,New Jersey,2020,state_real_gdp,598481.3,Millions of chained 2017 dollars
+34000,New Jersey,2021,state_real_gdp,631158.3,Millions of chained 2017 dollars
+34000,New Jersey,2022,state_real_gdp,648512.4,Millions of chained 2017 dollars
+34000,New Jersey,2023,state_real_gdp,662320.1,Millions of chained 2017 dollars
+34000,New Jersey,2024,state_real_gdp,675897.6,Millions of chained 2017 dollars
+34000,New Jersey,2020,state_current_gdp,632562.3,Millions of current dollars
+34000,New Jersey,2021,state_current_gdp,693733.8,Millions of current dollars
+34000,New Jersey,2022,state_current_gdp,756465.6,Millions of current dollars
+34000,New Jersey,2023,state_current_gdp,806894,Millions of current dollars
+34000,New Jersey,2024,state_current_gdp,846000.4,Millions of current dollars
+35000,New Mexico,2020,state_real_gdp,98004,Millions of chained 2017 dollars
+35000,New Mexico,2021,state_real_gdp,101499.2,Millions of chained 2017 dollars
+35000,New Mexico,2022,state_real_gdp,104212.8,Millions of chained 2017 dollars
+35000,New Mexico,2023,state_real_gdp,114059.2,Millions of chained 2017 dollars
+35000,New Mexico,2024,state_real_gdp,119044.5,Millions of chained 2017 dollars
+35000,New Mexico,2020,state_current_gdp,101035.5,Millions of current dollars
+35000,New Mexico,2021,state_current_gdp,113781.7,Millions of current dollars
+35000,New Mexico,2022,state_current_gdp,129469.1,Millions of current dollars
+35000,New Mexico,2023,state_current_gdp,138526,Millions of current dollars
+35000,New Mexico,2024,state_current_gdp,147084.9,Millions of current dollars
+36000,New York,2020,state_real_gdp,1667234.8,Millions of chained 2017 dollars
+36000,New York,2021,state_real_gdp,1750551.2,Millions of chained 2017 dollars
+36000,New York,2022,state_real_gdp,1781554.1,Millions of chained 2017 dollars
+36000,New York,2023,state_real_gdp,1793384.5,Millions of chained 2017 dollars
+36000,New York,2024,state_real_gdp,1840059.3,Millions of chained 2017 dollars
+36000,New York,2020,state_current_gdp,1782502.4,Millions of current dollars
+36000,New York,2021,state_current_gdp,1934524,Millions of current dollars
+36000,New York,2022,state_current_gdp,2071075.2,Millions of current dollars
+36000,New York,2023,state_current_gdp,2182549,Millions of current dollars
+36000,New York,2024,state_current_gdp,2322138.9,Millions of current dollars
+37000,North Carolina,2020,state_real_gdp,564278.8,Millions of chained 2017 dollars
+37000,North Carolina,2021,state_real_gdp,599293.8,Millions of chained 2017 dollars
+37000,North Carolina,2022,state_real_gdp,620666.5,Millions of chained 2017 dollars
+37000,North Carolina,2023,state_real_gdp,643045.8,Millions of chained 2017 dollars
+37000,North Carolina,2024,state_real_gdp,664131.6,Millions of chained 2017 dollars
+37000,North Carolina,2020,state_current_gdp,600226.9,Millions of current dollars
+37000,North Carolina,2021,state_current_gdp,660804.7,Millions of current dollars
+37000,North Carolina,2022,state_current_gdp,729761.9,Millions of current dollars
+37000,North Carolina,2023,state_current_gdp,794838,Millions of current dollars
+37000,North Carolina,2024,state_current_gdp,844209,Millions of current dollars
+38000,North Dakota,2020,state_real_gdp,56602.8,Millions of chained 2017 dollars
+38000,North Dakota,2021,state_real_gdp,57351.3,Millions of chained 2017 dollars
+38000,North Dakota,2022,state_real_gdp,57031.1,Millions of chained 2017 dollars
+38000,North Dakota,2023,state_real_gdp,62114.7,Millions of chained 2017 dollars
+38000,North Dakota,2024,state_real_gdp,63366.4,Millions of chained 2017 dollars
+38000,North Dakota,2020,state_current_gdp,56321.4,Millions of current dollars
+38000,North Dakota,2021,state_current_gdp,64830,Millions of current dollars
+38000,North Dakota,2022,state_current_gdp,75052.1,Millions of current dollars
+38000,North Dakota,2023,state_current_gdp,77898.1,Millions of current dollars
+38000,North Dakota,2024,state_current_gdp,80058.3,Millions of current dollars
+39000,Ohio,2020,state_real_gdp,655730.1,Millions of chained 2017 dollars
+39000,Ohio,2021,state_real_gdp,691630,Millions of chained 2017 dollars
+39000,Ohio,2022,state_real_gdp,694473.4,Millions of chained 2017 dollars
+39000,Ohio,2023,state_real_gdp,707996.2,Millions of chained 2017 dollars
+39000,Ohio,2024,state_real_gdp,721997.3,Millions of chained 2017 dollars
+39000,Ohio,2020,state_current_gdp,692938.3,Millions of current dollars
+39000,Ohio,2021,state_current_gdp,764161.4,Millions of current dollars
+39000,Ohio,2022,state_current_gdp,830498.8,Millions of current dollars
+39000,Ohio,2023,state_current_gdp,883957.1,Millions of current dollars
+39000,Ohio,2024,state_current_gdp,923140.6,Millions of current dollars
+40000,Oklahoma,2020,state_real_gdp,191377,Millions of chained 2017 dollars
+40000,Oklahoma,2021,state_real_gdp,194991.2,Millions of chained 2017 dollars
+40000,Oklahoma,2022,state_real_gdp,194170.9,Millions of chained 2017 dollars
+40000,Oklahoma,2023,state_real_gdp,207072.7,Millions of chained 2017 dollars
+40000,Oklahoma,2024,state_real_gdp,210315.9,Millions of chained 2017 dollars
+40000,Oklahoma,2020,state_current_gdp,192222,Millions of current dollars
+40000,Oklahoma,2021,state_current_gdp,219132.4,Millions of current dollars
+40000,Oklahoma,2022,state_current_gdp,247541.5,Millions of current dollars
+40000,Oklahoma,2023,state_current_gdp,255933.2,Millions of current dollars
+40000,Oklahoma,2024,state_current_gdp,263695.1,Millions of current dollars
+41000,Oregon,2020,state_real_gdp,236651.4,Millions of chained 2017 dollars
+41000,Oregon,2021,state_real_gdp,250919.9,Millions of chained 2017 dollars
+41000,Oregon,2022,state_real_gdp,254237.5,Millions of chained 2017 dollars
+41000,Oregon,2023,state_real_gdp,258023.4,Millions of chained 2017 dollars
+41000,Oregon,2024,state_real_gdp,263347.7,Millions of chained 2017 dollars
+41000,Oregon,2020,state_current_gdp,250660.6,Millions of current dollars
+41000,Oregon,2021,state_current_gdp,276367.7,Millions of current dollars
+41000,Oregon,2022,state_current_gdp,297084.3,Millions of current dollars
+41000,Oregon,2023,state_current_gdp,314895,Millions of current dollars
+41000,Oregon,2024,state_current_gdp,330250.1,Millions of current dollars
+42000,Pennsylvania,2020,state_real_gdp,738176.1,Millions of chained 2017 dollars
+42000,Pennsylvania,2021,state_real_gdp,766140,Millions of chained 2017 dollars
+42000,Pennsylvania,2022,state_real_gdp,776824.7,Millions of chained 2017 dollars
+42000,Pennsylvania,2023,state_real_gdp,789918.5,Millions of chained 2017 dollars
+42000,Pennsylvania,2024,state_real_gdp,803232.5,Millions of chained 2017 dollars
+42000,Pennsylvania,2020,state_current_gdp,778297.2,Millions of current dollars
+42000,Pennsylvania,2021,state_current_gdp,844875.5,Millions of current dollars
+42000,Pennsylvania,2022,state_current_gdp,916861.7,Millions of current dollars
+42000,Pennsylvania,2023,state_current_gdp,966444,Millions of current dollars
+42000,Pennsylvania,2024,state_current_gdp,1007873.9,Millions of current dollars
+44000,Rhode Island,2020,state_real_gdp,58132.3,Millions of chained 2017 dollars
+44000,Rhode Island,2021,state_real_gdp,60660,Millions of chained 2017 dollars
+44000,Rhode Island,2022,state_real_gdp,61517.3,Millions of chained 2017 dollars
+44000,Rhode Island,2023,state_real_gdp,62119.3,Millions of chained 2017 dollars
+44000,Rhode Island,2024,state_real_gdp,63459.1,Millions of chained 2017 dollars
+44000,Rhode Island,2020,state_current_gdp,61980.9,Millions of current dollars
+44000,Rhode Island,2021,state_current_gdp,67060,Millions of current dollars
+44000,Rhode Island,2022,state_current_gdp,71978.2,Millions of current dollars
+44000,Rhode Island,2023,state_current_gdp,76313.5,Millions of current dollars
+44000,Rhode Island,2024,state_current_gdp,80381.1,Millions of current dollars
+45000,South Carolina,2020,state_real_gdp,233294.4,Millions of chained 2017 dollars
+45000,South Carolina,2021,state_real_gdp,245812,Millions of chained 2017 dollars
+45000,South Carolina,2022,state_real_gdp,256608.5,Millions of chained 2017 dollars
+45000,South Carolina,2023,state_real_gdp,266037.8,Millions of chained 2017 dollars
+45000,South Carolina,2024,state_real_gdp,278032.8,Millions of chained 2017 dollars
+45000,South Carolina,2020,state_current_gdp,248952.7,Millions of current dollars
+45000,South Carolina,2021,state_current_gdp,272464.9,Millions of current dollars
+45000,South Carolina,2022,state_current_gdp,305070,Millions of current dollars
+45000,South Carolina,2023,state_current_gdp,332946.8,Millions of current dollars
+45000,South Carolina,2024,state_current_gdp,357074.4,Millions of current dollars
+46000,South Dakota,2020,state_real_gdp,53349.2,Millions of chained 2017 dollars
+46000,South Dakota,2021,state_real_gdp,56015.4,Millions of chained 2017 dollars
+46000,South Dakota,2022,state_real_gdp,55257.2,Millions of chained 2017 dollars
+46000,South Dakota,2023,state_real_gdp,57253,Millions of chained 2017 dollars
+46000,South Dakota,2024,state_real_gdp,57718,Millions of chained 2017 dollars
+46000,South Dakota,2020,state_current_gdp,56847.3,Millions of current dollars
+46000,South Dakota,2021,state_current_gdp,63337.7,Millions of current dollars
+46000,South Dakota,2022,state_current_gdp,69425.6,Millions of current dollars
+46000,South Dakota,2023,state_current_gdp,74458.8,Millions of current dollars
+46000,South Dakota,2024,state_current_gdp,76795.8,Millions of current dollars
+47000,Tennessee,2020,state_real_gdp,368057,Millions of chained 2017 dollars
+47000,Tennessee,2021,state_real_gdp,401673.7,Millions of chained 2017 dollars
+47000,Tennessee,2022,state_real_gdp,415451.6,Millions of chained 2017 dollars
+47000,Tennessee,2023,state_real_gdp,428276.1,Millions of chained 2017 dollars
+47000,Tennessee,2024,state_real_gdp,440200.2,Millions of chained 2017 dollars
+47000,Tennessee,2020,state_current_gdp,391588.6,Millions of current dollars
+47000,Tennessee,2021,state_current_gdp,443419.7,Millions of current dollars
+47000,Tennessee,2022,state_current_gdp,490587,Millions of current dollars
+47000,Tennessee,2023,state_current_gdp,531246.8,Millions of current dollars
+47000,Tennessee,2024,state_current_gdp,561201.2,Millions of current dollars
+48000,Texas,2020,state_real_gdp,1782738.2,Millions of chained 2017 dollars
+48000,Texas,2021,state_real_gdp,1905512.4,Millions of chained 2017 dollars
+48000,Texas,2022,state_real_gdp,1975164,Millions of chained 2017 dollars
+48000,Texas,2023,state_real_gdp,2137536.7,Millions of chained 2017 dollars
+48000,Texas,2024,state_real_gdp,2221943.3,Millions of chained 2017 dollars
+48000,Texas,2020,state_current_gdp,1810670.2,Millions of current dollars
+48000,Texas,2021,state_current_gdp,2117013.7,Millions of current dollars
+48000,Texas,2022,state_current_gdp,2476903.2,Millions of current dollars
+48000,Texas,2023,state_current_gdp,2637237.6,Millions of current dollars
+48000,Texas,2024,state_current_gdp,2769766.2,Millions of current dollars
+49000,Utah,2020,state_real_gdp,195323.2,Millions of chained 2017 dollars
+49000,Utah,2021,state_real_gdp,211289.5,Millions of chained 2017 dollars
+49000,Utah,2022,state_real_gdp,217848.8,Millions of chained 2017 dollars
+49000,Utah,2023,state_real_gdp,226322.1,Millions of chained 2017 dollars
+49000,Utah,2024,state_real_gdp,234300.6,Millions of chained 2017 dollars
+49000,Utah,2020,state_current_gdp,206240.5,Millions of current dollars
+49000,Utah,2021,state_current_gdp,233320.9,Millions of current dollars
+49000,Utah,2022,state_current_gdp,261548.5,Millions of current dollars
+49000,Utah,2023,state_current_gdp,283230.8,Millions of current dollars
+49000,Utah,2024,state_current_gdp,299471.3,Millions of current dollars
+50000,Vermont,2020,state_real_gdp,32408.7,Millions of chained 2017 dollars
+50000,Vermont,2021,state_real_gdp,33584.3,Millions of chained 2017 dollars
+50000,Vermont,2022,state_real_gdp,34915.9,Millions of chained 2017 dollars
+50000,Vermont,2023,state_real_gdp,35499.4,Millions of chained 2017 dollars
+50000,Vermont,2024,state_real_gdp,36398.9,Millions of chained 2017 dollars
+50000,Vermont,2020,state_current_gdp,34572.3,Millions of current dollars
+50000,Vermont,2021,state_current_gdp,37290.8,Millions of current dollars
+50000,Vermont,2022,state_current_gdp,41211.2,Millions of current dollars
+50000,Vermont,2023,state_current_gdp,43931.6,Millions of current dollars
+50000,Vermont,2024,state_current_gdp,46276.1,Millions of current dollars
+51000,Virginia,2020,state_real_gdp,535224.4,Millions of chained 2017 dollars
+51000,Virginia,2021,state_real_gdp,565790.7,Millions of chained 2017 dollars
+51000,Virginia,2022,state_real_gdp,579301.8,Millions of chained 2017 dollars
+51000,Virginia,2023,state_real_gdp,599261,Millions of chained 2017 dollars
+51000,Virginia,2024,state_real_gdp,613708.7,Millions of chained 2017 dollars
+51000,Virginia,2020,state_current_gdp,566101.5,Millions of current dollars
+51000,Virginia,2021,state_current_gdp,616187.9,Millions of current dollars
+51000,Virginia,2022,state_current_gdp,665624.7,Millions of current dollars
+51000,Virginia,2023,state_current_gdp,722767.4,Millions of current dollars
+51000,Virginia,2024,state_current_gdp,761733.8,Millions of current dollars
+53000,Washington,2020,state_real_gdp,587167.8,Millions of chained 2017 dollars
+53000,Washington,2021,state_real_gdp,626122.2,Millions of chained 2017 dollars
+53000,Washington,2022,state_real_gdp,643017.6,Millions of chained 2017 dollars
+53000,Washington,2023,state_real_gdp,670977.8,Millions of chained 2017 dollars
+53000,Washington,2024,state_real_gdp,702232.3,Millions of chained 2017 dollars
+53000,Washington,2020,state_current_gdp,617739.1,Millions of current dollars
+53000,Washington,2021,state_current_gdp,683367,Millions of current dollars
+53000,Washington,2022,state_current_gdp,741002.8,Millions of current dollars
+53000,Washington,2023,state_current_gdp,801455.5,Millions of current dollars
+53000,Washington,2024,state_current_gdp,856013.6,Millions of current dollars
+54000,West Virginia,2020,state_real_gdp,74729.6,Millions of chained 2017 dollars
+54000,West Virginia,2021,state_real_gdp,76230.8,Millions of chained 2017 dollars
+54000,West Virginia,2022,state_real_gdp,77549.1,Millions of chained 2017 dollars
+54000,West Virginia,2023,state_real_gdp,80364.9,Millions of chained 2017 dollars
+54000,West Virginia,2024,state_real_gdp,82716.5,Millions of chained 2017 dollars
+54000,West Virginia,2020,state_current_gdp,77536.5,Millions of current dollars
+54000,West Virginia,2021,state_current_gdp,87178.8,Millions of current dollars
+54000,West Virginia,2022,state_current_gdp,98824.1,Millions of current dollars
+54000,West Virginia,2023,state_current_gdp,101479.9,Millions of current dollars
+54000,West Virginia,2024,state_current_gdp,106475.1,Millions of current dollars
+55000,Wisconsin,2020,state_real_gdp,324014.4,Millions of chained 2017 dollars
+55000,Wisconsin,2021,state_real_gdp,334848.6,Millions of chained 2017 dollars
+55000,Wisconsin,2022,state_real_gdp,341875.2,Millions of chained 2017 dollars
+55000,Wisconsin,2023,state_real_gdp,347108.2,Millions of chained 2017 dollars
+55000,Wisconsin,2024,state_real_gdp,354382.1,Millions of chained 2017 dollars
+55000,Wisconsin,2020,state_current_gdp,344691,Millions of current dollars
+55000,Wisconsin,2021,state_current_gdp,368997.3,Millions of current dollars
+55000,Wisconsin,2022,state_current_gdp,403570.3,Millions of current dollars
+55000,Wisconsin,2023,state_current_gdp,431913.9,Millions of current dollars
+55000,Wisconsin,2024,state_current_gdp,453298.6,Millions of current dollars
+56000,Wyoming,2020,state_real_gdp,36463.5,Millions of chained 2017 dollars
+56000,Wyoming,2021,state_real_gdp,37182.6,Millions of chained 2017 dollars
+56000,Wyoming,2022,state_real_gdp,37690.6,Millions of chained 2017 dollars
+56000,Wyoming,2023,state_real_gdp,39843.2,Millions of chained 2017 dollars
+56000,Wyoming,2024,state_real_gdp,39780.7,Millions of chained 2017 dollars
+56000,Wyoming,2020,state_current_gdp,36982.7,Millions of current dollars
+56000,Wyoming,2021,state_current_gdp,42410.6,Millions of current dollars
+56000,Wyoming,2022,state_current_gdp,49570.4,Millions of current dollars
+56000,Wyoming,2023,state_current_gdp,51350.1,Millions of current dollars
+56000,Wyoming,2024,state_current_gdp,51498.1,Millions of current dollars
+91000,New England,2020,state_real_gdp,1063954.5,Millions of chained 2017 dollars
+91000,New England,2021,state_real_gdp,1124003.9,Millions of chained 2017 dollars
+91000,New England,2022,state_real_gdp,1147761.8,Millions of chained 2017 dollars
+91000,New England,2023,state_real_gdp,1164771.4,Millions of chained 2017 dollars
+91000,New England,2024,state_real_gdp,1187475.7,Millions of chained 2017 dollars
+91000,New England,2020,state_current_gdp,1129507.8,Millions of current dollars
+91000,New England,2021,state_current_gdp,1230866.5,Millions of current dollars
+91000,New England,2022,state_current_gdp,1324272.9,Millions of current dollars
+91000,New England,2023,state_current_gdp,1408135.9,Millions of current dollars
+91000,New England,2024,state_current_gdp,1480526.3,Millions of current dollars
+92000,Mideast,2020,state_real_gdp,3603890.4,Millions of chained 2017 dollars
+92000,Mideast,2021,state_real_gdp,3773854.7,Millions of chained 2017 dollars
+92000,Mideast,2022,state_real_gdp,3844101.8,Millions of chained 2017 dollars
+92000,Mideast,2023,state_real_gdp,3891908.8,Millions of chained 2017 dollars
+92000,Mideast,2024,state_real_gdp,3983256.3,Millions of chained 2017 dollars
+92000,Mideast,2020,state_current_gdp,3831778.2,Millions of current dollars
+92000,Mideast,2021,state_current_gdp,4160983.6,Millions of current dollars
+92000,Mideast,2022,state_current_gdp,4488400.5,Millions of current dollars
+92000,Mideast,2023,state_current_gdp,4748506.1,Millions of current dollars
+92000,Mideast,2024,state_current_gdp,5017311.1,Millions of current dollars
+93000,Great Lakes,2020,state_real_gdp,2652982,Millions of chained 2017 dollars
+93000,Great Lakes,2021,state_real_gdp,2799091.2,Millions of chained 2017 dollars
+93000,Great Lakes,2022,state_real_gdp,2842363.1,Millions of chained 2017 dollars
+93000,Great Lakes,2023,state_real_gdp,2894707,Millions of chained 2017 dollars
+93000,Great Lakes,2024,state_real_gdp,2949425.1,Millions of chained 2017 dollars
+93000,Great Lakes,2020,state_current_gdp,2806891.4,Millions of current dollars
+93000,Great Lakes,2021,state_current_gdp,3078983,Millions of current dollars
+93000,Great Lakes,2022,state_current_gdp,3363657.8,Millions of current dollars
+93000,Great Lakes,2023,state_current_gdp,3589545.5,Millions of current dollars
+93000,Great Lakes,2024,state_current_gdp,3746528.7,Millions of current dollars
+94000,Plains,2020,state_real_gdp,1264636.4,Millions of chained 2017 dollars
+94000,Plains,2021,state_real_gdp,1331115.3,Millions of chained 2017 dollars
+94000,Plains,2022,state_real_gdp,1355755.4,Millions of chained 2017 dollars
+94000,Plains,2023,state_real_gdp,1385171.3,Millions of chained 2017 dollars
+94000,Plains,2024,state_real_gdp,1410039.7,Millions of chained 2017 dollars
+94000,Plains,2020,state_current_gdp,1337958.6,Millions of current dollars
+94000,Plains,2021,state_current_gdp,1475503.8,Millions of current dollars
+94000,Plains,2022,state_current_gdp,1624774.2,Millions of current dollars
+94000,Plains,2023,state_current_gdp,1726264.9,Millions of current dollars
+94000,Plains,2024,state_current_gdp,1798814.8,Millions of current dollars
+95000,Southeast,2020,state_real_gdp,4346302.6,Millions of chained 2017 dollars
+95000,Southeast,2021,state_real_gdp,4651307.2,Millions of chained 2017 dollars
+95000,Southeast,2022,state_real_gdp,4820170.1,Millions of chained 2017 dollars
+95000,Southeast,2023,state_real_gdp,4991252,Millions of chained 2017 dollars
+95000,Southeast,2024,state_real_gdp,5142936,Millions of chained 2017 dollars
+95000,Southeast,2020,state_current_gdp,4609594.9,Millions of current dollars
+95000,Southeast,2021,state_current_gdp,5143616.9,Millions of current dollars
+95000,Southeast,2022,state_current_gdp,5712825.3,Millions of current dollars
+95000,Southeast,2023,state_current_gdp,6184158.9,Millions of current dollars
+95000,Southeast,2024,state_current_gdp,6535336.9,Millions of current dollars
+96000,Southwest,2020,state_real_gdp,2439063.5,Millions of chained 2017 dollars
+96000,Southwest,2021,state_real_gdp,2598810.4,Millions of chained 2017 dollars
+96000,Southwest,2022,state_real_gdp,2687415.9,Millions of chained 2017 dollars
+96000,Southwest,2023,state_real_gdp,2887055.7,Millions of chained 2017 dollars
+96000,Southwest,2024,state_real_gdp,2999061.9,Millions of chained 2017 dollars
+96000,Southwest,2020,state_current_gdp,2494430.9,Millions of current dollars
+96000,Southwest,2021,state_current_gdp,2888063.9,Millions of current dollars
+96000,Southwest,2022,state_current_gdp,3342636,Millions of current dollars
+96000,Southwest,2023,state_current_gdp,3561801.9,Millions of current dollars
+96000,Southwest,2024,state_current_gdp,3750634.8,Millions of current dollars
+97000,Rocky Mountain,2020,state_real_gdp,745137.3,Millions of chained 2017 dollars
+97000,Rocky Mountain,2021,state_real_gdp,797122,Millions of chained 2017 dollars
+97000,Rocky Mountain,2022,state_real_gdp,826700.7,Millions of chained 2017 dollars
+97000,Rocky Mountain,2023,state_real_gdp,860309.4,Millions of chained 2017 dollars
+97000,Rocky Mountain,2024,state_real_gdp,883219.3,Millions of chained 2017 dollars
+97000,Rocky Mountain,2020,state_current_gdp,781318.5,Millions of current dollars
+97000,Rocky Mountain,2021,state_current_gdp,881711.7,Millions of current dollars
+97000,Rocky Mountain,2022,state_current_gdp,992013.8,Millions of current dollars
+97000,Rocky Mountain,2023,state_current_gdp,1063127.8,Millions of current dollars
+97000,Rocky Mountain,2024,state_current_gdp,1116061.6,Millions of current dollars
+98000,Far West,2020,state_real_gdp,4050673,Millions of chained 2017 dollars
+98000,Far West,2021,state_real_gdp,4346646.1,Millions of chained 2017 dollars
+98000,Far West,2022,state_real_gdp,4376767.6,Millions of chained 2017 dollars
+98000,Far West,2023,state_real_gdp,4478198.5,Millions of chained 2017 dollars
+98000,Far West,2024,state_real_gdp,4627729.3,Millions of chained 2017 dollars
+98000,Far West,2020,state_current_gdp,4254155.7,Millions of current dollars
+98000,Far West,2021,state_current_gdp,4733129.8,Millions of current dollars
+98000,Far West,2022,state_current_gdp,5058451.6,Millions of current dollars
+98000,Far West,2023,state_current_gdp,5376774,Millions of current dollars
+98000,Far West,2024,state_current_gdp,5692577,Millions of current dollars

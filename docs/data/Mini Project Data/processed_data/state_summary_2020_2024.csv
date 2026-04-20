@@ -1,0 +1,1531 @@
+GeoFIPS,GeoName,year,metric,value,Unit
+01000,Alabama,2020,state_real_gdp,223025.5,Millions of chained 2017 dollars
+01000,Alabama,2021,state_real_gdp,233951.1,Millions of chained 2017 dollars
+01000,Alabama,2022,state_real_gdp,239846.6,Millions of chained 2017 dollars
+01000,Alabama,2023,state_real_gdp,248313.7,Millions of chained 2017 dollars
+01000,Alabama,2024,state_real_gdp,255629.4,Millions of chained 2017 dollars
+01000,Alabama,2020,state_personal_income,230878.4,Millions of current dollars
+01000,Alabama,2021,state_personal_income,255682.3,Millions of current dollars
+01000,Alabama,2022,state_personal_income,262425.8,Millions of current dollars
+01000,Alabama,2023,state_personal_income,279484.6,Millions of current dollars
+01000,Alabama,2024,state_personal_income,295590.5,Millions of current dollars
+01000,Alabama,2020,state_pce,176055.2,Millions of current dollars
+01000,Alabama,2021,state_pce,199043.3,Millions of current dollars
+01000,Alabama,2022,state_pce,215819.9,Millions of current dollars
+01000,Alabama,2023,state_pce,230469.1,Millions of current dollars
+01000,Alabama,2024,state_pce,242905.3,Millions of current dollars
+01000,Alabama,2020,state_per_capita_income,45873,Dollars
+01000,Alabama,2021,state_per_capita_income,50630,Dollars
+01000,Alabama,2022,state_per_capita_income,51690,Dollars
+01000,Alabama,2023,state_per_capita_income,54610,Dollars
+01000,Alabama,2024,state_per_capita_income,57251,Dollars
+01000,Alabama,2020,state_per_capita_pce,34980,Dollars
+01000,Alabama,2021,state_per_capita_pce,39421,Dollars
+01000,Alabama,2022,state_per_capita_pce,42516,Dollars
+01000,Alabama,2023,state_per_capita_pce,45034,Dollars
+01000,Alabama,2024,state_per_capita_pce,47096,Dollars
+01000,Alabama,2020,state_total_employment,2670980,Number of jobs
+01000,Alabama,2021,state_total_employment,2769117,Number of jobs
+01000,Alabama,2022,state_total_employment,2857149,Number of jobs
+01000,Alabama,2023,state_total_employment,2931413,Number of jobs
+01000,Alabama,2024,state_total_employment,2969241,Number of jobs
+02000,Alaska,2020,state_real_gdp,50901.3,Millions of chained 2017 dollars
+02000,Alaska,2021,state_real_gdp,51764,Millions of chained 2017 dollars
+02000,Alaska,2022,state_real_gdp,50509.1,Millions of chained 2017 dollars
+02000,Alaska,2023,state_real_gdp,54183.8,Millions of chained 2017 dollars
+02000,Alaska,2024,state_real_gdp,55945.7,Millions of chained 2017 dollars
+02000,Alaska,2020,state_personal_income,45375.8,Millions of current dollars
+02000,Alaska,2021,state_personal_income,48327.1,Millions of current dollars
+02000,Alaska,2022,state_personal_income,50793.7,Millions of current dollars
+02000,Alaska,2023,state_personal_income,53322,Millions of current dollars
+02000,Alaska,2024,state_personal_income,56423.1,Millions of current dollars
+02000,Alaska,2020,state_pce,35109.8,Millions of current dollars
+02000,Alaska,2021,state_pce,39764.6,Millions of current dollars
+02000,Alaska,2022,state_pce,43454.4,Millions of current dollars
+02000,Alaska,2023,state_pce,46417.7,Millions of current dollars
+02000,Alaska,2024,state_pce,49112.4,Millions of current dollars
+02000,Alaska,2020,state_per_capita_income,61912,Dollars
+02000,Alaska,2021,state_per_capita_income,65788,Dollars
+02000,Alaska,2022,state_per_capita_income,69233,Dollars
+02000,Alaska,2023,state_per_capita_income,72581,Dollars
+02000,Alaska,2024,state_per_capita_income,76606,Dollars
+02000,Alaska,2020,state_per_capita_pce,47898,Dollars
+02000,Alaska,2021,state_per_capita_pce,54144,Dollars
+02000,Alaska,2022,state_per_capita_pce,59166,Dollars
+02000,Alaska,2023,state_per_capita_pce,63024,Dollars
+02000,Alaska,2024,state_per_capita_pce,66356,Dollars
+02000,Alaska,2020,state_total_employment,430889,Number of jobs
+02000,Alaska,2021,state_total_employment,443016,Number of jobs
+02000,Alaska,2022,state_total_employment,454025,Number of jobs
+02000,Alaska,2023,state_total_employment,467104,Number of jobs
+02000,Alaska,2024,state_total_employment,474188,Number of jobs
+04000,Arizona,2020,state_real_gdp,366588,Millions of chained 2017 dollars
+04000,Arizona,2021,state_real_gdp,396457.5,Millions of chained 2017 dollars
+04000,Arizona,2022,state_real_gdp,413798.8,Millions of chained 2017 dollars
+04000,Arizona,2023,state_real_gdp,427644,Millions of chained 2017 dollars
+04000,Arizona,2024,state_real_gdp,446968.2,Millions of chained 2017 dollars
+04000,Arizona,2020,state_personal_income,374282.4,Millions of current dollars
+04000,Arizona,2021,state_personal_income,415893.1,Millions of current dollars
+04000,Arizona,2022,state_personal_income,435718.7,Millions of current dollars
+04000,Arizona,2023,state_personal_income,471040.2,Millions of current dollars
+04000,Arizona,2024,state_personal_income,498903.6,Millions of current dollars
+04000,Arizona,2020,state_pce,292116.6,Millions of current dollars
+04000,Arizona,2021,state_pce,336226.5,Millions of current dollars
+04000,Arizona,2022,state_pce,373787.8,Millions of current dollars
+04000,Arizona,2023,state_pce,399443.7,Millions of current dollars
+04000,Arizona,2024,state_pce,426211.4,Millions of current dollars
+04000,Arizona,2020,state_per_capita_income,52080,Dollars
+04000,Arizona,2021,state_per_capita_income,57175,Dollars
+04000,Arizona,2022,state_per_capita_income,59120,Dollars
+04000,Arizona,2023,state_per_capita_income,63209,Dollars
+04000,Arizona,2024,state_per_capita_income,66024,Dollars
+04000,Arizona,2020,state_per_capita_pce,40644,Dollars
+04000,Arizona,2021,state_per_capita_pce,46223,Dollars
+04000,Arizona,2022,state_per_capita_pce,50665,Dollars
+04000,Arizona,2023,state_per_capita_pce,53451,Dollars
+04000,Arizona,2024,state_per_capita_pce,56211,Dollars
+04000,Arizona,2020,state_total_employment,3919887,Number of jobs
+04000,Arizona,2021,state_total_employment,4085773,Number of jobs
+04000,Arizona,2022,state_total_employment,4250495,Number of jobs
+04000,Arizona,2023,state_total_employment,4404247,Number of jobs
+04000,Arizona,2024,state_total_employment,4457506,Number of jobs
+05000,Arkansas,2020,state_real_gdp,128395.6,Millions of chained 2017 dollars
+05000,Arkansas,2021,state_real_gdp,137634.8,Millions of chained 2017 dollars
+05000,Arkansas,2022,state_real_gdp,138672,Millions of chained 2017 dollars
+05000,Arkansas,2023,state_real_gdp,141968,Millions of chained 2017 dollars
+05000,Arkansas,2024,state_real_gdp,147389.9,Millions of chained 2017 dollars
+05000,Arkansas,2020,state_personal_income,142072.2,Millions of current dollars
+05000,Arkansas,2021,state_personal_income,161493.9,Millions of current dollars
+05000,Arkansas,2022,state_personal_income,163688.6,Millions of current dollars
+05000,Arkansas,2023,state_personal_income,173568.3,Millions of current dollars
+05000,Arkansas,2024,state_personal_income,183201.8,Millions of current dollars
+05000,Arkansas,2020,state_pce,105667.7,Millions of current dollars
+05000,Arkansas,2021,state_pce,119364.8,Millions of current dollars
+05000,Arkansas,2022,state_pce,128922.2,Millions of current dollars
+05000,Arkansas,2023,state_pce,136285.7,Millions of current dollars
+05000,Arkansas,2024,state_pce,142864,Millions of current dollars
+05000,Arkansas,2020,state_per_capita_income,47131,Dollars
+05000,Arkansas,2021,state_per_capita_income,53349,Dollars
+05000,Arkansas,2022,state_per_capita_income,53714,Dollars
+05000,Arkansas,2023,state_per_capita_income,56540,Dollars
+05000,Arkansas,2024,state_per_capita_income,59172,Dollars
+05000,Arkansas,2020,state_per_capita_pce,35053,Dollars
+05000,Arkansas,2021,state_per_capita_pce,39435,Dollars
+05000,Arkansas,2022,state_per_capita_pce,42301,Dollars
+05000,Arkansas,2023,state_per_capita_pce,44401,Dollars
+05000,Arkansas,2024,state_per_capita_pce,46259,Dollars
+05000,Arkansas,2020,state_total_employment,1639041,Number of jobs
+05000,Arkansas,2021,state_total_employment,1684580,Number of jobs
+05000,Arkansas,2022,state_total_employment,1744586,Number of jobs
+05000,Arkansas,2023,state_total_employment,1789021,Number of jobs
+05000,Arkansas,2024,state_total_employment,1805358,Number of jobs
+06000,California,2020,state_real_gdp,2930654.6,Millions of chained 2017 dollars
+06000,California,2021,state_real_gdp,3151112.5,Millions of chained 2017 dollars
+06000,California,2022,state_real_gdp,3147211.4,Millions of chained 2017 dollars
+06000,California,2023,state_real_gdp,3204016.4,Millions of chained 2017 dollars
+06000,California,2024,state_real_gdp,3306928.6,Millions of chained 2017 dollars
+06000,California,2020,state_personal_income,2770488.8,Millions of current dollars
+06000,California,2021,state_personal_income,3019215.7,Millions of current dollars
+06000,California,2022,state_personal_income,3021645.5,Millions of current dollars
+06000,California,2023,state_personal_income,3182779.3,Millions of current dollars
+06000,California,2024,state_personal_income,3400237.3,Millions of current dollars
+06000,California,2020,state_pce,1888671.1,Millions of current dollars
+06000,California,2021,state_pce,2156665.6,Millions of current dollars
+06000,California,2022,state_pce,2369104.1,Millions of current dollars
+06000,California,2023,state_pce,2523160.2,Millions of current dollars
+06000,California,2024,state_pce,2664167.6,Millions of current dollars
+06000,California,2020,state_per_capita_income,70090,Dollars
+06000,California,2021,state_per_capita_income,77113,Dollars
+06000,California,2022,state_per_capita_income,77230,Dollars
+06000,California,2023,state_per_capita_income,81231,Dollars
+06000,California,2024,state_per_capita_income,86378,Dollars
+06000,California,2020,state_per_capita_pce,47788,Dollars
+06000,California,2021,state_per_capita_pce,55098,Dollars
+06000,California,2022,state_per_capita_pce,60525,Dollars
+06000,California,2023,state_per_capita_pce,64368,Dollars
+06000,California,2024,state_per_capita_pce,67565,Dollars
+06000,California,2020,state_total_employment,23156746,Number of jobs
+06000,California,2021,state_total_employment,23932245,Number of jobs
+06000,California,2022,state_total_employment,24941794,Number of jobs
+06000,California,2023,state_total_employment,25260641,Number of jobs
+06000,California,2024,state_total_employment,25583169,Number of jobs
+08000,Colorado,2020,state_real_gdp,380544,Millions of chained 2017 dollars
+08000,Colorado,2021,state_real_gdp,406309.2,Millions of chained 2017 dollars
+08000,Colorado,2022,state_real_gdp,422576.1,Millions of chained 2017 dollars
+08000,Colorado,2023,state_real_gdp,440225.2,Millions of chained 2017 dollars
+08000,Colorado,2024,state_real_gdp,448838.5,Millions of chained 2017 dollars
+08000,Colorado,2020,state_personal_income,374449.3,Millions of current dollars
+08000,Colorado,2021,state_personal_income,418190.2,Millions of current dollars
+08000,Colorado,2022,state_personal_income,448676.8,Millions of current dollars
+08000,Colorado,2023,state_personal_income,473104.6,Millions of current dollars
+08000,Colorado,2024,state_personal_income,494798.6,Millions of current dollars
+08000,Colorado,2020,state_pce,274438.5,Millions of current dollars
+08000,Colorado,2021,state_pce,316057.8,Millions of current dollars
+08000,Colorado,2022,state_pce,351052.6,Millions of current dollars
+08000,Colorado,2023,state_pce,374380.5,Millions of current dollars
+08000,Colorado,2024,state_pce,395863.4,Millions of current dollars
+08000,Colorado,2020,state_per_capita_income,64707,Dollars
+08000,Colorado,2021,state_per_capita_income,71924,Dollars
+08000,Colorado,2022,state_per_capita_income,76653,Dollars
+08000,Colorado,2023,state_per_capita_income,80021,Dollars
+08000,Colorado,2024,state_per_capita_income,82625,Dollars
+08000,Colorado,2020,state_per_capita_pce,47422,Dollars
+08000,Colorado,2021,state_per_capita_pce,54361,Dollars
+08000,Colorado,2022,state_per_capita_pce,59999,Dollars
+08000,Colorado,2023,state_per_capita_pce,63440,Dollars
+08000,Colorado,2024,state_per_capita_pce,66448,Dollars
+08000,Colorado,2020,state_total_employment,3821182,Number of jobs
+08000,Colorado,2021,state_total_employment,3987514,Number of jobs
+08000,Colorado,2022,state_total_employment,4108115,Number of jobs
+08000,Colorado,2023,state_total_employment,4250108,Number of jobs
+08000,Colorado,2024,state_total_employment,4267582,Number of jobs
+09000,Connecticut,2020,state_real_gdp,261737.1,Millions of chained 2017 dollars
+09000,Connecticut,2021,state_real_gdp,270779.8,Millions of chained 2017 dollars
+09000,Connecticut,2022,state_real_gdp,279348.5,Millions of chained 2017 dollars
+09000,Connecticut,2023,state_real_gdp,283228.5,Millions of chained 2017 dollars
+09000,Connecticut,2024,state_real_gdp,286160.1,Millions of chained 2017 dollars
+09000,Connecticut,2020,state_personal_income,275029.8,Millions of current dollars
+09000,Connecticut,2021,state_personal_income,296291.5,Millions of current dollars
+09000,Connecticut,2022,state_personal_income,309011.4,Millions of current dollars
+09000,Connecticut,2023,state_personal_income,328729.9,Millions of current dollars
+09000,Connecticut,2024,state_personal_income,349377.1,Millions of current dollars
+09000,Connecticut,2020,state_pce,184450.9,Millions of current dollars
+09000,Connecticut,2021,state_pce,205487.5,Millions of current dollars
+09000,Connecticut,2022,state_pce,220822.4,Millions of current dollars
+09000,Connecticut,2023,state_pce,233572.6,Millions of current dollars
+09000,Connecticut,2024,state_pce,244923.5,Millions of current dollars
+09000,Connecticut,2020,state_per_capita_income,76832,Dollars
+09000,Connecticut,2021,state_per_capita_income,82126,Dollars
+09000,Connecticut,2022,state_per_capita_income,85393,Dollars
+09000,Connecticut,2023,state_per_capita_income,90276,Dollars
+09000,Connecticut,2024,state_per_capita_income,95083,Dollars
+09000,Connecticut,2020,state_per_capita_pce,51524,Dollars
+09000,Connecticut,2021,state_per_capita_pce,56975,Dollars
+09000,Connecticut,2022,state_per_capita_pce,61036,Dollars
+09000,Connecticut,2023,state_per_capita_pce,64115,Dollars
+09000,Connecticut,2024,state_per_capita_pce,66645,Dollars
+09000,Connecticut,2020,state_total_employment,2217480,Number of jobs
+09000,Connecticut,2021,state_total_employment,2289367,Number of jobs
+09000,Connecticut,2022,state_total_employment,2353654,Number of jobs
+09000,Connecticut,2023,state_total_employment,2420056,Number of jobs
+09000,Connecticut,2024,state_total_employment,2430624,Number of jobs
+10000,Delaware,2020,state_real_gdp,72728.8,Millions of chained 2017 dollars
+10000,Delaware,2021,state_real_gdp,75205.5,Millions of chained 2017 dollars
+10000,Delaware,2022,state_real_gdp,81111.8,Millions of chained 2017 dollars
+10000,Delaware,2023,state_real_gdp,82090.9,Millions of chained 2017 dollars
+10000,Delaware,2024,state_real_gdp,85350.5,Millions of chained 2017 dollars
+10000,Delaware,2020,state_personal_income,55069.8,Millions of current dollars
+10000,Delaware,2021,state_personal_income,60175.9,Millions of current dollars
+10000,Delaware,2022,state_personal_income,65386.9,Millions of current dollars
+10000,Delaware,2023,state_personal_income,66943.8,Millions of current dollars
+10000,Delaware,2024,state_personal_income,71594.2,Millions of current dollars
+10000,Delaware,2020,state_pce,44707.9,Millions of current dollars
+10000,Delaware,2021,state_pce,51169.3,Millions of current dollars
+10000,Delaware,2022,state_pce,56040.2,Millions of current dollars
+10000,Delaware,2023,state_pce,59796.3,Millions of current dollars
+10000,Delaware,2024,state_pce,63253.1,Millions of current dollars
+10000,Delaware,2020,state_per_capita_income,55520,Dollars
+10000,Delaware,2021,state_per_capita_income,59869,Dollars
+10000,Delaware,2022,state_per_capita_income,64087,Dollars
+10000,Delaware,2023,state_per_capita_income,64658,Dollars
+10000,Delaware,2024,state_per_capita_income,68177,Dollars
+10000,Delaware,2020,state_per_capita_pce,45072,Dollars
+10000,Delaware,2021,state_per_capita_pce,50912,Dollars
+10000,Delaware,2022,state_per_capita_pce,54908,Dollars
+10000,Delaware,2023,state_per_capita_pce,57695,Dollars
+10000,Delaware,2024,state_per_capita_pce,60131,Dollars
+10000,Delaware,2020,state_total_employment,592176,Number of jobs
+10000,Delaware,2021,state_total_employment,619925,Number of jobs
+10000,Delaware,2022,state_total_employment,642859,Number of jobs
+10000,Delaware,2023,state_total_employment,669568,Number of jobs
+10000,Delaware,2024,state_total_employment,674338,Number of jobs
+11000,District of Columbia,2020,state_real_gdp,137828.9,Millions of chained 2017 dollars
+11000,District of Columbia,2021,state_real_gdp,143338.7,Millions of chained 2017 dollars
+11000,District of Columbia,2022,state_real_gdp,143050.8,Millions of chained 2017 dollars
+11000,District of Columbia,2023,state_real_gdp,143179.2,Millions of chained 2017 dollars
+11000,District of Columbia,2024,state_real_gdp,145088,Millions of chained 2017 dollars
+11000,District of Columbia,2020,state_personal_income,60880,Millions of current dollars
+11000,District of Columbia,2021,state_personal_income,65682.9,Millions of current dollars
+11000,District of Columbia,2022,state_personal_income,68247,Millions of current dollars
+11000,District of Columbia,2023,state_personal_income,73296.2,Millions of current dollars
+11000,District of Columbia,2024,state_personal_income,78079.5,Millions of current dollars
+11000,District of Columbia,2020,state_pce,47050.9,Millions of current dollars
+11000,District of Columbia,2021,state_pce,53111.9,Millions of current dollars
+11000,District of Columbia,2022,state_pce,57870.7,Millions of current dollars
+11000,District of Columbia,2023,state_pce,61756.1,Millions of current dollars
+11000,District of Columbia,2024,state_pce,65809.7,Millions of current dollars
+11000,District of Columbia,2020,state_per_capita_income,90736,Dollars
+11000,District of Columbia,2021,state_per_capita_income,98087,Dollars
+11000,District of Columbia,2022,state_per_capita_income,101182,Dollars
+11000,District of Columbia,2023,state_per_capita_income,107384,Dollars
+11000,District of Columbia,2024,state_per_capita_income,112944,Dollars
+11000,District of Columbia,2020,state_per_capita_pce,70129,Dollars
+11000,District of Columbia,2021,state_per_capita_pce,79360,Dollars
+11000,District of Columbia,2022,state_per_capita_pce,85516,Dollars
+11000,District of Columbia,2023,state_per_capita_pce,89850,Dollars
+11000,District of Columbia,2024,state_per_capita_pce,93713,Dollars
+11000,District of Columbia,2020,state_total_employment,866078,Number of jobs
+11000,District of Columbia,2021,state_total_employment,869737,Number of jobs
+11000,District of Columbia,2022,state_total_employment,895905,Number of jobs
+11000,District of Columbia,2023,state_total_employment,908658,Number of jobs
+11000,District of Columbia,2024,state_total_employment,914851,Number of jobs
+12000,Florida,2020,state_real_gdp,1072481.6,Millions of chained 2017 dollars
+12000,Florida,2021,state_real_gdp,1172655.3,Millions of chained 2017 dollars
+12000,Florida,2022,state_real_gdp,1245927.6,Millions of chained 2017 dollars
+12000,Florida,2023,state_real_gdp,1309392.2,Millions of chained 2017 dollars
+12000,Florida,2024,state_real_gdp,1352275.1,Millions of chained 2017 dollars
+12000,Florida,2020,state_personal_income,1222053.4,Millions of current dollars
+12000,Florida,2021,state_personal_income,1367061.9,Millions of current dollars
+12000,Florida,2022,state_personal_income,1464251,Millions of current dollars
+12000,Florida,2023,state_personal_income,1604650.3,Millions of current dollars
+12000,Florida,2024,state_personal_income,1706305.7,Millions of current dollars
+12000,Florida,2020,state_pce,966431.3,Millions of current dollars
+12000,Florida,2021,state_pce,1120231.9,Millions of current dollars
+12000,Florida,2022,state_pce,1259555.7,Millions of current dollars
+12000,Florida,2023,state_pce,1368161.5,Millions of current dollars
+12000,Florida,2024,state_pce,1463514.5,Millions of current dollars
+12000,Florida,2020,state_per_capita_income,56599,Dollars
+12000,Florida,2021,state_per_capita_income,62604,Dollars
+12000,Florida,2022,state_per_capita_income,65328,Dollars
+12000,Florida,2023,state_per_capita_income,69983,Dollars
+12000,Florida,2024,state_per_capita_income,73340,Dollars
+12000,Florida,2020,state_per_capita_pce,44759,Dollars
+12000,Florida,2021,state_per_capita_pce,51312,Dollars
+12000,Florida,2022,state_per_capita_pce,56282,Dollars
+12000,Florida,2023,state_per_capita_pce,59732,Dollars
+12000,Florida,2024,state_per_capita_pce,62618,Dollars
+12000,Florida,2020,state_total_employment,12719408,Number of jobs
+12000,Florida,2021,state_total_employment,13456896,Number of jobs
+12000,Florida,2022,state_total_employment,14219768,Number of jobs
+12000,Florida,2023,state_total_employment,14959611,Number of jobs
+12000,Florida,2024,state_total_employment,14957046,Number of jobs
+13000,Georgia,2020,state_real_gdp,603202.5,Millions of chained 2017 dollars
+13000,Georgia,2021,state_real_gdp,643748.4,Millions of chained 2017 dollars
+13000,Georgia,2022,state_real_gdp,670107.2,Millions of chained 2017 dollars
+13000,Georgia,2023,state_real_gdp,679447.2,Millions of chained 2017 dollars
+13000,Georgia,2024,state_real_gdp,697450.9,Millions of chained 2017 dollars
+13000,Georgia,2020,state_personal_income,552699.9,Millions of current dollars
+13000,Georgia,2021,state_personal_income,607184.3,Millions of current dollars
+13000,Georgia,2022,state_personal_income,627439,Millions of current dollars
+13000,Georgia,2023,state_personal_income,663930.9,Millions of current dollars
+13000,Georgia,2024,state_personal_income,704463.9,Millions of current dollars
+13000,Georgia,2020,state_pce,412860.2,Millions of current dollars
+13000,Georgia,2021,state_pce,473351.8,Millions of current dollars
+13000,Georgia,2022,state_pce,520944.7,Millions of current dollars
+13000,Georgia,2023,state_pce,556786.8,Millions of current dollars
+13000,Georgia,2024,state_pce,590418.6,Millions of current dollars
+13000,Georgia,2020,state_per_capita_income,51497,Dollars
+13000,Georgia,2021,state_per_capita_income,56257,Dollars
+13000,Georgia,2022,state_per_capita_income,57405,Dollars
+13000,Georgia,2023,state_per_capita_income,60010,Dollars
+13000,Georgia,2024,state_per_capita_income,62875,Dollars
+13000,Georgia,2020,state_per_capita_pce,38467,Dollars
+13000,Georgia,2021,state_per_capita_pce,43861,Dollars
+13000,Georgia,2022,state_per_capita_pce,47654,Dollars
+13000,Georgia,2023,state_per_capita_pce,50322,Dollars
+13000,Georgia,2024,state_per_capita_pce,52806,Dollars
+13000,Georgia,2020,state_total_employment,6326540,Number of jobs
+13000,Georgia,2021,state_total_employment,6638744,Number of jobs
+13000,Georgia,2022,state_total_employment,6939403,Number of jobs
+13000,Georgia,2023,state_total_employment,7094400,Number of jobs
+13000,Georgia,2024,state_total_employment,7180379,Number of jobs
+15000,Hawaii,2020,state_real_gdp,79696.8,Millions of chained 2017 dollars
+15000,Hawaii,2021,state_real_gdp,84532,Millions of chained 2017 dollars
+15000,Hawaii,2022,state_real_gdp,87491.2,Millions of chained 2017 dollars
+15000,Hawaii,2023,state_real_gdp,89642.2,Millions of chained 2017 dollars
+15000,Hawaii,2024,state_real_gdp,91878,Millions of chained 2017 dollars
+15000,Hawaii,2020,state_personal_income,82758.5,Millions of current dollars
+15000,Hawaii,2021,state_personal_income,88650.4,Millions of current dollars
+15000,Hawaii,2022,state_personal_income,91007.9,Millions of current dollars
+15000,Hawaii,2023,state_personal_income,96961.4,Millions of current dollars
+15000,Hawaii,2024,state_personal_income,102703.8,Millions of current dollars
+15000,Hawaii,2020,state_pce,64097.9,Millions of current dollars
+15000,Hawaii,2021,state_pce,71937.5,Millions of current dollars
+15000,Hawaii,2022,state_pce,78510.7,Millions of current dollars
+15000,Hawaii,2023,state_pce,83283.1,Millions of current dollars
+15000,Hawaii,2024,state_pce,87796.6,Millions of current dollars
+15000,Hawaii,2020,state_per_capita_income,57030,Dollars
+15000,Hawaii,2021,state_per_capita_income,61269,Dollars
+15000,Hawaii,2022,state_per_capita_income,63296,Dollars
+15000,Hawaii,2023,state_per_capita_income,67571,Dollars
+15000,Hawaii,2024,state_per_capita_income,71573,Dollars
+15000,Hawaii,2020,state_per_capita_pce,44167,Dollars
+15000,Hawaii,2021,state_per_capita_pce,49714,Dollars
+15000,Hawaii,2022,state_per_capita_pce,54508,Dollars
+15000,Hawaii,2023,state_per_capita_pce,57780,Dollars
+15000,Hawaii,2024,state_per_capita_pce,60711,Dollars
+15000,Hawaii,2020,state_total_employment,817466,Number of jobs
+15000,Hawaii,2021,state_total_employment,860689,Number of jobs
+15000,Hawaii,2022,state_total_employment,895965,Number of jobs
+15000,Hawaii,2023,state_total_employment,918356,Number of jobs
+15000,Hawaii,2024,state_total_employment,928210,Number of jobs
+16000,Idaho,2020,state_real_gdp,82711.6,Millions of chained 2017 dollars
+16000,Idaho,2021,state_real_gdp,88955.2,Millions of chained 2017 dollars
+16000,Idaho,2022,state_real_gdp,92792.5,Millions of chained 2017 dollars
+16000,Idaho,2023,state_real_gdp,95286.5,Millions of chained 2017 dollars
+16000,Idaho,2024,state_real_gdp,99567.3,Millions of chained 2017 dollars
+16000,Idaho,2020,state_personal_income,91960.1,Millions of current dollars
+16000,Idaho,2021,state_personal_income,105916,Millions of current dollars
+16000,Idaho,2022,state_personal_income,110891.1,Millions of current dollars
+16000,Idaho,2023,state_personal_income,116692.4,Millions of current dollars
+16000,Idaho,2024,state_personal_income,124746.7,Millions of current dollars
+16000,Idaho,2020,state_pce,64288.6,Millions of current dollars
+16000,Idaho,2021,state_pce,75973.6,Millions of current dollars
+16000,Idaho,2022,state_pce,85245.2,Millions of current dollars
+16000,Idaho,2023,state_pce,90395.4,Millions of current dollars
+16000,Idaho,2024,state_pce,96273.1,Millions of current dollars
+16000,Idaho,2020,state_per_capita_income,49726,Dollars
+16000,Idaho,2021,state_per_capita_income,55603,Dollars
+16000,Idaho,2022,state_per_capita_income,57074,Dollars
+16000,Idaho,2023,state_per_capita_income,59220,Dollars
+16000,Idaho,2024,state_per_capita_income,62346,Dollars
+16000,Idaho,2020,state_per_capita_pce,34762,Dollars
+16000,Idaho,2021,state_per_capita_pce,39884,Dollars
+16000,Idaho,2022,state_per_capita_pce,43844,Dollars
+16000,Idaho,2023,state_per_capita_pce,45860,Dollars
+16000,Idaho,2024,state_per_capita_pce,48098,Dollars
+16000,Idaho,2020,state_total_employment,1077556,Number of jobs
+16000,Idaho,2021,state_total_employment,1136875,Number of jobs
+16000,Idaho,2022,state_total_employment,1179749,Number of jobs
+16000,Idaho,2023,state_total_employment,1217054,Number of jobs
+16000,Idaho,2024,state_total_employment,1230617,Number of jobs
+17000,Illinois,2020,state_real_gdp,810693.1,Millions of chained 2017 dollars
+17000,Illinois,2021,state_real_gdp,857114.6,Millions of chained 2017 dollars
+17000,Illinois,2022,state_real_gdp,872907.5,Millions of chained 2017 dollars
+17000,Illinois,2023,state_real_gdp,884965.3,Millions of chained 2017 dollars
+17000,Illinois,2024,state_real_gdp,899125.9,Millions of chained 2017 dollars
+17000,Illinois,2020,state_personal_income,788153.3,Millions of current dollars
+17000,Illinois,2021,state_personal_income,849243.1,Millions of current dollars
+17000,Illinois,2022,state_personal_income,858844.4,Millions of current dollars
+17000,Illinois,2023,state_personal_income,907225.7,Millions of current dollars
+17000,Illinois,2024,state_personal_income,947182.8,Millions of current dollars
+17000,Illinois,2020,state_pce,562389.6,Millions of current dollars
+17000,Illinois,2021,state_pce,630011.2,Millions of current dollars
+17000,Illinois,2022,state_pce,690597.8,Millions of current dollars
+17000,Illinois,2023,state_pce,731239.9,Millions of current dollars
+17000,Illinois,2024,state_pce,770388.8,Millions of current dollars
+17000,Illinois,2020,state_per_capita_income,61597,Dollars
+17000,Illinois,2021,state_per_capita_income,66852,Dollars
+17000,Illinois,2022,state_per_capita_income,68110,Dollars
+17000,Illinois,2023,state_per_capita_income,71812,Dollars
+17000,Illinois,2024,state_per_capita_income,74564,Dollars
+17000,Illinois,2020,state_per_capita_pce,43940,Dollars
+17000,Illinois,2021,state_per_capita_pce,49605,Dollars
+17000,Illinois,2022,state_per_capita_pce,54715,Dollars
+17000,Illinois,2023,state_per_capita_pce,57841,Dollars
+17000,Illinois,2024,state_per_capita_pce,60612,Dollars
+17000,Illinois,2020,state_total_employment,7520041,Number of jobs
+17000,Illinois,2021,state_total_employment,7749971,Number of jobs
+17000,Illinois,2022,state_total_employment,7992113,Number of jobs
+17000,Illinois,2023,state_total_employment,8170725,Number of jobs
+17000,Illinois,2024,state_total_employment,8216215,Number of jobs
+18000,Indiana,2020,state_real_gdp,359963.6,Millions of chained 2017 dollars
+18000,Indiana,2021,state_real_gdp,386872.8,Millions of chained 2017 dollars
+18000,Indiana,2022,state_real_gdp,393481.5,Millions of chained 2017 dollars
+18000,Indiana,2023,state_real_gdp,400369.5,Millions of chained 2017 dollars
+18000,Indiana,2024,state_real_gdp,412003.4,Millions of chained 2017 dollars
+18000,Indiana,2020,state_personal_income,351576.3,Millions of current dollars
+18000,Indiana,2021,state_personal_income,391059,Millions of current dollars
+18000,Indiana,2022,state_personal_income,401573.6,Millions of current dollars
+18000,Indiana,2023,state_personal_income,422345.3,Millions of current dollars
+18000,Indiana,2024,state_personal_income,443688.8,Millions of current dollars
+18000,Indiana,2020,state_pce,259702.3,Millions of current dollars
+18000,Indiana,2021,state_pce,291807.2,Millions of current dollars
+18000,Indiana,2022,state_pce,322452.1,Millions of current dollars
+18000,Indiana,2023,state_pce,340437.9,Millions of current dollars
+18000,Indiana,2024,state_pce,358820.8,Millions of current dollars
+18000,Indiana,2020,state_per_capita_income,51776,Dollars
+18000,Indiana,2021,state_per_capita_income,57389,Dollars
+18000,Indiana,2022,state_per_capita_income,58697,Dollars
+18000,Indiana,2023,state_per_capita_income,61375,Dollars
+18000,Indiana,2024,state_per_capita_income,63980,Dollars
+18000,Indiana,2020,state_per_capita_pce,38245,Dollars
+18000,Indiana,2021,state_per_capita_pce,42813,Dollars
+18000,Indiana,2022,state_per_capita_pce,47111,Dollars
+18000,Indiana,2023,state_per_capita_pce,49481,Dollars
+18000,Indiana,2024,state_per_capita_pce,51821,Dollars
+18000,Indiana,2020,state_total_employment,3843285,Number of jobs
+18000,Indiana,2021,state_total_employment,3977987,Number of jobs
+18000,Indiana,2022,state_total_employment,4101252,Number of jobs
+18000,Indiana,2023,state_total_employment,4193182,Number of jobs
+18000,Indiana,2024,state_total_employment,4214670,Number of jobs
+19000,Iowa,2020,state_real_gdp,187261.7,Millions of chained 2017 dollars
+19000,Iowa,2021,state_real_gdp,202470.6,Millions of chained 2017 dollars
+19000,Iowa,2022,state_real_gdp,202672.5,Millions of chained 2017 dollars
+19000,Iowa,2023,state_real_gdp,201359.8,Millions of chained 2017 dollars
+19000,Iowa,2024,state_real_gdp,206438.9,Millions of chained 2017 dollars
+19000,Iowa,2020,state_personal_income,168097.8,Millions of current dollars
+19000,Iowa,2021,state_personal_income,186318.9,Millions of current dollars
+19000,Iowa,2022,state_personal_income,196040.1,Millions of current dollars
+19000,Iowa,2023,state_personal_income,201755.9,Millions of current dollars
+19000,Iowa,2024,state_personal_income,211425.4,Millions of current dollars
+19000,Iowa,2020,state_pce,121112.7,Millions of current dollars
+19000,Iowa,2021,state_pce,135530.5,Millions of current dollars
+19000,Iowa,2022,state_pce,146552.8,Millions of current dollars
+19000,Iowa,2023,state_pce,153585.7,Millions of current dollars
+19000,Iowa,2024,state_pce,160366.9,Millions of current dollars
+19000,Iowa,2020,state_per_capita_income,52677,Dollars
+19000,Iowa,2021,state_per_capita_income,58242,Dollars
+19000,Iowa,2022,state_per_capita_income,61226,Dollars
+19000,Iowa,2023,state_per_capita_income,62760,Dollars
+19000,Iowa,2024,state_per_capita_income,65448,Dollars
+19000,Iowa,2020,state_per_capita_pce,37953,Dollars
+19000,Iowa,2021,state_per_capita_pce,42372,Dollars
+19000,Iowa,2022,state_per_capita_pce,45757,Dollars
+19000,Iowa,2023,state_per_capita_pce,47721,Dollars
+19000,Iowa,2024,state_per_capita_pce,49473,Dollars
+19000,Iowa,2020,state_total_employment,2011185,Number of jobs
+19000,Iowa,2021,state_total_employment,2056111,Number of jobs
+19000,Iowa,2022,state_total_employment,2093312,Number of jobs
+19000,Iowa,2023,state_total_employment,2124703,Number of jobs
+19000,Iowa,2024,state_total_employment,2132090,Number of jobs
+20000,Kansas,2020,state_real_gdp,166621.4,Millions of chained 2017 dollars
+20000,Kansas,2021,state_real_gdp,170401.2,Millions of chained 2017 dollars
+20000,Kansas,2022,state_real_gdp,177776.1,Millions of chained 2017 dollars
+20000,Kansas,2023,state_real_gdp,180267.5,Millions of chained 2017 dollars
+20000,Kansas,2024,state_real_gdp,181599.6,Millions of chained 2017 dollars
+20000,Kansas,2020,state_personal_income,162277.2,Millions of current dollars
+20000,Kansas,2021,state_personal_income,173977,Millions of current dollars
+20000,Kansas,2022,state_personal_income,181747,Millions of current dollars
+20000,Kansas,2023,state_personal_income,187457.3,Millions of current dollars
+20000,Kansas,2024,state_personal_income,195633,Millions of current dollars
+20000,Kansas,2020,state_pce,113520.1,Millions of current dollars
+20000,Kansas,2021,state_pce,125242.7,Millions of current dollars
+20000,Kansas,2022,state_pce,137110.5,Millions of current dollars
+20000,Kansas,2023,state_pce,144840.9,Millions of current dollars
+20000,Kansas,2024,state_pce,151745.2,Millions of current dollars
+20000,Kansas,2020,state_per_capita_income,55229,Dollars
+20000,Kansas,2021,state_per_capita_income,59197,Dollars
+20000,Kansas,2022,state_per_capita_income,61860,Dollars
+20000,Kansas,2023,state_per_capita_income,63550,Dollars
+20000,Kansas,2024,state_per_capita_income,65975,Dollars
+20000,Kansas,2020,state_per_capita_pce,38636,Dollars
+20000,Kansas,2021,state_per_capita_pce,42624,Dollars
+20000,Kansas,2022,state_per_capita_pce,46679,Dollars
+20000,Kansas,2023,state_per_capita_pce,49074,Dollars
+20000,Kansas,2024,state_per_capita_pce,51082,Dollars
+20000,Kansas,2020,state_total_employment,1878986,Number of jobs
+20000,Kansas,2021,state_total_employment,1920129,Number of jobs
+20000,Kansas,2022,state_total_employment,1955078,Number of jobs
+20000,Kansas,2023,state_total_employment,1998458,Number of jobs
+20000,Kansas,2024,state_total_employment,2015348,Number of jobs
+21000,Kentucky,2020,state_real_gdp,206601.9,Millions of chained 2017 dollars
+21000,Kentucky,2021,state_real_gdp,215535,Millions of chained 2017 dollars
+21000,Kentucky,2022,state_real_gdp,220641.8,Millions of chained 2017 dollars
+21000,Kentucky,2023,state_real_gdp,226942.4,Millions of chained 2017 dollars
+21000,Kentucky,2024,state_real_gdp,230966.4,Millions of chained 2017 dollars
+21000,Kentucky,2020,state_personal_income,212278.2,Millions of current dollars
+21000,Kentucky,2021,state_personal_income,234113.4,Millions of current dollars
+21000,Kentucky,2022,state_personal_income,237842.6,Millions of current dollars
+21000,Kentucky,2023,state_personal_income,253319.5,Millions of current dollars
+21000,Kentucky,2024,state_personal_income,267297.9,Millions of current dollars
+21000,Kentucky,2020,state_pce,164746.8,Millions of current dollars
+21000,Kentucky,2021,state_pce,185762.8,Millions of current dollars
+21000,Kentucky,2022,state_pce,201694.5,Millions of current dollars
+21000,Kentucky,2023,state_pce,214679.6,Millions of current dollars
+21000,Kentucky,2024,state_pce,224373.8,Millions of current dollars
+21000,Kentucky,2020,state_per_capita_income,47086,Dollars
+21000,Kentucky,2021,state_per_capita_income,51929,Dollars
+21000,Kentucky,2022,state_per_capita_income,52606,Dollars
+21000,Kentucky,2023,state_per_capita_income,55675,Dollars
+21000,Kentucky,2024,state_per_capita_income,58310,Dollars
+21000,Kentucky,2020,state_per_capita_pce,36543,Dollars
+21000,Kentucky,2021,state_per_capita_pce,41211,Dollars
+21000,Kentucky,2022,state_per_capita_pce,44630,Dollars
+21000,Kentucky,2023,state_per_capita_pce,47176,Dollars
+21000,Kentucky,2024,state_per_capita_pce,48901,Dollars
+21000,Kentucky,2020,state_total_employment,2470824,Number of jobs
+21000,Kentucky,2021,state_total_employment,2556462,Number of jobs
+21000,Kentucky,2022,state_total_employment,2636339,Number of jobs
+21000,Kentucky,2023,state_total_employment,2707348,Number of jobs
+21000,Kentucky,2024,state_total_employment,2725882,Number of jobs
+22000,Louisiana,2020,state_real_gdp,225636,Millions of chained 2017 dollars
+22000,Louisiana,2021,state_real_gdp,242582.1,Millions of chained 2017 dollars
+22000,Louisiana,2022,state_real_gdp,240043,Millions of chained 2017 dollars
+22000,Louisiana,2023,state_real_gdp,248949.4,Millions of chained 2017 dollars
+22000,Louisiana,2024,state_real_gdp,257055.9,Millions of chained 2017 dollars
+22000,Louisiana,2020,state_personal_income,233449.5,Millions of current dollars
+22000,Louisiana,2021,state_personal_income,255091.5,Millions of current dollars
+22000,Louisiana,2022,state_personal_income,254415.5,Millions of current dollars
+22000,Louisiana,2023,state_personal_income,270677.4,Millions of current dollars
+22000,Louisiana,2024,state_personal_income,284587.2,Millions of current dollars
+22000,Louisiana,2020,state_pce,174342.4,Millions of current dollars
+22000,Louisiana,2021,state_pce,196008.4,Millions of current dollars
+22000,Louisiana,2022,state_pce,210717.1,Millions of current dollars
+22000,Louisiana,2023,state_pce,221909.4,Millions of current dollars
+22000,Louisiana,2024,state_pce,231973.6,Millions of current dollars
+22000,Louisiana,2020,state_per_capita_income,50181,Dollars
+22000,Louisiana,2021,state_per_capita_income,55112,Dollars
+22000,Louisiana,2022,state_per_capita_income,55297,Dollars
+22000,Louisiana,2023,state_per_capita_income,58859,Dollars
+22000,Louisiana,2024,state_per_capita_income,61667,Dollars
+22000,Louisiana,2020,state_per_capita_pce,37474,Dollars
+22000,Louisiana,2021,state_per_capita_pce,42353,Dollars
+22000,Louisiana,2022,state_per_capita_pce,45871,Dollars
+22000,Louisiana,2023,state_per_capita_pce,48367,Dollars
+22000,Louisiana,2024,state_per_capita_pce,50454,Dollars
+22000,Louisiana,2020,state_total_employment,2592461,Number of jobs
+22000,Louisiana,2021,state_total_employment,2693967,Number of jobs
+22000,Louisiana,2022,state_total_employment,2765554,Number of jobs
+22000,Louisiana,2023,state_total_employment,2801413,Number of jobs
+22000,Louisiana,2024,state_total_employment,2850255,Number of jobs
+23000,Maine,2020,state_real_gdp,67639.2,Millions of chained 2017 dollars
+23000,Maine,2021,state_real_gdp,71353.5,Millions of chained 2017 dollars
+23000,Maine,2022,state_real_gdp,72884.4,Millions of chained 2017 dollars
+23000,Maine,2023,state_real_gdp,75514,Millions of chained 2017 dollars
+23000,Maine,2024,state_real_gdp,77758.6,Millions of chained 2017 dollars
+23000,Maine,2020,state_personal_income,74137,Millions of current dollars
+23000,Maine,2021,state_personal_income,81887.1,Millions of current dollars
+23000,Maine,2022,state_personal_income,85704.2,Millions of current dollars
+23000,Maine,2023,state_personal_income,91602.3,Millions of current dollars
+23000,Maine,2024,state_personal_income,96850.3,Millions of current dollars
+23000,Maine,2020,state_pce,63080,Millions of current dollars
+23000,Maine,2021,state_pce,71544.7,Millions of current dollars
+23000,Maine,2022,state_pce,78305.7,Millions of current dollars
+23000,Maine,2023,state_pce,83558.4,Millions of current dollars
+23000,Maine,2024,state_pce,88579.8,Millions of current dollars
+23000,Maine,2020,state_per_capita_income,54331,Dollars
+23000,Maine,2021,state_per_capita_income,59381,Dollars
+23000,Maine,2022,state_per_capita_income,61587,Dollars
+23000,Maine,2023,state_per_capita_income,65337,Dollars
+23000,Maine,2024,state_per_capita_income,68764,Dollars
+23000,Maine,2020,state_per_capita_pce,46227,Dollars
+23000,Maine,2021,state_per_capita_pce,51884,Dollars
+23000,Maine,2022,state_per_capita_pce,56298,Dollars
+23000,Maine,2023,state_per_capita_pce,59700,Dollars
+23000,Maine,2024,state_per_capita_pce,63046,Dollars
+23000,Maine,2020,state_total_employment,812984,Number of jobs
+23000,Maine,2021,state_total_employment,849229,Number of jobs
+23000,Maine,2022,state_total_employment,867629,Number of jobs
+23000,Maine,2023,state_total_employment,893054,Number of jobs
+23000,Maine,2024,state_total_employment,903041,Number of jobs
+24000,Maryland,2020,state_real_gdp,389178.6,Millions of chained 2017 dollars
+24000,Maryland,2021,state_real_gdp,407160.1,Millions of chained 2017 dollars
+24000,Maryland,2022,state_real_gdp,412670.7,Millions of chained 2017 dollars
+24000,Maryland,2023,state_real_gdp,420558,Millions of chained 2017 dollars
+24000,Maryland,2024,state_real_gdp,433105.9,Millions of chained 2017 dollars
+24000,Maryland,2020,state_personal_income,400750,Millions of current dollars
+24000,Maryland,2021,state_personal_income,427803.2,Millions of current dollars
+24000,Maryland,2022,state_personal_income,438306.4,Millions of current dollars
+24000,Maryland,2023,state_personal_income,469239.6,Millions of current dollars
+24000,Maryland,2024,state_personal_income,496413.9,Millions of current dollars
+24000,Maryland,2020,state_pce,269959.1,Millions of current dollars
+24000,Maryland,2021,state_pce,301040.9,Millions of current dollars
+24000,Maryland,2022,state_pce,326534.8,Millions of current dollars
+24000,Maryland,2023,state_pce,346214.2,Millions of current dollars
+24000,Maryland,2024,state_pce,365211.3,Millions of current dollars
+24000,Maryland,2020,state_per_capita_income,64863,Dollars
+24000,Maryland,2021,state_per_capita_income,69268,Dollars
+24000,Maryland,2022,state_per_capita_income,70886,Dollars
+24000,Maryland,2023,state_per_capita_income,75624,Dollars
+24000,Maryland,2024,state_per_capita_income,79486,Dollars
+24000,Maryland,2020,state_per_capita_pce,43697,Dollars
+24000,Maryland,2021,state_per_capita_pce,48717,Dollars
+24000,Maryland,2022,state_per_capita_pce,52731,Dollars
+24000,Maryland,2023,state_per_capita_pce,55688,Dollars
+24000,Maryland,2024,state_per_capita_pce,58310,Dollars
+24000,Maryland,2020,state_total_employment,3621815,Number of jobs
+24000,Maryland,2021,state_total_employment,3750179,Number of jobs
+24000,Maryland,2022,state_total_employment,3869608,Number of jobs
+24000,Maryland,2023,state_total_employment,3986457,Number of jobs
+24000,Maryland,2024,state_total_employment,4054489,Number of jobs
+25000,Massachusetts,2020,state_real_gdp,560395.8,Millions of chained 2017 dollars
+25000,Massachusetts,2021,state_real_gdp,597420,Millions of chained 2017 dollars
+25000,Massachusetts,2022,state_real_gdp,607470.6,Millions of chained 2017 dollars
+25000,Massachusetts,2023,state_real_gdp,614786.1,Millions of chained 2017 dollars
+25000,Massachusetts,2024,state_real_gdp,628786.9,Millions of chained 2017 dollars
+25000,Massachusetts,2020,state_personal_income,542032.6,Millions of current dollars
+25000,Massachusetts,2021,state_personal_income,588651,Millions of current dollars
+25000,Massachusetts,2022,state_personal_income,600009.6,Millions of current dollars
+25000,Massachusetts,2023,state_personal_income,635619.8,Millions of current dollars
+25000,Massachusetts,2024,state_personal_income,667993,Millions of current dollars
+25000,Massachusetts,2020,state_pce,369346.6,Millions of current dollars
+25000,Massachusetts,2021,state_pce,416674.1,Millions of current dollars
+25000,Massachusetts,2022,state_pce,453916.7,Millions of current dollars
+25000,Massachusetts,2023,state_pce,483920.6,Millions of current dollars
+25000,Massachusetts,2024,state_pce,513421.1,Millions of current dollars
+25000,Massachusetts,2020,state_per_capita_income,77596,Dollars
+25000,Massachusetts,2021,state_per_capita_income,84132,Dollars
+25000,Massachusetts,2022,state_per_capita_income,85405,Dollars
+25000,Massachusetts,2023,state_per_capita_income,89860,Dollars
+25000,Massachusetts,2024,state_per_capita_income,93575,Dollars
+25000,Massachusetts,2020,state_per_capita_pce,52805,Dollars
+25000,Massachusetts,2021,state_per_capita_pce,59521,Dollars
+25000,Massachusetts,2022,state_per_capita_pce,64638,Dollars
+25000,Massachusetts,2023,state_per_capita_pce,68480,Dollars
+25000,Massachusetts,2024,state_per_capita_pce,71946,Dollars
+25000,Massachusetts,2020,state_total_employment,4600531,Number of jobs
+25000,Massachusetts,2021,state_total_employment,4777266,Number of jobs
+25000,Massachusetts,2022,state_total_employment,4937380,Number of jobs
+25000,Massachusetts,2023,state_total_employment,5049464,Number of jobs
+25000,Massachusetts,2024,state_total_employment,5057930,Number of jobs
+26000,Michigan,2020,state_real_gdp,502622.3,Millions of chained 2017 dollars
+26000,Michigan,2021,state_real_gdp,528701.8,Millions of chained 2017 dollars
+26000,Michigan,2022,state_real_gdp,539807.5,Millions of chained 2017 dollars
+26000,Michigan,2023,state_real_gdp,554556.2,Millions of chained 2017 dollars
+26000,Michigan,2024,state_real_gdp,562177.6,Millions of chained 2017 dollars
+26000,Michigan,2020,state_personal_income,532019.9,Millions of current dollars
+26000,Michigan,2021,state_personal_income,573255.7,Millions of current dollars
+26000,Michigan,2022,state_personal_income,583072.1,Millions of current dollars
+26000,Michigan,2023,state_personal_income,617163.2,Millions of current dollars
+26000,Michigan,2024,state_personal_income,645846.8,Millions of current dollars
+26000,Michigan,2020,state_pce,415005.4,Millions of current dollars
+26000,Michigan,2021,state_pce,464140.9,Millions of current dollars
+26000,Michigan,2022,state_pce,500132.9,Millions of current dollars
+26000,Michigan,2023,state_pce,524552.9,Millions of current dollars
+26000,Michigan,2024,state_pce,549582.5,Millions of current dollars
+26000,Michigan,2020,state_per_capita_income,52820,Dollars
+26000,Michigan,2021,state_per_capita_income,57084,Dollars
+26000,Michigan,2022,state_per_capita_income,58052,Dollars
+26000,Michigan,2023,state_per_capita_income,61335,Dollars
+26000,Michigan,2024,state_per_capita_income,63945,Dollars
+26000,Michigan,2020,state_per_capita_pce,41201,Dollars
+26000,Michigan,2021,state_per_capita_pce,46223,Dollars
+26000,Michigan,2022,state_per_capita_pce,49760,Dollars
+26000,Michigan,2023,state_per_capita_pce,52022,Dollars
+26000,Michigan,2024,state_per_capita_pce,54197,Dollars
+26000,Michigan,2020,state_total_employment,5388496,Number of jobs
+26000,Michigan,2021,state_total_employment,5602313,Number of jobs
+26000,Michigan,2022,state_total_employment,5803660,Number of jobs
+26000,Michigan,2023,state_total_employment,5938910,Number of jobs
+26000,Michigan,2024,state_total_employment,5980562,Number of jobs
+27000,Minnesota,2020,state_real_gdp,357831.5,Millions of chained 2017 dollars
+27000,Minnesota,2021,state_real_gdp,377975.8,Millions of chained 2017 dollars
+27000,Minnesota,2022,state_real_gdp,385921.8,Millions of chained 2017 dollars
+27000,Minnesota,2023,state_real_gdp,389864.5,Millions of chained 2017 dollars
+27000,Minnesota,2024,state_real_gdp,399253.3,Millions of chained 2017 dollars
+27000,Minnesota,2020,state_personal_income,350470,Millions of current dollars
+27000,Minnesota,2021,state_personal_income,387015.8,Millions of current dollars
+27000,Minnesota,2022,state_personal_income,397877.4,Millions of current dollars
+27000,Minnesota,2023,state_personal_income,418091,Millions of current dollars
+27000,Minnesota,2024,state_personal_income,437981.9,Millions of current dollars
+27000,Minnesota,2020,state_pce,249548.7,Millions of current dollars
+27000,Minnesota,2021,state_pce,279910.2,Millions of current dollars
+27000,Minnesota,2022,state_pce,305747.4,Millions of current dollars
+27000,Minnesota,2023,state_pce,321165.8,Millions of current dollars
+27000,Minnesota,2024,state_pce,338511.8,Millions of current dollars
+27000,Minnesota,2020,state_per_capita_income,61372,Dollars
+27000,Minnesota,2021,state_per_capita_income,67730,Dollars
+27000,Minnesota,2022,state_per_capita_income,69467,Dollars
+27000,Minnesota,2023,state_per_capita_income,72674,Dollars
+27000,Minnesota,2024,state_per_capita_income,75548,Dollars
+27000,Minnesota,2020,state_per_capita_pce,43698,Dollars
+27000,Minnesota,2021,state_per_capita_pce,48947,Dollars
+27000,Minnesota,2022,state_per_capita_pce,53437,Dollars
+27000,Minnesota,2023,state_per_capita_pce,55825,Dollars
+27000,Minnesota,2024,state_per_capita_pce,58433,Dollars
+27000,Minnesota,2020,state_total_employment,3607402,Number of jobs
+27000,Minnesota,2021,state_total_employment,3711169,Number of jobs
+27000,Minnesota,2022,state_total_employment,3799319,Number of jobs
+27000,Minnesota,2023,state_total_employment,3887335,Number of jobs
+27000,Minnesota,2024,state_total_employment,3920236,Number of jobs
+28000,Mississippi,2020,state_real_gdp,111195,Millions of chained 2017 dollars
+28000,Mississippi,2021,state_real_gdp,116078.4,Millions of chained 2017 dollars
+28000,Mississippi,2022,state_real_gdp,115700.3,Millions of chained 2017 dollars
+28000,Mississippi,2023,state_real_gdp,119454.2,Millions of chained 2017 dollars
+28000,Mississippi,2024,state_real_gdp,123419.3,Millions of chained 2017 dollars
+28000,Mississippi,2020,state_personal_income,125624.9,Millions of current dollars
+28000,Mississippi,2021,state_personal_income,138640.2,Millions of current dollars
+28000,Mississippi,2022,state_personal_income,138223.7,Millions of current dollars
+28000,Mississippi,2023,state_personal_income,146160.9,Millions of current dollars
+28000,Mississippi,2024,state_personal_income,153256.4,Millions of current dollars
+28000,Mississippi,2020,state_pce,97143.2,Millions of current dollars
+28000,Mississippi,2021,state_pce,108734.5,Millions of current dollars
+28000,Mississippi,2022,state_pce,118099.6,Millions of current dollars
+28000,Mississippi,2023,state_pce,124062.8,Millions of current dollars
+28000,Mississippi,2024,state_pce,129336.8,Millions of current dollars
+28000,Mississippi,2020,state_per_capita_income,42464,Dollars
+28000,Mississippi,2021,state_per_capita_income,47035,Dollars
+28000,Mississippi,2022,state_per_capita_income,46995,Dollars
+28000,Mississippi,2023,state_per_capita_income,49673,Dollars
+28000,Mississippi,2024,state_per_capita_income,51948,Dollars
+28000,Mississippi,2020,state_per_capita_pce,32835,Dollars
+28000,Mississippi,2021,state_per_capita_pce,36894,Dollars
+28000,Mississippi,2022,state_per_capita_pce,40143,Dollars
+28000,Mississippi,2023,state_per_capita_pce,42153,Dollars
+28000,Mississippi,2024,state_per_capita_pce,43947,Dollars
+28000,Mississippi,2020,state_total_employment,1572680,Number of jobs
+28000,Mississippi,2021,state_total_employment,1624466,Number of jobs
+28000,Mississippi,2022,state_total_employment,1666078,Number of jobs
+28000,Mississippi,2023,state_total_employment,1703374,Number of jobs
+28000,Mississippi,2024,state_total_employment,1710873,Number of jobs
+29000,Missouri,2020,state_real_gdp,316158.6,Millions of chained 2017 dollars
+29000,Missouri,2021,state_real_gdp,331578,Millions of chained 2017 dollars
+29000,Missouri,2022,state_real_gdp,337225.4,Millions of chained 2017 dollars
+29000,Missouri,2023,state_real_gdp,346895.3,Millions of chained 2017 dollars
+29000,Missouri,2024,state_real_gdp,353307.4,Millions of chained 2017 dollars
+29000,Missouri,2020,state_personal_income,321316.7,Millions of current dollars
+29000,Missouri,2021,state_personal_income,351191.9,Millions of current dollars
+29000,Missouri,2022,state_personal_income,361652.1,Millions of current dollars
+29000,Missouri,2023,state_personal_income,387601.3,Millions of current dollars
+29000,Missouri,2024,state_personal_income,405457.2,Millions of current dollars
+29000,Missouri,2020,state_pce,248151.4,Millions of current dollars
+29000,Missouri,2021,state_pce,277655,Millions of current dollars
+29000,Missouri,2022,state_pce,302910.8,Millions of current dollars
+29000,Missouri,2023,state_pce,324412.5,Millions of current dollars
+29000,Missouri,2024,state_pce,339782.9,Millions of current dollars
+29000,Missouri,2020,state_per_capita_income,52204,Dollars
+29000,Missouri,2021,state_per_capita_income,56896,Dollars
+29000,Missouri,2022,state_per_capita_income,58527,Dollars
+29000,Missouri,2023,state_per_capita_income,62456,Dollars
+29000,Missouri,2024,state_per_capita_income,64940,Dollars
+29000,Missouri,2020,state_per_capita_pce,40319,Dollars
+29000,Missouri,2021,state_per_capita_pce,44991,Dollars
+29000,Missouri,2022,state_per_capita_pce,49019,Dollars
+29000,Missouri,2023,state_per_capita_pce,52257,Dollars
+29000,Missouri,2024,state_per_capita_pce,54405,Dollars
+29000,Missouri,2020,state_total_employment,3691104,Number of jobs
+29000,Missouri,2021,state_total_employment,3792314,Number of jobs
+29000,Missouri,2022,state_total_employment,3879856,Number of jobs
+29000,Missouri,2023,state_total_employment,3985694,Number of jobs
+29000,Missouri,2024,state_total_employment,4008112,Number of jobs
+30000,Montana,2020,state_real_gdp,50062.9,Millions of chained 2017 dollars
+30000,Montana,2021,state_real_gdp,53345.9,Millions of chained 2017 dollars
+30000,Montana,2022,state_real_gdp,55806.9,Millions of chained 2017 dollars
+30000,Montana,2023,state_real_gdp,58604.9,Millions of chained 2017 dollars
+30000,Montana,2024,state_real_gdp,60605.7,Millions of chained 2017 dollars
+30000,Montana,2020,state_personal_income,58241.5,Millions of current dollars
+30000,Montana,2021,state_personal_income,65539.6,Millions of current dollars
+30000,Montana,2022,state_personal_income,69666.5,Millions of current dollars
+30000,Montana,2023,state_personal_income,74870.4,Millions of current dollars
+30000,Montana,2024,state_personal_income,78741.6,Millions of current dollars
+30000,Montana,2020,state_pce,45898.8,Millions of current dollars
+30000,Montana,2021,state_pce,53404.9,Millions of current dollars
+30000,Montana,2022,state_pce,59020.5,Millions of current dollars
+30000,Montana,2023,state_pce,62459.4,Millions of current dollars
+30000,Montana,2024,state_pce,66526.5,Millions of current dollars
+30000,Montana,2020,state_per_capita_income,53572,Dollars
+30000,Montana,2021,state_per_capita_income,59236,Dollars
+30000,Montana,2022,state_per_capita_income,62117,Dollars
+30000,Montana,2023,state_per_capita_income,66221,Dollars
+30000,Montana,2024,state_per_capita_income,69220,Dollars
+30000,Montana,2020,state_per_capita_pce,42216,Dollars
+30000,Montana,2021,state_per_capita_pce,48264,Dollars
+30000,Montana,2022,state_per_capita_pce,52598,Dollars
+30000,Montana,2023,state_per_capita_pce,55210,Dollars
+30000,Montana,2024,state_per_capita_pce,58499,Dollars
+30000,Montana,2020,state_total_employment,683414,Number of jobs
+30000,Montana,2021,state_total_employment,714901,Number of jobs
+30000,Montana,2022,state_total_employment,737303,Number of jobs
+30000,Montana,2023,state_total_employment,760516,Number of jobs
+30000,Montana,2024,state_total_employment,764760,Number of jobs
+31000,Nebraska,2020,state_real_gdp,126711.2,Millions of chained 2017 dollars
+31000,Nebraska,2021,state_real_gdp,135166.4,Millions of chained 2017 dollars
+31000,Nebraska,2022,state_real_gdp,139878.1,Millions of chained 2017 dollars
+31000,Nebraska,2023,state_real_gdp,147146.5,Millions of chained 2017 dollars
+31000,Nebraska,2024,state_real_gdp,148102.8,Millions of chained 2017 dollars
+31000,Nebraska,2020,state_personal_income,111734.1,Millions of current dollars
+31000,Nebraska,2021,state_personal_income,125057.8,Millions of current dollars
+31000,Nebraska,2022,state_personal_income,130888.6,Millions of current dollars
+31000,Nebraska,2023,state_personal_income,142166.5,Millions of current dollars
+31000,Nebraska,2024,state_personal_income,145798.5,Millions of current dollars
+31000,Nebraska,2020,state_pce,79381.6,Millions of current dollars
+31000,Nebraska,2021,state_pce,89828.4,Millions of current dollars
+31000,Nebraska,2022,state_pce,98018.6,Millions of current dollars
+31000,Nebraska,2023,state_pce,103648.8,Millions of current dollars
+31000,Nebraska,2024,state_pce,109322.5,Millions of current dollars
+31000,Nebraska,2020,state_per_capita_income,56911,Dollars
+31000,Nebraska,2021,state_per_capita_income,63652,Dollars
+31000,Nebraska,2022,state_per_capita_income,66354,Dollars
+31000,Nebraska,2023,state_per_capita_income,71506,Dollars
+31000,Nebraska,2024,state_per_capita_income,72696,Dollars
+31000,Nebraska,2020,state_per_capita_pce,40431,Dollars
+31000,Nebraska,2021,state_per_capita_pce,45725,Dollars
+31000,Nebraska,2022,state_per_capita_pce,49699,Dollars
+31000,Nebraska,2023,state_per_capita_pce,52141,Dollars
+31000,Nebraska,2024,state_per_capita_pce,54512,Dollars
+31000,Nebraska,2020,state_total_employment,1305702,Number of jobs
+31000,Nebraska,2021,state_total_employment,1334521,Number of jobs
+31000,Nebraska,2022,state_total_employment,1357391,Number of jobs
+31000,Nebraska,2023,state_total_employment,1396472,Number of jobs
+31000,Nebraska,2024,state_total_employment,1405802,Number of jobs
+32000,Nevada,2020,state_real_gdp,165924.8,Millions of chained 2017 dollars
+32000,Nevada,2021,state_real_gdp,182618.3,Millions of chained 2017 dollars
+32000,Nevada,2022,state_real_gdp,194463.9,Millions of chained 2017 dollars
+32000,Nevada,2023,state_real_gdp,201158.6,Millions of chained 2017 dollars
+32000,Nevada,2024,state_real_gdp,207351.9,Millions of chained 2017 dollars
+32000,Nevada,2020,state_personal_income,170447.5,Millions of current dollars
+32000,Nevada,2021,state_personal_income,192132.9,Millions of current dollars
+32000,Nevada,2022,state_personal_income,199226.6,Millions of current dollars
+32000,Nevada,2023,state_personal_income,214392.7,Millions of current dollars
+32000,Nevada,2024,state_personal_income,228086.6,Millions of current dollars
+32000,Nevada,2020,state_pce,127046.2,Millions of current dollars
+32000,Nevada,2021,state_pce,146358,Millions of current dollars
+32000,Nevada,2022,state_pce,162897.8,Millions of current dollars
+32000,Nevada,2023,state_pce,172886.2,Millions of current dollars
+32000,Nevada,2024,state_pce,183314.8,Millions of current dollars
+32000,Nevada,2020,state_per_capita_income,54686,Dollars
+32000,Nevada,2021,state_per_capita_income,61024,Dollars
+32000,Nevada,2022,state_per_capita_income,62696,Dollars
+32000,Nevada,2023,state_per_capita_income,66767,Dollars
+32000,Nevada,2024,state_per_capita_income,70104,Dollars
+32000,Nevada,2020,state_per_capita_pce,40760,Dollars
+32000,Nevada,2021,state_per_capita_pce,46490,Dollars
+32000,Nevada,2022,state_per_capita_pce,51288,Dollars
+32000,Nevada,2023,state_per_capita_pce,53786,Dollars
+32000,Nevada,2024,state_per_capita_pce,56103,Dollars
+32000,Nevada,2020,state_total_employment,1770794,Number of jobs
+32000,Nevada,2021,state_total_employment,1912665,Number of jobs
+32000,Nevada,2022,state_total_employment,2043934,Number of jobs
+32000,Nevada,2023,state_total_employment,2123253,Number of jobs
+32000,Nevada,2024,state_total_employment,2150803,Number of jobs
+33000,New Hampshire,2020,state_real_gdp,83682.9,Millions of chained 2017 dollars
+33000,New Hampshire,2021,state_real_gdp,90296.7,Millions of chained 2017 dollars
+33000,New Hampshire,2022,state_real_gdp,91702.1,Millions of chained 2017 dollars
+33000,New Hampshire,2023,state_real_gdp,93645.8,Millions of chained 2017 dollars
+33000,New Hampshire,2024,state_real_gdp,94926,Millions of chained 2017 dollars
+33000,New Hampshire,2020,state_personal_income,93153.8,Millions of current dollars
+33000,New Hampshire,2021,state_personal_income,102663.3,Millions of current dollars
+33000,New Hampshire,2022,state_personal_income,105210.8,Millions of current dollars
+33000,New Hampshire,2023,state_personal_income,111148.6,Millions of current dollars
+33000,New Hampshire,2024,state_personal_income,117220.3,Millions of current dollars
+33000,New Hampshire,2020,state_pce,70886.2,Millions of current dollars
+33000,New Hampshire,2021,state_pce,78741.8,Millions of current dollars
+33000,New Hampshire,2022,state_pce,87087.8,Millions of current dollars
+33000,New Hampshire,2023,state_pce,91685.2,Millions of current dollars
+33000,New Hampshire,2024,state_pce,97081.9,Millions of current dollars
+33000,New Hampshire,2020,state_per_capita_income,67564,Dollars
+33000,New Hampshire,2021,state_per_capita_income,73970,Dollars
+33000,New Hampshire,2022,state_per_capita_income,75331,Dollars
+33000,New Hampshire,2023,state_per_capita_income,79305,Dollars
+33000,New Hampshire,2024,state_per_capita_income,83222,Dollars
+33000,New Hampshire,2020,state_per_capita_pce,51413,Dollars
+33000,New Hampshire,2021,state_per_capita_pce,56744,Dollars
+33000,New Hampshire,2022,state_per_capita_pce,62354,Dollars
+33000,New Hampshire,2023,state_per_capita_pce,65387,Dollars
+33000,New Hampshire,2024,state_per_capita_pce,68900,Dollars
+33000,New Hampshire,2020,state_total_employment,858532,Number of jobs
+33000,New Hampshire,2021,state_total_employment,894652,Number of jobs
+33000,New Hampshire,2022,state_total_employment,918549,Number of jobs
+33000,New Hampshire,2023,state_total_employment,942052,Number of jobs
+33000,New Hampshire,2024,state_total_employment,950273,Number of jobs
+34000,New Jersey,2020,state_real_gdp,598481.3,Millions of chained 2017 dollars
+34000,New Jersey,2021,state_real_gdp,631158.3,Millions of chained 2017 dollars
+34000,New Jersey,2022,state_real_gdp,648512.4,Millions of chained 2017 dollars
+34000,New Jersey,2023,state_real_gdp,662320.1,Millions of chained 2017 dollars
+34000,New Jersey,2024,state_real_gdp,675897.6,Millions of chained 2017 dollars
+34000,New Jersey,2020,state_personal_income,653214.2,Millions of current dollars
+34000,New Jersey,2021,state_personal_income,707402.6,Millions of current dollars
+34000,New Jersey,2022,state_personal_income,719848.2,Millions of current dollars
+34000,New Jersey,2023,state_personal_income,765228.3,Millions of current dollars
+34000,New Jersey,2024,state_personal_income,806558.7,Millions of current dollars
+34000,New Jersey,2020,state_pce,454040.6,Millions of current dollars
+34000,New Jersey,2021,state_pce,517132.8,Millions of current dollars
+34000,New Jersey,2022,state_pce,558943.5,Millions of current dollars
+34000,New Jersey,2023,state_pce,593447,Millions of current dollars
+34000,New Jersey,2024,state_pce,625846.8,Millions of current dollars
+34000,New Jersey,2020,state_per_capita_income,70462,Dollars
+34000,New Jersey,2021,state_per_capita_income,76340,Dollars
+34000,New Jersey,2022,state_per_capita_income,77416,Dollars
+34000,New Jersey,2023,state_per_capita_income,81448,Dollars
+34000,New Jersey,2024,state_per_capita_income,84844,Dollars
+34000,New Jersey,2020,state_per_capita_pce,48965,Dollars
+34000,New Jersey,2021,state_per_capita_pce,55782,Dollars
+34000,New Jersey,2022,state_per_capita_pce,60132,Dollars
+34000,New Jersey,2023,state_per_capita_pce,63270,Dollars
+34000,New Jersey,2024,state_per_capita_pce,65873,Dollars
+34000,New Jersey,2020,state_total_employment,5319882,Number of jobs
+34000,New Jersey,2021,state_total_employment,5585243,Number of jobs
+34000,New Jersey,2022,state_total_employment,5874321,Number of jobs
+34000,New Jersey,2023,state_total_employment,6055271,Number of jobs
+34000,New Jersey,2024,state_total_employment,6069474,Number of jobs
+35000,New Mexico,2020,state_real_gdp,98004,Millions of chained 2017 dollars
+35000,New Mexico,2021,state_real_gdp,101499.2,Millions of chained 2017 dollars
+35000,New Mexico,2022,state_real_gdp,104212.8,Millions of chained 2017 dollars
+35000,New Mexico,2023,state_real_gdp,114059.2,Millions of chained 2017 dollars
+35000,New Mexico,2024,state_real_gdp,119044.5,Millions of chained 2017 dollars
+35000,New Mexico,2020,state_personal_income,98634.3,Millions of current dollars
+35000,New Mexico,2021,state_personal_income,107674.3,Millions of current dollars
+35000,New Mexico,2022,state_personal_income,112280.3,Millions of current dollars
+35000,New Mexico,2023,state_personal_income,117634.3,Millions of current dollars
+35000,New Mexico,2024,state_personal_income,124086.2,Millions of current dollars
+35000,New Mexico,2020,state_pce,74366.5,Millions of current dollars
+35000,New Mexico,2021,state_pce,84891.2,Millions of current dollars
+35000,New Mexico,2022,state_pce,92627.2,Millions of current dollars
+35000,New Mexico,2023,state_pce,97745.6,Millions of current dollars
+35000,New Mexico,2024,state_pce,102505.2,Millions of current dollars
+35000,New Mexico,2020,state_per_capita_income,46560,Dollars
+35000,New Mexico,2021,state_per_capita_income,50855,Dollars
+35000,New Mexico,2022,state_per_capita_income,53141,Dollars
+35000,New Mexico,2023,state_per_capita_income,55505,Dollars
+35000,New Mexico,2024,state_per_capita_income,58345,Dollars
+35000,New Mexico,2020,state_per_capita_pce,35102,Dollars
+35000,New Mexico,2021,state_per_capita_pce,40093,Dollars
+35000,New Mexico,2022,state_per_capita_pce,43819,Dollars
+35000,New Mexico,2023,state_per_capita_pce,46081,Dollars
+35000,New Mexico,2024,state_per_capita_pce,48119,Dollars
+35000,New Mexico,2020,state_total_employment,1068905,Number of jobs
+35000,New Mexico,2021,state_total_employment,1091131,Number of jobs
+35000,New Mexico,2022,state_total_employment,1131162,Number of jobs
+35000,New Mexico,2023,state_total_employment,1168737,Number of jobs
+35000,New Mexico,2024,state_total_employment,1183348,Number of jobs
+36000,New York,2020,state_real_gdp,1667234.8,Millions of chained 2017 dollars
+36000,New York,2021,state_real_gdp,1750551.2,Millions of chained 2017 dollars
+36000,New York,2022,state_real_gdp,1781554.1,Millions of chained 2017 dollars
+36000,New York,2023,state_real_gdp,1793384.5,Millions of chained 2017 dollars
+36000,New York,2024,state_real_gdp,1840059.3,Millions of chained 2017 dollars
+36000,New York,2020,state_personal_income,1415644.9,Millions of current dollars
+36000,New York,2021,state_personal_income,1515619.3,Millions of current dollars
+36000,New York,2022,state_personal_income,1526280.6,Millions of current dollars
+36000,New York,2023,state_personal_income,1617130.9,Millions of current dollars
+36000,New York,2024,state_personal_income,1699680,Millions of current dollars
+36000,New York,2020,state_pce,963039.2,Millions of current dollars
+36000,New York,2021,state_pce,1067079.3,Millions of current dollars
+36000,New York,2022,state_pce,1164750.8,Millions of current dollars
+36000,New York,2023,state_pce,1248430.3,Millions of current dollars
+36000,New York,2024,state_pce,1319699.9,Millions of current dollars
+36000,New York,2020,state_per_capita_income,70352,Dollars
+36000,New York,2021,state_per_capita_income,76410,Dollars
+36000,New York,2022,state_per_capita_income,77425,Dollars
+36000,New York,2023,state_per_capita_income,81729,Dollars
+36000,New York,2024,state_per_capita_income,84978,Dollars
+36000,New York,2020,state_per_capita_pce,47900,Dollars
+36000,New York,2021,state_per_capita_pce,53762,Dollars
+36000,New York,2022,state_per_capita_pce,59113,Dollars
+36000,New York,2023,state_per_capita_pce,63252,Dollars
+36000,New York,2024,state_per_capita_pce,66426,Dollars
+36000,New York,2020,state_total_employment,11871200,Number of jobs
+36000,New York,2021,state_total_employment,12226675,Number of jobs
+36000,New York,2022,state_total_employment,12796836,Number of jobs
+36000,New York,2023,state_total_employment,13181774,Number of jobs
+36000,New York,2024,state_total_employment,13312196,Number of jobs
+37000,North Carolina,2020,state_real_gdp,564278.8,Millions of chained 2017 dollars
+37000,North Carolina,2021,state_real_gdp,599293.8,Millions of chained 2017 dollars
+37000,North Carolina,2022,state_real_gdp,620666.5,Millions of chained 2017 dollars
+37000,North Carolina,2023,state_real_gdp,643045.8,Millions of chained 2017 dollars
+37000,North Carolina,2024,state_real_gdp,664131.6,Millions of chained 2017 dollars
+37000,North Carolina,2020,state_personal_income,541462.5,Millions of current dollars
+37000,North Carolina,2021,state_personal_income,604630.7,Millions of current dollars
+37000,North Carolina,2022,state_personal_income,632926.5,Millions of current dollars
+37000,North Carolina,2023,state_personal_income,677170.4,Millions of current dollars
+37000,North Carolina,2024,state_personal_income,724994.6,Millions of current dollars
+37000,North Carolina,2020,state_pce,408579.1,Millions of current dollars
+37000,North Carolina,2021,state_pce,469330.3,Millions of current dollars
+37000,North Carolina,2022,state_pce,517674.1,Millions of current dollars
+37000,North Carolina,2023,state_pce,555286.7,Millions of current dollars
+37000,North Carolina,2024,state_pce,589125.1,Millions of current dollars
+37000,North Carolina,2020,state_per_capita_income,51814,Dollars
+37000,North Carolina,2021,state_per_capita_income,57227,Dollars
+37000,North Carolina,2022,state_per_capita_income,59120,Dollars
+37000,North Carolina,2023,state_per_capita_income,62287,Dollars
+37000,North Carolina,2024,state_per_capita_income,65598,Dollars
+37000,North Carolina,2020,state_per_capita_pce,39100,Dollars
+37000,North Carolina,2021,state_per_capita_pce,44426,Dollars
+37000,North Carolina,2022,state_per_capita_pce,48332,Dollars
+37000,North Carolina,2023,state_per_capita_pce,51032,Dollars
+37000,North Carolina,2024,state_per_capita_pce,53334,Dollars
+37000,North Carolina,2020,state_total_employment,6054497,Number of jobs
+37000,North Carolina,2021,state_total_employment,6317579,Number of jobs
+37000,North Carolina,2022,state_total_employment,6572997,Number of jobs
+37000,North Carolina,2023,state_total_employment,6762704,Number of jobs
+37000,North Carolina,2024,state_total_employment,6844808,Number of jobs
+38000,North Dakota,2020,state_real_gdp,56602.8,Millions of chained 2017 dollars
+38000,North Dakota,2021,state_real_gdp,57351.3,Millions of chained 2017 dollars
+38000,North Dakota,2022,state_real_gdp,57031.1,Millions of chained 2017 dollars
+38000,North Dakota,2023,state_real_gdp,62114.7,Millions of chained 2017 dollars
+38000,North Dakota,2024,state_real_gdp,63366.4,Millions of chained 2017 dollars
+38000,North Dakota,2020,state_personal_income,47122.5,Millions of current dollars
+38000,North Dakota,2021,state_personal_income,51468.4,Millions of current dollars
+38000,North Dakota,2022,state_personal_income,55463.3,Millions of current dollars
+38000,North Dakota,2023,state_personal_income,56452.5,Millions of current dollars
+38000,North Dakota,2024,state_personal_income,57153.4,Millions of current dollars
+38000,North Dakota,2020,state_pce,35136.2,Millions of current dollars
+38000,North Dakota,2021,state_pce,38434.3,Millions of current dollars
+38000,North Dakota,2022,state_pce,41398.6,Millions of current dollars
+38000,North Dakota,2023,state_pce,44219.1,Millions of current dollars
+38000,North Dakota,2024,state_pce,46272.8,Millions of current dollars
+38000,North Dakota,2020,state_per_capita_income,60444,Dollars
+38000,North Dakota,2021,state_per_capita_income,66157,Dollars
+38000,North Dakota,2022,state_per_capita_income,71089,Dollars
+38000,North Dakota,2023,state_per_capita_income,71725,Dollars
+38000,North Dakota,2024,state_per_capita_income,72037,Dollars
+38000,North Dakota,2020,state_per_capita_pce,45072,Dollars
+38000,North Dakota,2021,state_per_capita_pce,49404,Dollars
+38000,North Dakota,2022,state_per_capita_pce,53003,Dollars
+38000,North Dakota,2023,state_per_capita_pce,56041,Dollars
+38000,North Dakota,2024,state_per_capita_pce,58090,Dollars
+38000,North Dakota,2020,state_total_employment,560316,Number of jobs
+38000,North Dakota,2021,state_total_employment,567429,Number of jobs
+38000,North Dakota,2022,state_total_employment,581410,Number of jobs
+38000,North Dakota,2023,state_total_employment,597884,Number of jobs
+38000,North Dakota,2024,state_total_employment,604751,Number of jobs
+39000,Ohio,2020,state_real_gdp,655730.1,Millions of chained 2017 dollars
+39000,Ohio,2021,state_real_gdp,691630,Millions of chained 2017 dollars
+39000,Ohio,2022,state_real_gdp,694473.4,Millions of chained 2017 dollars
+39000,Ohio,2023,state_real_gdp,707996.2,Millions of chained 2017 dollars
+39000,Ohio,2024,state_real_gdp,721997.3,Millions of chained 2017 dollars
+39000,Ohio,2020,state_personal_income,623575,Millions of current dollars
+39000,Ohio,2021,state_personal_income,676718.3,Millions of current dollars
+39000,Ohio,2022,state_personal_income,685892.1,Millions of current dollars
+39000,Ohio,2023,state_personal_income,730013.2,Millions of current dollars
+39000,Ohio,2024,state_personal_income,766045.8,Millions of current dollars
+39000,Ohio,2020,state_pce,469319.4,Millions of current dollars
+39000,Ohio,2021,state_pce,522375.5,Millions of current dollars
+39000,Ohio,2022,state_pce,566040.9,Millions of current dollars
+39000,Ohio,2023,state_pce,596661.5,Millions of current dollars
+39000,Ohio,2024,state_pce,626340.2,Millions of current dollars
+39000,Ohio,2020,state_per_capita_income,52852,Dollars
+39000,Ohio,2021,state_per_capita_income,57537,Dollars
+39000,Ohio,2022,state_per_capita_income,58300,Dollars
+39000,Ohio,2023,state_per_capita_income,61822,Dollars
+39000,Ohio,2024,state_per_capita_income,64587,Dollars
+39000,Ohio,2020,state_per_capita_pce,39777,Dollars
+39000,Ohio,2021,state_per_capita_pce,44392,Dollars
+39000,Ohio,2022,state_per_capita_pce,48060,Dollars
+39000,Ohio,2023,state_per_capita_pce,50462,Dollars
+39000,Ohio,2024,state_per_capita_pce,52708,Dollars
+39000,Ohio,2020,state_total_employment,6853292,Number of jobs
+39000,Ohio,2021,state_total_employment,7048052,Number of jobs
+39000,Ohio,2022,state_total_employment,7216118,Number of jobs
+39000,Ohio,2023,state_total_employment,7368050,Number of jobs
+39000,Ohio,2024,state_total_employment,7434117,Number of jobs
+40000,Oklahoma,2020,state_real_gdp,191377,Millions of chained 2017 dollars
+40000,Oklahoma,2021,state_real_gdp,194991.2,Millions of chained 2017 dollars
+40000,Oklahoma,2022,state_real_gdp,194170.9,Millions of chained 2017 dollars
+40000,Oklahoma,2023,state_real_gdp,207072.7,Millions of chained 2017 dollars
+40000,Oklahoma,2024,state_real_gdp,210315.9,Millions of chained 2017 dollars
+40000,Oklahoma,2020,state_personal_income,198234.3,Millions of current dollars
+40000,Oklahoma,2021,state_personal_income,217902.1,Millions of current dollars
+40000,Oklahoma,2022,state_personal_income,233182.3,Millions of current dollars
+40000,Oklahoma,2023,state_personal_income,247300.5,Millions of current dollars
+40000,Oklahoma,2024,state_personal_income,260910.2,Millions of current dollars
+40000,Oklahoma,2020,state_pce,138204.9,Millions of current dollars
+40000,Oklahoma,2021,state_pce,155942.5,Millions of current dollars
+40000,Oklahoma,2022,state_pce,170231,Millions of current dollars
+40000,Oklahoma,2023,state_pce,180517.6,Millions of current dollars
+40000,Oklahoma,2024,state_pce,189695,Millions of current dollars
+40000,Oklahoma,2020,state_per_capita_income,49993,Dollars
+40000,Oklahoma,2021,state_per_capita_income,54574,Dollars
+40000,Oklahoma,2022,state_per_capita_income,57929,Dollars
+40000,Oklahoma,2023,state_per_capita_income,60871,Dollars
+40000,Oklahoma,2024,state_per_capita_income,63671,Dollars
+40000,Oklahoma,2020,state_per_capita_pce,34853,Dollars
+40000,Oklahoma,2021,state_per_capita_pce,39061,Dollars
+40000,Oklahoma,2022,state_per_capita_pce,42280,Dollars
+40000,Oklahoma,2023,state_per_capita_pce,44420,Dollars
+40000,Oklahoma,2024,state_per_capita_pce,46319,Dollars
+40000,Oklahoma,2020,state_total_employment,2265447,Number of jobs
+40000,Oklahoma,2021,state_total_employment,2311367,Number of jobs
+40000,Oklahoma,2022,state_total_employment,2380642,Number of jobs
+40000,Oklahoma,2023,state_total_employment,2450387,Number of jobs
+40000,Oklahoma,2024,state_total_employment,2474908,Number of jobs
+41000,Oregon,2020,state_real_gdp,236651.4,Millions of chained 2017 dollars
+41000,Oregon,2021,state_real_gdp,250919.9,Millions of chained 2017 dollars
+41000,Oregon,2022,state_real_gdp,254237.5,Millions of chained 2017 dollars
+41000,Oregon,2023,state_real_gdp,258023.4,Millions of chained 2017 dollars
+41000,Oregon,2024,state_real_gdp,263347.7,Millions of chained 2017 dollars
+41000,Oregon,2020,state_personal_income,240450.4,Millions of current dollars
+41000,Oregon,2021,state_personal_income,266544.6,Millions of current dollars
+41000,Oregon,2022,state_personal_income,270427.9,Millions of current dollars
+41000,Oregon,2023,state_personal_income,286979.9,Millions of current dollars
+41000,Oregon,2024,state_personal_income,302582.3,Millions of current dollars
+41000,Oregon,2020,state_pce,179333.6,Millions of current dollars
+41000,Oregon,2021,state_pce,203118.2,Millions of current dollars
+41000,Oregon,2022,state_pce,222768.7,Millions of current dollars
+41000,Oregon,2023,state_pce,236306,Millions of current dollars
+41000,Oregon,2024,state_pce,248436.8,Millions of current dollars
+41000,Oregon,2020,state_per_capita_income,56663,Dollars
+41000,Oregon,2021,state_per_capita_income,62647,Dollars
+41000,Oregon,2022,state_per_capita_income,63691,Dollars
+41000,Oregon,2023,state_per_capita_income,67518,Dollars
+41000,Oregon,2024,state_per_capita_income,70940,Dollars
+41000,Oregon,2020,state_per_capita_pce,42258,Dollars
+41000,Oregon,2021,state_per_capita_pce,47744,Dollars
+41000,Oregon,2022,state_per_capita_pce,52449,Dollars
+41000,Oregon,2023,state_per_capita_pce,55554,Dollars
+41000,Oregon,2024,state_per_capita_pce,58150,Dollars
+41000,Oregon,2020,state_total_employment,2493913,Number of jobs
+41000,Oregon,2021,state_total_employment,2558974,Number of jobs
+41000,Oregon,2022,state_total_employment,2618298,Number of jobs
+41000,Oregon,2023,state_total_employment,2683848,Number of jobs
+41000,Oregon,2024,state_total_employment,2707024,Number of jobs
+42000,Pennsylvania,2020,state_real_gdp,738176.1,Millions of chained 2017 dollars
+42000,Pennsylvania,2021,state_real_gdp,766140,Millions of chained 2017 dollars
+42000,Pennsylvania,2022,state_real_gdp,776824.7,Millions of chained 2017 dollars
+42000,Pennsylvania,2023,state_real_gdp,789918.5,Millions of chained 2017 dollars
+42000,Pennsylvania,2024,state_real_gdp,803232.5,Millions of chained 2017 dollars
+42000,Pennsylvania,2020,state_personal_income,783389.5,Millions of current dollars
+42000,Pennsylvania,2021,state_personal_income,833103.4,Millions of current dollars
+42000,Pennsylvania,2022,state_personal_income,845037.9,Millions of current dollars
+42000,Pennsylvania,2023,state_personal_income,885950,Millions of current dollars
+42000,Pennsylvania,2024,state_personal_income,924379.6,Millions of current dollars
+42000,Pennsylvania,2020,state_pce,574762.4,Millions of current dollars
+42000,Pennsylvania,2021,state_pce,638410.2,Millions of current dollars
+42000,Pennsylvania,2022,state_pce,702865.3,Millions of current dollars
+42000,Pennsylvania,2023,state_pce,737727.4,Millions of current dollars
+42000,Pennsylvania,2024,state_pce,775048.3,Millions of current dollars
+42000,Pennsylvania,2020,state_per_capita_income,60281,Dollars
+42000,Pennsylvania,2021,state_per_capita_income,64003,Dollars
+42000,Pennsylvania,2022,state_per_capita_income,65080,Dollars
+42000,Pennsylvania,2023,state_per_capita_income,68101,Dollars
+42000,Pennsylvania,2024,state_per_capita_income,70856,Dollars
+42000,Pennsylvania,2020,state_per_capita_pce,44226,Dollars
+42000,Pennsylvania,2021,state_per_capita_pce,49050,Dollars
+42000,Pennsylvania,2022,state_per_capita_pce,54129,Dollars
+42000,Pennsylvania,2023,state_per_capita_pce,56671,Dollars
+42000,Pennsylvania,2024,state_per_capita_pce,59260,Dollars
+42000,Pennsylvania,2020,state_total_employment,7412858,Number of jobs
+42000,Pennsylvania,2021,state_total_employment,7648662,Number of jobs
+42000,Pennsylvania,2022,state_total_employment,7903549,Number of jobs
+42000,Pennsylvania,2023,state_total_employment,8080499,Number of jobs
+42000,Pennsylvania,2024,state_total_employment,8146346,Number of jobs
+44000,Rhode Island,2020,state_real_gdp,58132.3,Millions of chained 2017 dollars
+44000,Rhode Island,2021,state_real_gdp,60660,Millions of chained 2017 dollars
+44000,Rhode Island,2022,state_real_gdp,61517.3,Millions of chained 2017 dollars
+44000,Rhode Island,2023,state_real_gdp,62119.3,Millions of chained 2017 dollars
+44000,Rhode Island,2024,state_real_gdp,63459.1,Millions of chained 2017 dollars
+44000,Rhode Island,2020,state_personal_income,64996.8,Millions of current dollars
+44000,Rhode Island,2021,state_personal_income,69245.5,Millions of current dollars
+44000,Rhode Island,2022,state_personal_income,70880.1,Millions of current dollars
+44000,Rhode Island,2023,state_personal_income,74777.8,Millions of current dollars
+44000,Rhode Island,2024,state_personal_income,78553.7,Millions of current dollars
+44000,Rhode Island,2020,state_pce,47415,Millions of current dollars
+44000,Rhode Island,2021,state_pce,53660.2,Millions of current dollars
+44000,Rhode Island,2022,state_pce,57599.3,Millions of current dollars
+44000,Rhode Island,2023,state_pce,61014.8,Millions of current dollars
+44000,Rhode Island,2024,state_pce,64559.6,Millions of current dollars
+44000,Rhode Island,2020,state_per_capita_income,59277,Dollars
+44000,Rhode Island,2021,state_per_capita_income,63101,Dollars
+44000,Rhode Island,2022,state_per_capita_income,64538,Dollars
+44000,Rhode Island,2023,state_per_capita_income,67907,Dollars
+44000,Rhode Island,2024,state_per_capita_income,70743,Dollars
+44000,Rhode Island,2020,state_per_capita_pce,43241,Dollars
+44000,Rhode Island,2021,state_per_capita_pce,48904,Dollars
+44000,Rhode Island,2022,state_per_capita_pce,52387,Dollars
+44000,Rhode Island,2023,state_per_capita_pce,55296,Dollars
+44000,Rhode Island,2024,state_per_capita_pce,58041,Dollars
+44000,Rhode Island,2020,state_total_employment,615729,Number of jobs
+44000,Rhode Island,2021,state_total_employment,640196,Number of jobs
+44000,Rhode Island,2022,state_total_employment,665718,Number of jobs
+44000,Rhode Island,2023,state_total_employment,682890,Number of jobs
+44000,Rhode Island,2024,state_total_employment,688383,Number of jobs
+45000,South Carolina,2020,state_real_gdp,233294.4,Millions of chained 2017 dollars
+45000,South Carolina,2021,state_real_gdp,245812,Millions of chained 2017 dollars
+45000,South Carolina,2022,state_real_gdp,256608.5,Millions of chained 2017 dollars
+45000,South Carolina,2023,state_real_gdp,266037.8,Millions of chained 2017 dollars
+45000,South Carolina,2024,state_real_gdp,278032.8,Millions of chained 2017 dollars
+45000,South Carolina,2020,state_personal_income,250250.5,Millions of current dollars
+45000,South Carolina,2021,state_personal_income,277322.6,Millions of current dollars
+45000,South Carolina,2022,state_personal_income,288512.6,Millions of current dollars
+45000,South Carolina,2023,state_personal_income,311235.5,Millions of current dollars
+45000,South Carolina,2024,state_personal_income,332982.7,Millions of current dollars
+45000,South Carolina,2020,state_pce,196245.5,Millions of current dollars
+45000,South Carolina,2021,state_pce,223864.5,Millions of current dollars
+45000,South Carolina,2022,state_pce,247490.8,Millions of current dollars
+45000,South Carolina,2023,state_pce,265327.3,Millions of current dollars
+45000,South Carolina,2024,state_pce,281738.2,Millions of current dollars
+45000,South Carolina,2020,state_per_capita_income,48763,Dollars
+45000,South Carolina,2021,state_per_capita_income,53389,Dollars
+45000,South Carolina,2022,state_per_capita_income,54550,Dollars
+45000,South Carolina,2023,state_per_capita_income,57735,Dollars
+45000,South Carolina,2024,state_per_capita_income,60649,Dollars
+45000,South Carolina,2020,state_per_capita_pce,38238,Dollars
+45000,South Carolina,2021,state_per_capita_pce,43098,Dollars
+45000,South Carolina,2022,state_per_capita_pce,46803,Dollars
+45000,South Carolina,2023,state_per_capita_pce,49246,Dollars
+45000,South Carolina,2024,state_per_capita_pce,51423,Dollars
+45000,South Carolina,2020,state_total_employment,2824833,Number of jobs
+45000,South Carolina,2021,state_total_employment,2937464,Number of jobs
+45000,South Carolina,2022,state_total_employment,3056434,Number of jobs
+45000,South Carolina,2023,state_total_employment,3163255,Number of jobs
+45000,South Carolina,2024,state_total_employment,3205971,Number of jobs
+46000,South Dakota,2020,state_real_gdp,53349.2,Millions of chained 2017 dollars
+46000,South Dakota,2021,state_real_gdp,56015.4,Millions of chained 2017 dollars
+46000,South Dakota,2022,state_real_gdp,55257.2,Millions of chained 2017 dollars
+46000,South Dakota,2023,state_real_gdp,57253,Millions of chained 2017 dollars
+46000,South Dakota,2024,state_real_gdp,57718,Millions of chained 2017 dollars
+46000,South Dakota,2020,state_personal_income,52908.8,Millions of current dollars
+46000,South Dakota,2021,state_personal_income,60221,Millions of current dollars
+46000,South Dakota,2022,state_personal_income,63454.7,Millions of current dollars
+46000,South Dakota,2023,state_personal_income,68097,Millions of current dollars
+46000,South Dakota,2024,state_personal_income,69996.3,Millions of current dollars
+46000,South Dakota,2020,state_pce,36743.1,Millions of current dollars
+46000,South Dakota,2021,state_pce,41411.9,Millions of current dollars
+46000,South Dakota,2022,state_pce,45221.5,Millions of current dollars
+46000,South Dakota,2023,state_pce,47593.1,Millions of current dollars
+46000,South Dakota,2024,state_pce,50024.9,Millions of current dollars
+46000,South Dakota,2020,state_per_capita_income,59595,Dollars
+46000,South Dakota,2021,state_per_capita_income,67188,Dollars
+46000,South Dakota,2022,state_per_capita_income,69795,Dollars
+46000,South Dakota,2023,state_per_capita_income,74201,Dollars
+46000,South Dakota,2024,state_per_capita_income,75499,Dollars
+46000,South Dakota,2020,state_per_capita_pce,41380,Dollars
+46000,South Dakota,2021,state_per_capita_pce,46193,Dollars
+46000,South Dakota,2022,state_per_capita_pce,49709,Dollars
+46000,South Dakota,2023,state_per_capita_pce,51827,Dollars
+46000,South Dakota,2024,state_per_capita_pce,54100,Dollars
+46000,South Dakota,2020,state_total_employment,606045,Number of jobs
+46000,South Dakota,2021,state_total_employment,624996,Number of jobs
+46000,South Dakota,2022,state_total_employment,641124,Number of jobs
+46000,South Dakota,2023,state_total_employment,657822,Number of jobs
+46000,South Dakota,2024,state_total_employment,662833,Number of jobs
+47000,Tennessee,2020,state_real_gdp,368057,Millions of chained 2017 dollars
+47000,Tennessee,2021,state_real_gdp,401673.7,Millions of chained 2017 dollars
+47000,Tennessee,2022,state_real_gdp,415451.6,Millions of chained 2017 dollars
+47000,Tennessee,2023,state_real_gdp,428276.1,Millions of chained 2017 dollars
+47000,Tennessee,2024,state_real_gdp,440200.2,Millions of chained 2017 dollars
+47000,Tennessee,2020,state_personal_income,360094.7,Millions of current dollars
+47000,Tennessee,2021,state_personal_income,402024.7,Millions of current dollars
+47000,Tennessee,2022,state_personal_income,417424.4,Millions of current dollars
+47000,Tennessee,2023,state_personal_income,453765.7,Millions of current dollars
+47000,Tennessee,2024,state_personal_income,480671.2,Millions of current dollars
+47000,Tennessee,2020,state_pce,261956.5,Millions of current dollars
+47000,Tennessee,2021,state_pce,298819.6,Millions of current dollars
+47000,Tennessee,2022,state_pce,329578.2,Millions of current dollars
+47000,Tennessee,2023,state_pce,352425.8,Millions of current dollars
+47000,Tennessee,2024,state_pce,372279.3,Millions of current dollars
+47000,Tennessee,2020,state_per_capita_income,51979,Dollars
+47000,Tennessee,2021,state_per_capita_income,57707,Dollars
+47000,Tennessee,2022,state_per_capita_income,59097,Dollars
+47000,Tennessee,2023,state_per_capita_income,63437,Dollars
+47000,Tennessee,2024,state_per_capita_income,66288,Dollars
+47000,Tennessee,2020,state_per_capita_pce,37812,Dollars
+47000,Tennessee,2021,state_per_capita_pce,42898,Dollars
+47000,Tennessee,2022,state_per_capita_pce,46668,Dollars
+47000,Tennessee,2023,state_per_capita_pce,49302,Dollars
+47000,Tennessee,2024,state_per_capita_pce,51507,Dollars
+47000,Tennessee,2020,state_total_employment,4119603,Number of jobs
+47000,Tennessee,2021,state_total_employment,4298445,Number of jobs
+47000,Tennessee,2022,state_total_employment,4488030,Number of jobs
+47000,Tennessee,2023,state_total_employment,4625521,Number of jobs
+47000,Tennessee,2024,state_total_employment,4666592,Number of jobs
+48000,Texas,2020,state_real_gdp,1782738.2,Millions of chained 2017 dollars
+48000,Texas,2021,state_real_gdp,1905512.4,Millions of chained 2017 dollars
+48000,Texas,2022,state_real_gdp,1975164,Millions of chained 2017 dollars
+48000,Texas,2023,state_real_gdp,2137536.7,Millions of chained 2017 dollars
+48000,Texas,2024,state_real_gdp,2221943.3,Millions of chained 2017 dollars
+48000,Texas,2020,state_personal_income,1602962.6,Millions of current dollars
+48000,Texas,2021,state_personal_income,1786060.9,Millions of current dollars
+48000,Texas,2022,state_personal_income,1920254.6,Millions of current dollars
+48000,Texas,2023,state_personal_income,2074225.2,Millions of current dollars
+48000,Texas,2024,state_personal_income,2184833.3,Millions of current dollars
+48000,Texas,2020,state_pce,1177572.8,Millions of current dollars
+48000,Texas,2021,state_pce,1348813.6,Millions of current dollars
+48000,Texas,2022,state_pce,1492290.2,Millions of current dollars
+48000,Texas,2023,state_pce,1594718.5,Millions of current dollars
+48000,Texas,2024,state_pce,1691583.7,Millions of current dollars
+48000,Texas,2020,state_per_capita_income,54825,Dollars
+48000,Texas,2021,state_per_capita_income,60396,Dollars
+48000,Texas,2022,state_per_capita_income,63758,Dollars
+48000,Texas,2023,state_per_capita_income,67522,Dollars
+48000,Texas,2024,state_per_capita_income,69762,Dollars
+48000,Texas,2020,state_per_capita_pce,40273,Dollars
+48000,Texas,2021,state_per_capita_pce,45614,Dollars
+48000,Texas,2022,state_per_capita_pce,49556,Dollars
+48000,Texas,2023,state_per_capita_pce,51898,Dollars
+48000,Texas,2024,state_per_capita_pce,54060,Dollars
+48000,Texas,2020,state_total_employment,17697402,Number of jobs
+48000,Texas,2021,state_total_employment,18551726,Number of jobs
+48000,Texas,2022,state_total_employment,19481545,Number of jobs
+48000,Texas,2023,state_total_employment,20279609,Number of jobs
+48000,Texas,2024,state_total_employment,20460749,Number of jobs
+49000,Utah,2020,state_real_gdp,195323.2,Millions of chained 2017 dollars
+49000,Utah,2021,state_real_gdp,211289.5,Millions of chained 2017 dollars
+49000,Utah,2022,state_real_gdp,217848.8,Millions of chained 2017 dollars
+49000,Utah,2023,state_real_gdp,226322.1,Millions of chained 2017 dollars
+49000,Utah,2024,state_real_gdp,234300.6,Millions of chained 2017 dollars
+49000,Utah,2020,state_personal_income,169991.6,Millions of current dollars
+49000,Utah,2021,state_personal_income,194799.1,Millions of current dollars
+49000,Utah,2022,state_personal_income,206055.7,Millions of current dollars
+49000,Utah,2023,state_personal_income,222237.8,Millions of current dollars
+49000,Utah,2024,state_personal_income,235907.4,Millions of current dollars
+49000,Utah,2020,state_pce,125439,Millions of current dollars
+49000,Utah,2021,state_pce,146733.9,Millions of current dollars
+49000,Utah,2022,state_pce,164179.1,Millions of current dollars
+49000,Utah,2023,state_pce,174050.1,Millions of current dollars
+49000,Utah,2024,state_pce,184559.3,Millions of current dollars
+49000,Utah,2020,state_per_capita_income,51764,Dollars
+49000,Utah,2021,state_per_capita_income,58325,Dollars
+49000,Utah,2022,state_per_capita_income,60713,Dollars
+49000,Utah,2023,state_per_capita_income,64431,Dollars
+49000,Utah,2024,state_per_capita_income,67345,Dollars
+49000,Utah,2020,state_per_capita_pce,38196,Dollars
+49000,Utah,2021,state_per_capita_pce,43936,Dollars
+49000,Utah,2022,state_per_capita_pce,48416,Dollars
+49000,Utah,2023,state_per_capita_pce,50549,Dollars
+49000,Utah,2024,state_per_capita_pce,52677,Dollars
+49000,Utah,2020,state_total_employment,2135836,Number of jobs
+49000,Utah,2021,state_total_employment,2249689,Number of jobs
+49000,Utah,2022,state_total_employment,2339378,Number of jobs
+49000,Utah,2023,state_total_employment,2414466,Number of jobs
+49000,Utah,2024,state_total_employment,2433434,Number of jobs
+50000,Vermont,2020,state_real_gdp,32408.7,Millions of chained 2017 dollars
+50000,Vermont,2021,state_real_gdp,33584.3,Millions of chained 2017 dollars
+50000,Vermont,2022,state_real_gdp,34915.9,Millions of chained 2017 dollars
+50000,Vermont,2023,state_real_gdp,35499.4,Millions of chained 2017 dollars
+50000,Vermont,2024,state_real_gdp,36398.9,Millions of chained 2017 dollars
+50000,Vermont,2020,state_personal_income,37392.8,Millions of current dollars
+50000,Vermont,2021,state_personal_income,39552.8,Millions of current dollars
+50000,Vermont,2022,state_personal_income,41336.5,Millions of current dollars
+50000,Vermont,2023,state_personal_income,44058.6,Millions of current dollars
+50000,Vermont,2024,state_personal_income,46229.3,Millions of current dollars
+50000,Vermont,2020,state_pce,30404.4,Millions of current dollars
+50000,Vermont,2021,state_pce,33297.8,Millions of current dollars
+50000,Vermont,2022,state_pce,36077.9,Millions of current dollars
+50000,Vermont,2023,state_pce,38423.1,Millions of current dollars
+50000,Vermont,2024,state_pce,40614.3,Millions of current dollars
+50000,Vermont,2020,state_per_capita_income,58157,Dollars
+50000,Vermont,2021,state_per_capita_income,61110,Dollars
+50000,Vermont,2022,state_per_capita_income,63829,Dollars
+50000,Vermont,2023,state_per_capita_income,68021,Dollars
+50000,Vermont,2024,state_per_capita_income,71505,Dollars
+50000,Vermont,2020,state_per_capita_pce,47287,Dollars
+50000,Vermont,2021,state_per_capita_pce,51448,Dollars
+50000,Vermont,2022,state_per_capita_pce,55664,Dollars
+50000,Vermont,2023,state_per_capita_pce,59230,Dollars
+50000,Vermont,2024,state_per_capita_pce,62629,Dollars
+50000,Vermont,2020,state_total_employment,409231,Number of jobs
+50000,Vermont,2021,state_total_employment,421139,Number of jobs
+50000,Vermont,2022,state_total_employment,431273,Number of jobs
+50000,Vermont,2023,state_total_employment,440495,Number of jobs
+50000,Vermont,2024,state_total_employment,444869,Number of jobs
+51000,Virginia,2020,state_real_gdp,535224.4,Millions of chained 2017 dollars
+51000,Virginia,2021,state_real_gdp,565790.7,Millions of chained 2017 dollars
+51000,Virginia,2022,state_real_gdp,579301.8,Millions of chained 2017 dollars
+51000,Virginia,2023,state_real_gdp,599261,Millions of chained 2017 dollars
+51000,Virginia,2024,state_real_gdp,613708.7,Millions of chained 2017 dollars
+51000,Virginia,2020,state_personal_income,530771.6,Millions of current dollars
+51000,Virginia,2021,state_personal_income,582077.9,Millions of current dollars
+51000,Virginia,2022,state_personal_income,604039.5,Millions of current dollars
+51000,Virginia,2023,state_personal_income,645405.9,Millions of current dollars
+51000,Virginia,2024,state_personal_income,681552.2,Millions of current dollars
+51000,Virginia,2020,state_pce,371455.2,Millions of current dollars
+51000,Virginia,2021,state_pce,417773.7,Millions of current dollars
+51000,Virginia,2022,state_pce,455588.1,Millions of current dollars
+51000,Virginia,2023,state_pce,486636.5,Millions of current dollars
+51000,Virginia,2024,state_pce,513019.4,Millions of current dollars
+51000,Virginia,2020,state_per_capita_income,61451,Dollars
+51000,Virginia,2021,state_per_capita_income,67214,Dollars
+51000,Virginia,2022,state_per_capita_income,69581,Dollars
+51000,Virginia,2023,state_per_capita_income,73912,Dollars
+51000,Virginia,2024,state_per_capita_income,77277,Dollars
+51000,Virginia,2020,state_per_capita_pce,43004,Dollars
+51000,Virginia,2021,state_per_capita_pce,48248,Dollars
+51000,Virginia,2022,state_per_capita_pce,52466,Dollars
+51000,Virginia,2023,state_per_capita_pce,55713,Dollars
+51000,Virginia,2024,state_per_capita_pce,58224,Dollars
+51000,Virginia,2020,state_total_employment,5224978,Number of jobs
+51000,Virginia,2021,state_total_employment,5392125,Number of jobs
+51000,Virginia,2022,state_total_employment,5540662,Number of jobs
+51000,Virginia,2023,state_total_employment,5716975,Number of jobs
+51000,Virginia,2024,state_total_employment,5773598,Number of jobs
+53000,Washington,2020,state_real_gdp,587167.8,Millions of chained 2017 dollars
+53000,Washington,2021,state_real_gdp,626122.2,Millions of chained 2017 dollars
+53000,Washington,2022,state_real_gdp,643017.6,Millions of chained 2017 dollars
+53000,Washington,2023,state_real_gdp,670977.8,Millions of chained 2017 dollars
+53000,Washington,2024,state_real_gdp,702232.3,Millions of chained 2017 dollars
+53000,Washington,2020,state_personal_income,522862.2,Millions of current dollars
+53000,Washington,2021,state_personal_income,572644.9,Millions of current dollars
+53000,Washington,2022,state_personal_income,592733,Millions of current dollars
+53000,Washington,2023,state_personal_income,637129.4,Millions of current dollars
+53000,Washington,2024,state_personal_income,677934.6,Millions of current dollars
+53000,Washington,2020,state_pce,357282.3,Millions of current dollars
+53000,Washington,2021,state_pce,405314.3,Millions of current dollars
+53000,Washington,2022,state_pce,444636.1,Millions of current dollars
+53000,Washington,2023,state_pce,472272.7,Millions of current dollars
+53000,Washington,2024,state_pce,500064.4,Millions of current dollars
+53000,Washington,2020,state_per_capita_income,67669,Dollars
+53000,Washington,2021,state_per_capita_income,73944,Dollars
+53000,Washington,2022,state_per_capita_income,76120,Dollars
+53000,Washington,2023,state_per_capita_income,81280,Dollars
+53000,Washington,2024,state_per_capita_income,85512,Dollars
+53000,Washington,2020,state_per_capita_pce,46237,Dollars
+53000,Washington,2021,state_per_capita_pce,52341,Dollars
+53000,Washington,2022,state_per_capita_pce,57048,Dollars
+53000,Washington,2023,state_per_capita_pce,60106,Dollars
+53000,Washington,2024,state_per_capita_pce,62837,Dollars
+53000,Washington,2020,state_total_employment,4435243,Number of jobs
+53000,Washington,2021,state_total_employment,4574704,Number of jobs
+53000,Washington,2022,state_total_employment,4755477,Number of jobs
+53000,Washington,2023,state_total_employment,4868377,Number of jobs
+53000,Washington,2024,state_total_employment,4904120,Number of jobs
+54000,West Virginia,2020,state_real_gdp,74729.6,Millions of chained 2017 dollars
+54000,West Virginia,2021,state_real_gdp,76230.8,Millions of chained 2017 dollars
+54000,West Virginia,2022,state_real_gdp,77549.1,Millions of chained 2017 dollars
+54000,West Virginia,2023,state_real_gdp,80364.9,Millions of chained 2017 dollars
+54000,West Virginia,2024,state_real_gdp,82716.5,Millions of chained 2017 dollars
+54000,West Virginia,2020,state_personal_income,80440.3,Millions of current dollars
+54000,West Virginia,2021,state_personal_income,87322.5,Millions of current dollars
+54000,West Virginia,2022,state_personal_income,88990.1,Millions of current dollars
+54000,West Virginia,2023,state_personal_income,93771,Millions of current dollars
+54000,West Virginia,2024,state_personal_income,97970.7,Millions of current dollars
+54000,West Virginia,2020,state_pce,67127.9,Millions of current dollars
+54000,West Virginia,2021,state_pce,73990.9,Millions of current dollars
+54000,West Virginia,2022,state_pce,79760.7,Millions of current dollars
+54000,West Virginia,2023,state_pce,84627.3,Millions of current dollars
+54000,West Virginia,2024,state_pce,89005.7,Millions of current dollars
+54000,West Virginia,2020,state_per_capita_income,44897,Dollars
+54000,West Virginia,2021,state_per_capita_income,48895,Dollars
+54000,West Virginia,2022,state_per_capita_income,50163,Dollars
+54000,West Virginia,2023,state_per_capita_income,52977,Dollars
+54000,West Virginia,2024,state_per_capita_income,55432,Dollars
+54000,West Virginia,2020,state_per_capita_pce,37467,Dollars
+54000,West Virginia,2021,state_per_capita_pce,41437,Dollars
+54000,West Virginia,2022,state_per_capita_pce,44958,Dollars
+54000,West Virginia,2023,state_per_capita_pce,47799,Dollars
+54000,West Virginia,2024,state_per_capita_pce,50286,Dollars
+54000,West Virginia,2020,state_total_employment,840998,Number of jobs
+54000,West Virginia,2021,state_total_employment,864560,Number of jobs
+54000,West Virginia,2022,state_total_employment,885183,Number of jobs
+54000,West Virginia,2023,state_total_employment,904532,Number of jobs
+54000,West Virginia,2024,state_total_employment,914033,Number of jobs
+55000,Wisconsin,2020,state_real_gdp,324014.4,Millions of chained 2017 dollars
+55000,Wisconsin,2021,state_real_gdp,334848.6,Millions of chained 2017 dollars
+55000,Wisconsin,2022,state_real_gdp,341875.2,Millions of chained 2017 dollars
+55000,Wisconsin,2023,state_real_gdp,347108.2,Millions of chained 2017 dollars
+55000,Wisconsin,2024,state_real_gdp,354382.1,Millions of chained 2017 dollars
+55000,Wisconsin,2020,state_personal_income,327298.4,Millions of current dollars
+55000,Wisconsin,2021,state_personal_income,357005.4,Millions of current dollars
+55000,Wisconsin,2022,state_personal_income,365050.1,Millions of current dollars
+55000,Wisconsin,2023,state_personal_income,384719.8,Millions of current dollars
+55000,Wisconsin,2024,state_personal_income,403888.3,Millions of current dollars
+55000,Wisconsin,2020,state_pce,238927.8,Millions of current dollars
+55000,Wisconsin,2021,state_pce,268836.3,Millions of current dollars
+55000,Wisconsin,2022,state_pce,294264,Millions of current dollars
+55000,Wisconsin,2023,state_pce,310911,Millions of current dollars
+55000,Wisconsin,2024,state_pce,326096.4,Millions of current dollars
+55000,Wisconsin,2020,state_per_capita_income,55499,Dollars
+55000,Wisconsin,2021,state_per_capita_income,60693,Dollars
+55000,Wisconsin,2022,state_per_capita_income,61837,Dollars
+55000,Wisconsin,2023,state_per_capita_income,64873,Dollars
+55000,Wisconsin,2024,state_per_capita_income,67799,Dollars
+55000,Wisconsin,2020,state_per_capita_pce,40514,Dollars
+55000,Wisconsin,2021,state_per_capita_pce,45708,Dollars
+55000,Wisconsin,2022,state_per_capita_pce,49842,Dollars
+55000,Wisconsin,2023,state_per_capita_pce,52427,Dollars
+55000,Wisconsin,2024,state_per_capita_pce,54705,Dollars
+55000,Wisconsin,2020,state_total_employment,3581288,Number of jobs
+55000,Wisconsin,2021,state_total_employment,3682367,Number of jobs
+55000,Wisconsin,2022,state_total_employment,3767253,Number of jobs
+55000,Wisconsin,2023,state_total_employment,3841837,Number of jobs
+55000,Wisconsin,2024,state_total_employment,3867941,Number of jobs
+56000,Wyoming,2020,state_real_gdp,36463.5,Millions of chained 2017 dollars
+56000,Wyoming,2021,state_real_gdp,37182.6,Millions of chained 2017 dollars
+56000,Wyoming,2022,state_real_gdp,37690.6,Millions of chained 2017 dollars
+56000,Wyoming,2023,state_real_gdp,39843.2,Millions of chained 2017 dollars
+56000,Wyoming,2024,state_real_gdp,39780.7,Millions of chained 2017 dollars
+56000,Wyoming,2020,state_personal_income,37602.9,Millions of current dollars
+56000,Wyoming,2021,state_personal_income,41420.5,Millions of current dollars
+56000,Wyoming,2022,state_personal_income,45259.3,Millions of current dollars
+56000,Wyoming,2023,state_personal_income,48583,Millions of current dollars
+56000,Wyoming,2024,state_personal_income,50815.4,Millions of current dollars
+56000,Wyoming,2020,state_pce,25667.8,Millions of current dollars
+56000,Wyoming,2021,state_pce,28581.3,Millions of current dollars
+56000,Wyoming,2022,state_pce,31303.7,Millions of current dollars
+56000,Wyoming,2023,state_pce,33104.2,Millions of current dollars
+56000,Wyoming,2024,state_pce,34988.4,Millions of current dollars
+56000,Wyoming,2020,state_per_capita_income,65094,Dollars
+56000,Wyoming,2021,state_per_capita_income,71456,Dollars
+56000,Wyoming,2022,state_per_capita_income,77800,Dollars
+56000,Wyoming,2023,state_per_capita_income,83095,Dollars
+56000,Wyoming,2024,state_per_capita_income,86609,Dollars
+56000,Wyoming,2020,state_per_capita_pce,44432,Dollars
+56000,Wyoming,2021,state_per_capita_pce,49309,Dollars
+56000,Wyoming,2022,state_per_capita_pce,53788,Dollars
+56000,Wyoming,2023,state_per_capita_pce,56582,Dollars
+56000,Wyoming,2024,state_per_capita_pce,59543,Dollars
+56000,Wyoming,2020,state_total_employment,401439,Number of jobs
+56000,Wyoming,2021,state_total_employment,419797,Number of jobs
+56000,Wyoming,2022,state_total_employment,430968,Number of jobs
+56000,Wyoming,2023,state_total_employment,449620,Number of jobs
+56000,Wyoming,2024,state_total_employment,447255,Number of jobs

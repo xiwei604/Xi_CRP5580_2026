@@ -1,0 +1,1001 @@
+GeoFIPS,GeoName,year,metric,value,Unit
+19000,Iowa,2020,county_real_gdp,187261682,Thousands of chained 2017 dollars
+19000,Iowa,2021,county_real_gdp,202470637,Thousands of chained 2017 dollars
+19000,Iowa,2022,county_real_gdp,202672531,Thousands of chained 2017 dollars
+19000,Iowa,2023,county_real_gdp,201359774,Thousands of chained 2017 dollars
+19000,Iowa,2024,county_real_gdp,206438928,Thousands of chained 2017 dollars
+19000,Iowa,2020,county_current_gdp,199449595,Thousands of dollars
+19000,Iowa,2021,county_current_gdp,225055303,Thousands of dollars
+19000,Iowa,2022,county_current_gdp,244156811,Thousands of dollars
+19000,Iowa,2023,county_current_gdp,253166525,Thousands of dollars
+19000,Iowa,2024,county_current_gdp,265794517,Thousands of dollars
+19001,"Adair, IA",2020,county_real_gdp,444705,Thousands of chained 2017 dollars
+19001,"Adair, IA",2021,county_real_gdp,493826,Thousands of chained 2017 dollars
+19001,"Adair, IA",2022,county_real_gdp,500615,Thousands of chained 2017 dollars
+19001,"Adair, IA",2023,county_real_gdp,471688,Thousands of chained 2017 dollars
+19001,"Adair, IA",2024,county_real_gdp,493562,Thousands of chained 2017 dollars
+19001,"Adair, IA",2020,county_current_gdp,472109,Thousands of dollars
+19001,"Adair, IA",2021,county_current_gdp,575610,Thousands of dollars
+19001,"Adair, IA",2022,county_current_gdp,657987,Thousands of dollars
+19001,"Adair, IA",2023,county_current_gdp,630223,Thousands of dollars
+19001,"Adair, IA",2024,county_current_gdp,662553,Thousands of dollars
+19003,"Adams, IA",2020,county_real_gdp,197857,Thousands of chained 2017 dollars
+19003,"Adams, IA",2021,county_real_gdp,225816,Thousands of chained 2017 dollars
+19003,"Adams, IA",2022,county_real_gdp,210077,Thousands of chained 2017 dollars
+19003,"Adams, IA",2023,county_real_gdp,203523,Thousands of chained 2017 dollars
+19003,"Adams, IA",2024,county_real_gdp,198660,Thousands of chained 2017 dollars
+19003,"Adams, IA",2020,county_current_gdp,205044,Thousands of dollars
+19003,"Adams, IA",2021,county_current_gdp,262158,Thousands of dollars
+19003,"Adams, IA",2022,county_current_gdp,280914,Thousands of dollars
+19003,"Adams, IA",2023,county_current_gdp,272083,Thousands of dollars
+19003,"Adams, IA",2024,county_current_gdp,265904,Thousands of dollars
+19005,"Allamakee, IA",2020,county_real_gdp,599893,Thousands of chained 2017 dollars
+19005,"Allamakee, IA",2021,county_real_gdp,572482,Thousands of chained 2017 dollars
+19005,"Allamakee, IA",2022,county_real_gdp,579016,Thousands of chained 2017 dollars
+19005,"Allamakee, IA",2023,county_real_gdp,542899,Thousands of chained 2017 dollars
+19005,"Allamakee, IA",2024,county_real_gdp,581652,Thousands of chained 2017 dollars
+19005,"Allamakee, IA",2020,county_current_gdp,633977,Thousands of dollars
+19005,"Allamakee, IA",2021,county_current_gdp,659971,Thousands of dollars
+19005,"Allamakee, IA",2022,county_current_gdp,742419,Thousands of dollars
+19005,"Allamakee, IA",2023,county_current_gdp,718637,Thousands of dollars
+19005,"Allamakee, IA",2024,county_current_gdp,780204,Thousands of dollars
+19007,"Appanoose, IA",2020,county_real_gdp,403188,Thousands of chained 2017 dollars
+19007,"Appanoose, IA",2021,county_real_gdp,446207,Thousands of chained 2017 dollars
+19007,"Appanoose, IA",2022,county_real_gdp,403479,Thousands of chained 2017 dollars
+19007,"Appanoose, IA",2023,county_real_gdp,385741,Thousands of chained 2017 dollars
+19007,"Appanoose, IA",2024,county_real_gdp,382833,Thousands of chained 2017 dollars
+19007,"Appanoose, IA",2020,county_current_gdp,434023,Thousands of dollars
+19007,"Appanoose, IA",2021,county_current_gdp,499812,Thousands of dollars
+19007,"Appanoose, IA",2022,county_current_gdp,501965,Thousands of dollars
+19007,"Appanoose, IA",2023,county_current_gdp,509108,Thousands of dollars
+19007,"Appanoose, IA",2024,county_current_gdp,518495,Thousands of dollars
+19009,"Audubon, IA",2020,county_real_gdp,287723,Thousands of chained 2017 dollars
+19009,"Audubon, IA",2021,county_real_gdp,318560,Thousands of chained 2017 dollars
+19009,"Audubon, IA",2022,county_real_gdp,329550,Thousands of chained 2017 dollars
+19009,"Audubon, IA",2023,county_real_gdp,329951,Thousands of chained 2017 dollars
+19009,"Audubon, IA",2024,county_real_gdp,350679,Thousands of chained 2017 dollars
+19009,"Audubon, IA",2020,county_current_gdp,291262,Thousands of dollars
+19009,"Audubon, IA",2021,county_current_gdp,375112,Thousands of dollars
+19009,"Audubon, IA",2022,county_current_gdp,460592,Thousands of dollars
+19009,"Audubon, IA",2023,county_current_gdp,449095,Thousands of dollars
+19009,"Audubon, IA",2024,county_current_gdp,472553,Thousands of dollars
+19011,"Benton, IA",2020,county_real_gdp,846384,Thousands of chained 2017 dollars
+19011,"Benton, IA",2021,county_real_gdp,915952,Thousands of chained 2017 dollars
+19011,"Benton, IA",2022,county_real_gdp,861859,Thousands of chained 2017 dollars
+19011,"Benton, IA",2023,county_real_gdp,845949,Thousands of chained 2017 dollars
+19011,"Benton, IA",2024,county_real_gdp,850412,Thousands of chained 2017 dollars
+19011,"Benton, IA",2020,county_current_gdp,900113,Thousands of dollars
+19011,"Benton, IA",2021,county_current_gdp,1071855,Thousands of dollars
+19011,"Benton, IA",2022,county_current_gdp,1135268,Thousands of dollars
+19011,"Benton, IA",2023,county_current_gdp,1126086,Thousands of dollars
+19011,"Benton, IA",2024,county_current_gdp,1137117,Thousands of dollars
+19013,"Black Hawk, IA",2020,county_real_gdp,7712598,Thousands of chained 2017 dollars
+19013,"Black Hawk, IA",2021,county_real_gdp,8164033,Thousands of chained 2017 dollars
+19013,"Black Hawk, IA",2022,county_real_gdp,7908976,Thousands of chained 2017 dollars
+19013,"Black Hawk, IA",2023,county_real_gdp,7778364,Thousands of chained 2017 dollars
+19013,"Black Hawk, IA",2024,county_real_gdp,7574396,Thousands of chained 2017 dollars
+19013,"Black Hawk, IA",2020,county_current_gdp,8291622,Thousands of dollars
+19013,"Black Hawk, IA",2021,county_current_gdp,8944493,Thousands of dollars
+19013,"Black Hawk, IA",2022,county_current_gdp,9424043,Thousands of dollars
+19013,"Black Hawk, IA",2023,county_current_gdp,9978819,Thousands of dollars
+19013,"Black Hawk, IA",2024,county_current_gdp,10039272,Thousands of dollars
+19015,"Boone, IA",2020,county_real_gdp,1018118,Thousands of chained 2017 dollars
+19015,"Boone, IA",2021,county_real_gdp,1071019,Thousands of chained 2017 dollars
+19015,"Boone, IA",2022,county_real_gdp,1050545,Thousands of chained 2017 dollars
+19015,"Boone, IA",2023,county_real_gdp,1063912,Thousands of chained 2017 dollars
+19015,"Boone, IA",2024,county_real_gdp,993019,Thousands of chained 2017 dollars
+19015,"Boone, IA",2020,county_current_gdp,1085574,Thousands of dollars
+19015,"Boone, IA",2021,county_current_gdp,1217899,Thousands of dollars
+19015,"Boone, IA",2022,county_current_gdp,1307482,Thousands of dollars
+19015,"Boone, IA",2023,county_current_gdp,1360358,Thousands of dollars
+19015,"Boone, IA",2024,county_current_gdp,1293400,Thousands of dollars
+19017,"Bremer, IA",2020,county_real_gdp,1077594,Thousands of chained 2017 dollars
+19017,"Bremer, IA",2021,county_real_gdp,1200191,Thousands of chained 2017 dollars
+19017,"Bremer, IA",2022,county_real_gdp,1242031,Thousands of chained 2017 dollars
+19017,"Bremer, IA",2023,county_real_gdp,1211668,Thousands of chained 2017 dollars
+19017,"Bremer, IA",2024,county_real_gdp,1219738,Thousands of chained 2017 dollars
+19017,"Bremer, IA",2020,county_current_gdp,1162866,Thousands of dollars
+19017,"Bremer, IA",2021,county_current_gdp,1330678,Thousands of dollars
+19017,"Bremer, IA",2022,county_current_gdp,1491147,Thousands of dollars
+19017,"Bremer, IA",2023,county_current_gdp,1523751,Thousands of dollars
+19017,"Bremer, IA",2024,county_current_gdp,1580731,Thousands of dollars
+19019,"Buchanan, IA",2020,county_real_gdp,758103,Thousands of chained 2017 dollars
+19019,"Buchanan, IA",2021,county_real_gdp,811025,Thousands of chained 2017 dollars
+19019,"Buchanan, IA",2022,county_real_gdp,814725,Thousands of chained 2017 dollars
+19019,"Buchanan, IA",2023,county_real_gdp,813337,Thousands of chained 2017 dollars
+19019,"Buchanan, IA",2024,county_real_gdp,827056,Thousands of chained 2017 dollars
+19019,"Buchanan, IA",2020,county_current_gdp,790224,Thousands of dollars
+19019,"Buchanan, IA",2021,county_current_gdp,939433,Thousands of dollars
+19019,"Buchanan, IA",2022,county_current_gdp,1072278,Thousands of dollars
+19019,"Buchanan, IA",2023,county_current_gdp,1069761,Thousands of dollars
+19019,"Buchanan, IA",2024,county_current_gdp,1087017,Thousands of dollars
+19021,"Buena Vista, IA",2020,county_real_gdp,1233632,Thousands of chained 2017 dollars
+19021,"Buena Vista, IA",2021,county_real_gdp,1332742,Thousands of chained 2017 dollars
+19021,"Buena Vista, IA",2022,county_real_gdp,1464077,Thousands of chained 2017 dollars
+19021,"Buena Vista, IA",2023,county_real_gdp,1438690,Thousands of chained 2017 dollars
+19021,"Buena Vista, IA",2024,county_real_gdp,1545409,Thousands of chained 2017 dollars
+19021,"Buena Vista, IA",2020,county_current_gdp,1309292,Thousands of dollars
+19021,"Buena Vista, IA",2021,county_current_gdp,1483983,Thousands of dollars
+19021,"Buena Vista, IA",2022,county_current_gdp,1749404,Thousands of dollars
+19021,"Buena Vista, IA",2023,county_current_gdp,1791931,Thousands of dollars
+19021,"Buena Vista, IA",2024,county_current_gdp,1938391,Thousands of dollars
+19023,"Butler, IA",2020,county_real_gdp,399522,Thousands of chained 2017 dollars
+19023,"Butler, IA",2021,county_real_gdp,538350,Thousands of chained 2017 dollars
+19023,"Butler, IA",2022,county_real_gdp,547292,Thousands of chained 2017 dollars
+19023,"Butler, IA",2023,county_real_gdp,562531,Thousands of chained 2017 dollars
+19023,"Butler, IA",2024,county_real_gdp,515993,Thousands of chained 2017 dollars
+19023,"Butler, IA",2020,county_current_gdp,430477,Thousands of dollars
+19023,"Butler, IA",2021,county_current_gdp,618967,Thousands of dollars
+19023,"Butler, IA",2022,county_current_gdp,723332,Thousands of dollars
+19023,"Butler, IA",2023,county_current_gdp,758834,Thousands of dollars
+19023,"Butler, IA",2024,county_current_gdp,705279,Thousands of dollars
+19025,"Calhoun, IA",2020,county_real_gdp,379460,Thousands of chained 2017 dollars
+19025,"Calhoun, IA",2021,county_real_gdp,438092,Thousands of chained 2017 dollars
+19025,"Calhoun, IA",2022,county_real_gdp,441673,Thousands of chained 2017 dollars
+19025,"Calhoun, IA",2023,county_real_gdp,415119,Thousands of chained 2017 dollars
+19025,"Calhoun, IA",2024,county_real_gdp,416525,Thousands of chained 2017 dollars
+19025,"Calhoun, IA",2020,county_current_gdp,393799,Thousands of dollars
+19025,"Calhoun, IA",2021,county_current_gdp,516467,Thousands of dollars
+19025,"Calhoun, IA",2022,county_current_gdp,609803,Thousands of dollars
+19025,"Calhoun, IA",2023,county_current_gdp,560879,Thousands of dollars
+19025,"Calhoun, IA",2024,county_current_gdp,559921,Thousands of dollars
+19027,"Carroll, IA",2020,county_real_gdp,1300799,Thousands of chained 2017 dollars
+19027,"Carroll, IA",2021,county_real_gdp,1357263,Thousands of chained 2017 dollars
+19027,"Carroll, IA",2022,county_real_gdp,1382448,Thousands of chained 2017 dollars
+19027,"Carroll, IA",2023,county_real_gdp,1351948,Thousands of chained 2017 dollars
+19027,"Carroll, IA",2024,county_real_gdp,1396164,Thousands of chained 2017 dollars
+19027,"Carroll, IA",2020,county_current_gdp,1367454,Thousands of dollars
+19027,"Carroll, IA",2021,county_current_gdp,1561479,Thousands of dollars
+19027,"Carroll, IA",2022,county_current_gdp,1779327,Thousands of dollars
+19027,"Carroll, IA",2023,county_current_gdp,1758072,Thousands of dollars
+19027,"Carroll, IA",2024,county_current_gdp,1837302,Thousands of dollars
+19029,"Cass, IA",2020,county_real_gdp,637212,Thousands of chained 2017 dollars
+19029,"Cass, IA",2021,county_real_gdp,710340,Thousands of chained 2017 dollars
+19029,"Cass, IA",2022,county_real_gdp,700778,Thousands of chained 2017 dollars
+19029,"Cass, IA",2023,county_real_gdp,724350,Thousands of chained 2017 dollars
+19029,"Cass, IA",2024,county_real_gdp,743875,Thousands of chained 2017 dollars
+19029,"Cass, IA",2020,county_current_gdp,681723,Thousands of dollars
+19029,"Cass, IA",2021,county_current_gdp,816179,Thousands of dollars
+19029,"Cass, IA",2022,county_current_gdp,895543,Thousands of dollars
+19029,"Cass, IA",2023,county_current_gdp,950337,Thousands of dollars
+19029,"Cass, IA",2024,county_current_gdp,990895,Thousands of dollars
+19031,"Cedar, IA",2020,county_real_gdp,564546,Thousands of chained 2017 dollars
+19031,"Cedar, IA",2021,county_real_gdp,683174,Thousands of chained 2017 dollars
+19031,"Cedar, IA",2022,county_real_gdp,665355,Thousands of chained 2017 dollars
+19031,"Cedar, IA",2023,county_real_gdp,620598,Thousands of chained 2017 dollars
+19031,"Cedar, IA",2024,county_real_gdp,606436,Thousands of chained 2017 dollars
+19031,"Cedar, IA",2020,county_current_gdp,597815,Thousands of dollars
+19031,"Cedar, IA",2021,county_current_gdp,782680,Thousands of dollars
+19031,"Cedar, IA",2022,county_current_gdp,867293,Thousands of dollars
+19031,"Cedar, IA",2023,county_current_gdp,820724,Thousands of dollars
+19031,"Cedar, IA",2024,county_current_gdp,811491,Thousands of dollars
+19033,"Cerro Gordo, IA",2020,county_real_gdp,2432884,Thousands of chained 2017 dollars
+19033,"Cerro Gordo, IA",2021,county_real_gdp,2625338,Thousands of chained 2017 dollars
+19033,"Cerro Gordo, IA",2022,county_real_gdp,2673163,Thousands of chained 2017 dollars
+19033,"Cerro Gordo, IA",2023,county_real_gdp,2833058,Thousands of chained 2017 dollars
+19033,"Cerro Gordo, IA",2024,county_real_gdp,2890284,Thousands of chained 2017 dollars
+19033,"Cerro Gordo, IA",2020,county_current_gdp,2610092,Thousands of dollars
+19033,"Cerro Gordo, IA",2021,county_current_gdp,2964011,Thousands of dollars
+19033,"Cerro Gordo, IA",2022,county_current_gdp,3271305,Thousands of dollars
+19033,"Cerro Gordo, IA",2023,county_current_gdp,3600198,Thousands of dollars
+19033,"Cerro Gordo, IA",2024,county_current_gdp,3729490,Thousands of dollars
+19035,"Cherokee, IA",2020,county_real_gdp,628398,Thousands of chained 2017 dollars
+19035,"Cherokee, IA",2021,county_real_gdp,733317,Thousands of chained 2017 dollars
+19035,"Cherokee, IA",2022,county_real_gdp,787059,Thousands of chained 2017 dollars
+19035,"Cherokee, IA",2023,county_real_gdp,782684,Thousands of chained 2017 dollars
+19035,"Cherokee, IA",2024,county_real_gdp,843091,Thousands of chained 2017 dollars
+19035,"Cherokee, IA",2020,county_current_gdp,656437,Thousands of dollars
+19035,"Cherokee, IA",2021,county_current_gdp,834459,Thousands of dollars
+19035,"Cherokee, IA",2022,county_current_gdp,1013776,Thousands of dollars
+19035,"Cherokee, IA",2023,county_current_gdp,1012803,Thousands of dollars
+19035,"Cherokee, IA",2024,county_current_gdp,1086764,Thousands of dollars
+19037,"Chickasaw, IA",2020,county_real_gdp,600527,Thousands of chained 2017 dollars
+19037,"Chickasaw, IA",2021,county_real_gdp,730694,Thousands of chained 2017 dollars
+19037,"Chickasaw, IA",2022,county_real_gdp,776695,Thousands of chained 2017 dollars
+19037,"Chickasaw, IA",2023,county_real_gdp,803433,Thousands of chained 2017 dollars
+19037,"Chickasaw, IA",2024,county_real_gdp,850368,Thousands of chained 2017 dollars
+19037,"Chickasaw, IA",2020,county_current_gdp,626993,Thousands of dollars
+19037,"Chickasaw, IA",2021,county_current_gdp,832494,Thousands of dollars
+19037,"Chickasaw, IA",2022,county_current_gdp,993429,Thousands of dollars
+19037,"Chickasaw, IA",2023,county_current_gdp,1034188,Thousands of dollars
+19037,"Chickasaw, IA",2024,county_current_gdp,1087234,Thousands of dollars
+19039,"Clarke, IA",2020,county_real_gdp,396719,Thousands of chained 2017 dollars
+19039,"Clarke, IA",2021,county_real_gdp,430871,Thousands of chained 2017 dollars
+19039,"Clarke, IA",2022,county_real_gdp,483308,Thousands of chained 2017 dollars
+19039,"Clarke, IA",2023,county_real_gdp,461356,Thousands of chained 2017 dollars
+19039,"Clarke, IA",2024,county_real_gdp,500842,Thousands of chained 2017 dollars
+19039,"Clarke, IA",2020,county_current_gdp,425934,Thousands of dollars
+19039,"Clarke, IA",2021,county_current_gdp,474681,Thousands of dollars
+19039,"Clarke, IA",2022,county_current_gdp,570685,Thousands of dollars
+19039,"Clarke, IA",2023,county_current_gdp,576741,Thousands of dollars
+19039,"Clarke, IA",2024,county_current_gdp,638873,Thousands of dollars
+19041,"Clay, IA",2020,county_real_gdp,1011035,Thousands of chained 2017 dollars
+19041,"Clay, IA",2021,county_real_gdp,1046618,Thousands of chained 2017 dollars
+19041,"Clay, IA",2022,county_real_gdp,1091028,Thousands of chained 2017 dollars
+19041,"Clay, IA",2023,county_real_gdp,1098874,Thousands of chained 2017 dollars
+19041,"Clay, IA",2024,county_real_gdp,1179968,Thousands of chained 2017 dollars
+19041,"Clay, IA",2020,county_current_gdp,1067701,Thousands of dollars
+19041,"Clay, IA",2021,county_current_gdp,1190192,Thousands of dollars
+19041,"Clay, IA",2022,county_current_gdp,1385733,Thousands of dollars
+19041,"Clay, IA",2023,county_current_gdp,1421139,Thousands of dollars
+19041,"Clay, IA",2024,county_current_gdp,1539920,Thousands of dollars
+19043,"Clayton, IA",2020,county_real_gdp,814823,Thousands of chained 2017 dollars
+19043,"Clayton, IA",2021,county_real_gdp,863991,Thousands of chained 2017 dollars
+19043,"Clayton, IA",2022,county_real_gdp,870301,Thousands of chained 2017 dollars
+19043,"Clayton, IA",2023,county_real_gdp,849453,Thousands of chained 2017 dollars
+19043,"Clayton, IA",2024,county_real_gdp,870450,Thousands of chained 2017 dollars
+19043,"Clayton, IA",2020,county_current_gdp,859421,Thousands of dollars
+19043,"Clayton, IA",2021,county_current_gdp,988892,Thousands of dollars
+19043,"Clayton, IA",2022,county_current_gdp,1133274,Thousands of dollars
+19043,"Clayton, IA",2023,county_current_gdp,1133894,Thousands of dollars
+19043,"Clayton, IA",2024,county_current_gdp,1176802,Thousands of dollars
+19045,"Clinton, IA",2020,county_real_gdp,2184145,Thousands of chained 2017 dollars
+19045,"Clinton, IA",2021,county_real_gdp,2389718,Thousands of chained 2017 dollars
+19045,"Clinton, IA",2022,county_real_gdp,2324697,Thousands of chained 2017 dollars
+19045,"Clinton, IA",2023,county_real_gdp,2268439,Thousands of chained 2017 dollars
+19045,"Clinton, IA",2024,county_real_gdp,2284327,Thousands of chained 2017 dollars
+19045,"Clinton, IA",2020,county_current_gdp,2317978,Thousands of dollars
+19045,"Clinton, IA",2021,county_current_gdp,2670771,Thousands of dollars
+19045,"Clinton, IA",2022,county_current_gdp,2826781,Thousands of dollars
+19045,"Clinton, IA",2023,county_current_gdp,2885934,Thousands of dollars
+19045,"Clinton, IA",2024,county_current_gdp,2950572,Thousands of dollars
+19047,"Crawford, IA",2020,county_real_gdp,720038,Thousands of chained 2017 dollars
+19047,"Crawford, IA",2021,county_real_gdp,819286,Thousands of chained 2017 dollars
+19047,"Crawford, IA",2022,county_real_gdp,809701,Thousands of chained 2017 dollars
+19047,"Crawford, IA",2023,county_real_gdp,834553,Thousands of chained 2017 dollars
+19047,"Crawford, IA",2024,county_real_gdp,859893,Thousands of chained 2017 dollars
+19047,"Crawford, IA",2020,county_current_gdp,767470,Thousands of dollars
+19047,"Crawford, IA",2021,county_current_gdp,936007,Thousands of dollars
+19047,"Crawford, IA",2022,county_current_gdp,1020471,Thousands of dollars
+19047,"Crawford, IA",2023,county_current_gdp,1076398,Thousands of dollars
+19047,"Crawford, IA",2024,county_current_gdp,1117100,Thousands of dollars
+19049,"Dallas, IA",2020,county_real_gdp,6514851,Thousands of chained 2017 dollars
+19049,"Dallas, IA",2021,county_real_gdp,7071880,Thousands of chained 2017 dollars
+19049,"Dallas, IA",2022,county_real_gdp,7784145,Thousands of chained 2017 dollars
+19049,"Dallas, IA",2023,county_real_gdp,8239465,Thousands of chained 2017 dollars
+19049,"Dallas, IA",2024,county_real_gdp,8550013,Thousands of chained 2017 dollars
+19049,"Dallas, IA",2020,county_current_gdp,7043144,Thousands of dollars
+19049,"Dallas, IA",2021,county_current_gdp,7836330,Thousands of dollars
+19049,"Dallas, IA",2022,county_current_gdp,9168986,Thousands of dollars
+19049,"Dallas, IA",2023,county_current_gdp,10337290,Thousands of dollars
+19049,"Dallas, IA",2024,county_current_gdp,11106538,Thousands of dollars
+19051,"Davis, IA",2020,county_real_gdp,249638,Thousands of chained 2017 dollars
+19051,"Davis, IA",2021,county_real_gdp,282791,Thousands of chained 2017 dollars
+19051,"Davis, IA",2022,county_real_gdp,307240,Thousands of chained 2017 dollars
+19051,"Davis, IA",2023,county_real_gdp,298564,Thousands of chained 2017 dollars
+19051,"Davis, IA",2024,county_real_gdp,306801,Thousands of chained 2017 dollars
+19051,"Davis, IA",2020,county_current_gdp,265168,Thousands of dollars
+19051,"Davis, IA",2021,county_current_gdp,320333,Thousands of dollars
+19051,"Davis, IA",2022,county_current_gdp,389076,Thousands of dollars
+19051,"Davis, IA",2023,county_current_gdp,391185,Thousands of dollars
+19051,"Davis, IA",2024,county_current_gdp,407338,Thousands of dollars
+19053,"Decatur, IA",2020,county_real_gdp,206261,Thousands of chained 2017 dollars
+19053,"Decatur, IA",2021,county_real_gdp,234063,Thousands of chained 2017 dollars
+19053,"Decatur, IA",2022,county_real_gdp,235344,Thousands of chained 2017 dollars
+19053,"Decatur, IA",2023,county_real_gdp,214533,Thousands of chained 2017 dollars
+19053,"Decatur, IA",2024,county_real_gdp,216787,Thousands of chained 2017 dollars
+19053,"Decatur, IA",2020,county_current_gdp,221065,Thousands of dollars
+19053,"Decatur, IA",2021,county_current_gdp,260535,Thousands of dollars
+19053,"Decatur, IA",2022,county_current_gdp,282387,Thousands of dollars
+19053,"Decatur, IA",2023,county_current_gdp,268266,Thousands of dollars
+19053,"Decatur, IA",2024,county_current_gdp,277577,Thousands of dollars
+19055,"Delaware, IA",2020,county_real_gdp,884530,Thousands of chained 2017 dollars
+19055,"Delaware, IA",2021,county_real_gdp,908027,Thousands of chained 2017 dollars
+19055,"Delaware, IA",2022,county_real_gdp,944578,Thousands of chained 2017 dollars
+19055,"Delaware, IA",2023,county_real_gdp,922127,Thousands of chained 2017 dollars
+19055,"Delaware, IA",2024,county_real_gdp,958351,Thousands of chained 2017 dollars
+19055,"Delaware, IA",2020,county_current_gdp,924891,Thousands of dollars
+19055,"Delaware, IA",2021,county_current_gdp,1023366,Thousands of dollars
+19055,"Delaware, IA",2022,county_current_gdp,1206738,Thousands of dollars
+19055,"Delaware, IA",2023,county_current_gdp,1199935,Thousands of dollars
+19055,"Delaware, IA",2024,county_current_gdp,1257017,Thousands of dollars
+19057,"Des Moines, IA",2020,county_real_gdp,2161657,Thousands of chained 2017 dollars
+19057,"Des Moines, IA",2021,county_real_gdp,2274399,Thousands of chained 2017 dollars
+19057,"Des Moines, IA",2022,county_real_gdp,2147644,Thousands of chained 2017 dollars
+19057,"Des Moines, IA",2023,county_real_gdp,2143986,Thousands of chained 2017 dollars
+19057,"Des Moines, IA",2024,county_real_gdp,2221427,Thousands of chained 2017 dollars
+19057,"Des Moines, IA",2020,county_current_gdp,2315497,Thousands of dollars
+19057,"Des Moines, IA",2021,county_current_gdp,2517231,Thousands of dollars
+19057,"Des Moines, IA",2022,county_current_gdp,2584329,Thousands of dollars
+19057,"Des Moines, IA",2023,county_current_gdp,2744216,Thousands of dollars
+19057,"Des Moines, IA",2024,county_current_gdp,2923864,Thousands of dollars
+19059,"Dickinson, IA",2020,county_real_gdp,970483,Thousands of chained 2017 dollars
+19059,"Dickinson, IA",2021,county_real_gdp,1065657,Thousands of chained 2017 dollars
+19059,"Dickinson, IA",2022,county_real_gdp,1087003,Thousands of chained 2017 dollars
+19059,"Dickinson, IA",2023,county_real_gdp,1094202,Thousands of chained 2017 dollars
+19059,"Dickinson, IA",2024,county_real_gdp,1179189,Thousands of chained 2017 dollars
+19059,"Dickinson, IA",2020,county_current_gdp,1029932,Thousands of dollars
+19059,"Dickinson, IA",2021,county_current_gdp,1199238,Thousands of dollars
+19059,"Dickinson, IA",2022,county_current_gdp,1338224,Thousands of dollars
+19059,"Dickinson, IA",2023,county_current_gdp,1395623,Thousands of dollars
+19059,"Dickinson, IA",2024,county_current_gdp,1529229,Thousands of dollars
+19061,"Dubuque, IA",2020,county_real_gdp,6617948,Thousands of chained 2017 dollars
+19061,"Dubuque, IA",2021,county_real_gdp,6808043,Thousands of chained 2017 dollars
+19061,"Dubuque, IA",2022,county_real_gdp,6896541,Thousands of chained 2017 dollars
+19061,"Dubuque, IA",2023,county_real_gdp,6885958,Thousands of chained 2017 dollars
+19061,"Dubuque, IA",2024,county_real_gdp,6926276,Thousands of chained 2017 dollars
+19061,"Dubuque, IA",2020,county_current_gdp,7088266,Thousands of dollars
+19061,"Dubuque, IA",2021,county_current_gdp,7507247,Thousands of dollars
+19061,"Dubuque, IA",2022,county_current_gdp,8289366,Thousands of dollars
+19061,"Dubuque, IA",2023,county_current_gdp,8812746,Thousands of dollars
+19061,"Dubuque, IA",2024,county_current_gdp,9159845,Thousands of dollars
+19063,"Emmet, IA",2020,county_real_gdp,334298,Thousands of chained 2017 dollars
+19063,"Emmet, IA",2021,county_real_gdp,391485,Thousands of chained 2017 dollars
+19063,"Emmet, IA",2022,county_real_gdp,400102,Thousands of chained 2017 dollars
+19063,"Emmet, IA",2023,county_real_gdp,351251,Thousands of chained 2017 dollars
+19063,"Emmet, IA",2024,county_real_gdp,392589,Thousands of chained 2017 dollars
+19063,"Emmet, IA",2020,county_current_gdp,358614,Thousands of dollars
+19063,"Emmet, IA",2021,county_current_gdp,441018,Thousands of dollars
+19063,"Emmet, IA",2022,county_current_gdp,505794,Thousands of dollars
+19063,"Emmet, IA",2023,county_current_gdp,456994,Thousands of dollars
+19063,"Emmet, IA",2024,county_current_gdp,519084,Thousands of dollars
+19065,"Fayette, IA",2020,county_real_gdp,710545,Thousands of chained 2017 dollars
+19065,"Fayette, IA",2021,county_real_gdp,750535,Thousands of chained 2017 dollars
+19065,"Fayette, IA",2022,county_real_gdp,776930,Thousands of chained 2017 dollars
+19065,"Fayette, IA",2023,county_real_gdp,761638,Thousands of chained 2017 dollars
+19065,"Fayette, IA",2024,county_real_gdp,800463,Thousands of chained 2017 dollars
+19065,"Fayette, IA",2020,county_current_gdp,753513,Thousands of dollars
+19065,"Fayette, IA",2021,county_current_gdp,862011,Thousands of dollars
+19065,"Fayette, IA",2022,county_current_gdp,1012072,Thousands of dollars
+19065,"Fayette, IA",2023,county_current_gdp,1007607,Thousands of dollars
+19065,"Fayette, IA",2024,county_current_gdp,1074991,Thousands of dollars
+19067,"Floyd, IA",2020,county_real_gdp,760141,Thousands of chained 2017 dollars
+19067,"Floyd, IA",2021,county_real_gdp,870006,Thousands of chained 2017 dollars
+19067,"Floyd, IA",2022,county_real_gdp,869677,Thousands of chained 2017 dollars
+19067,"Floyd, IA",2023,county_real_gdp,870872,Thousands of chained 2017 dollars
+19067,"Floyd, IA",2024,county_real_gdp,917123,Thousands of chained 2017 dollars
+19067,"Floyd, IA",2020,county_current_gdp,793638,Thousands of dollars
+19067,"Floyd, IA",2021,county_current_gdp,988997,Thousands of dollars
+19067,"Floyd, IA",2022,county_current_gdp,1099579,Thousands of dollars
+19067,"Floyd, IA",2023,county_current_gdp,1108958,Thousands of dollars
+19067,"Floyd, IA",2024,county_current_gdp,1165407,Thousands of dollars
+19069,"Franklin, IA",2020,county_real_gdp,541192,Thousands of chained 2017 dollars
+19069,"Franklin, IA",2021,county_real_gdp,644763,Thousands of chained 2017 dollars
+19069,"Franklin, IA",2022,county_real_gdp,643923,Thousands of chained 2017 dollars
+19069,"Franklin, IA",2023,county_real_gdp,596033,Thousands of chained 2017 dollars
+19069,"Franklin, IA",2024,county_real_gdp,594529,Thousands of chained 2017 dollars
+19069,"Franklin, IA",2020,county_current_gdp,563910,Thousands of dollars
+19069,"Franklin, IA",2021,county_current_gdp,730430,Thousands of dollars
+19069,"Franklin, IA",2022,county_current_gdp,844885,Thousands of dollars
+19069,"Franklin, IA",2023,county_current_gdp,786325,Thousands of dollars
+19069,"Franklin, IA",2024,county_current_gdp,789823,Thousands of dollars
+19071,"Fremont, IA",2020,county_real_gdp,299086,Thousands of chained 2017 dollars
+19071,"Fremont, IA",2021,county_real_gdp,356153,Thousands of chained 2017 dollars
+19071,"Fremont, IA",2022,county_real_gdp,319130,Thousands of chained 2017 dollars
+19071,"Fremont, IA",2023,county_real_gdp,322643,Thousands of chained 2017 dollars
+19071,"Fremont, IA",2024,county_real_gdp,291869,Thousands of chained 2017 dollars
+19071,"Fremont, IA",2020,county_current_gdp,316866,Thousands of dollars
+19071,"Fremont, IA",2021,county_current_gdp,425747,Thousands of dollars
+19071,"Fremont, IA",2022,county_current_gdp,437526,Thousands of dollars
+19071,"Fremont, IA",2023,county_current_gdp,434515,Thousands of dollars
+19071,"Fremont, IA",2024,county_current_gdp,394050,Thousands of dollars
+19073,"Greene, IA",2020,county_real_gdp,468877,Thousands of chained 2017 dollars
+19073,"Greene, IA",2021,county_real_gdp,571052,Thousands of chained 2017 dollars
+19073,"Greene, IA",2022,county_real_gdp,549603,Thousands of chained 2017 dollars
+19073,"Greene, IA",2023,county_real_gdp,512549,Thousands of chained 2017 dollars
+19073,"Greene, IA",2024,county_real_gdp,540406,Thousands of chained 2017 dollars
+19073,"Greene, IA",2020,county_current_gdp,493079,Thousands of dollars
+19073,"Greene, IA",2021,county_current_gdp,651238,Thousands of dollars
+19073,"Greene, IA",2022,county_current_gdp,715619,Thousands of dollars
+19073,"Greene, IA",2023,county_current_gdp,676419,Thousands of dollars
+19073,"Greene, IA",2024,county_current_gdp,720763,Thousands of dollars
+19075,"Grundy, IA",2020,county_real_gdp,504283,Thousands of chained 2017 dollars
+19075,"Grundy, IA",2021,county_real_gdp,599663,Thousands of chained 2017 dollars
+19075,"Grundy, IA",2022,county_real_gdp,582188,Thousands of chained 2017 dollars
+19075,"Grundy, IA",2023,county_real_gdp,558101,Thousands of chained 2017 dollars
+19075,"Grundy, IA",2024,county_real_gdp,539210,Thousands of chained 2017 dollars
+19075,"Grundy, IA",2020,county_current_gdp,537430,Thousands of dollars
+19075,"Grundy, IA",2021,county_current_gdp,692739,Thousands of dollars
+19075,"Grundy, IA",2022,county_current_gdp,766817,Thousands of dollars
+19075,"Grundy, IA",2023,county_current_gdp,747686,Thousands of dollars
+19075,"Grundy, IA",2024,county_current_gdp,731666,Thousands of dollars
+19077,"Guthrie, IA",2020,county_real_gdp,455776,Thousands of chained 2017 dollars
+19077,"Guthrie, IA",2021,county_real_gdp,508024,Thousands of chained 2017 dollars
+19077,"Guthrie, IA",2022,county_real_gdp,519363,Thousands of chained 2017 dollars
+19077,"Guthrie, IA",2023,county_real_gdp,514512,Thousands of chained 2017 dollars
+19077,"Guthrie, IA",2024,county_real_gdp,567734,Thousands of chained 2017 dollars
+19077,"Guthrie, IA",2020,county_current_gdp,479958,Thousands of dollars
+19077,"Guthrie, IA",2021,county_current_gdp,586765,Thousands of dollars
+19077,"Guthrie, IA",2022,county_current_gdp,681378,Thousands of dollars
+19077,"Guthrie, IA",2023,county_current_gdp,677373,Thousands of dollars
+19077,"Guthrie, IA",2024,county_current_gdp,752540,Thousands of dollars
+19079,"Hamilton, IA",2020,county_real_gdp,677420,Thousands of chained 2017 dollars
+19079,"Hamilton, IA",2021,county_real_gdp,788425,Thousands of chained 2017 dollars
+19079,"Hamilton, IA",2022,county_real_gdp,849839,Thousands of chained 2017 dollars
+19079,"Hamilton, IA",2023,county_real_gdp,804131,Thousands of chained 2017 dollars
+19079,"Hamilton, IA",2024,county_real_gdp,854305,Thousands of chained 2017 dollars
+19079,"Hamilton, IA",2020,county_current_gdp,699371,Thousands of dollars
+19079,"Hamilton, IA",2021,county_current_gdp,905581,Thousands of dollars
+19079,"Hamilton, IA",2022,county_current_gdp,1118635,Thousands of dollars
+19079,"Hamilton, IA",2023,county_current_gdp,1050463,Thousands of dollars
+19079,"Hamilton, IA",2024,county_current_gdp,1116493,Thousands of dollars
+19081,"Hancock, IA",2020,county_real_gdp,727735,Thousands of chained 2017 dollars
+19081,"Hancock, IA",2021,county_real_gdp,891401,Thousands of chained 2017 dollars
+19081,"Hancock, IA",2022,county_real_gdp,1004202,Thousands of chained 2017 dollars
+19081,"Hancock, IA",2023,county_real_gdp,940844,Thousands of chained 2017 dollars
+19081,"Hancock, IA",2024,county_real_gdp,984747,Thousands of chained 2017 dollars
+19081,"Hancock, IA",2020,county_current_gdp,749995,Thousands of dollars
+19081,"Hancock, IA",2021,county_current_gdp,939234,Thousands of dollars
+19081,"Hancock, IA",2022,county_current_gdp,1171865,Thousands of dollars
+19081,"Hancock, IA",2023,county_current_gdp,1145494,Thousands of dollars
+19081,"Hancock, IA",2024,county_current_gdp,1204021,Thousands of dollars
+19083,"Hardin, IA",2020,county_real_gdp,738108,Thousands of chained 2017 dollars
+19083,"Hardin, IA",2021,county_real_gdp,899224,Thousands of chained 2017 dollars
+19083,"Hardin, IA",2022,county_real_gdp,952018,Thousands of chained 2017 dollars
+19083,"Hardin, IA",2023,county_real_gdp,853203,Thousands of chained 2017 dollars
+19083,"Hardin, IA",2024,county_real_gdp,863495,Thousands of chained 2017 dollars
+19083,"Hardin, IA",2020,county_current_gdp,777139,Thousands of dollars
+19083,"Hardin, IA",2021,county_current_gdp,1035132,Thousands of dollars
+19083,"Hardin, IA",2022,county_current_gdp,1241943,Thousands of dollars
+19083,"Hardin, IA",2023,county_current_gdp,1120427,Thousands of dollars
+19083,"Hardin, IA",2024,county_current_gdp,1142119,Thousands of dollars
+19085,"Harrison, IA",2020,county_real_gdp,418700,Thousands of chained 2017 dollars
+19085,"Harrison, IA",2021,county_real_gdp,517943,Thousands of chained 2017 dollars
+19085,"Harrison, IA",2022,county_real_gdp,533987,Thousands of chained 2017 dollars
+19085,"Harrison, IA",2023,county_real_gdp,536677,Thousands of chained 2017 dollars
+19085,"Harrison, IA",2024,county_real_gdp,508106,Thousands of chained 2017 dollars
+19085,"Harrison, IA",2020,county_current_gdp,451115,Thousands of dollars
+19085,"Harrison, IA",2021,county_current_gdp,593997,Thousands of dollars
+19085,"Harrison, IA",2022,county_current_gdp,686866,Thousands of dollars
+19085,"Harrison, IA",2023,county_current_gdp,701463,Thousands of dollars
+19085,"Harrison, IA",2024,county_current_gdp,674638,Thousands of dollars
+19087,"Henry, IA",2020,county_real_gdp,915174,Thousands of chained 2017 dollars
+19087,"Henry, IA",2021,county_real_gdp,979507,Thousands of chained 2017 dollars
+19087,"Henry, IA",2022,county_real_gdp,943226,Thousands of chained 2017 dollars
+19087,"Henry, IA",2023,county_real_gdp,885289,Thousands of chained 2017 dollars
+19087,"Henry, IA",2024,county_real_gdp,864153,Thousands of chained 2017 dollars
+19087,"Henry, IA",2020,county_current_gdp,973055,Thousands of dollars
+19087,"Henry, IA",2021,county_current_gdp,1089372,Thousands of dollars
+19087,"Henry, IA",2022,county_current_gdp,1173674,Thousands of dollars
+19087,"Henry, IA",2023,county_current_gdp,1158447,Thousands of dollars
+19087,"Henry, IA",2024,county_current_gdp,1153613,Thousands of dollars
+19089,"Howard, IA",2020,county_real_gdp,440789,Thousands of chained 2017 dollars
+19089,"Howard, IA",2021,county_real_gdp,518874,Thousands of chained 2017 dollars
+19089,"Howard, IA",2022,county_real_gdp,543801,Thousands of chained 2017 dollars
+19089,"Howard, IA",2023,county_real_gdp,549370,Thousands of chained 2017 dollars
+19089,"Howard, IA",2024,county_real_gdp,570430,Thousands of chained 2017 dollars
+19089,"Howard, IA",2020,county_current_gdp,457232,Thousands of dollars
+19089,"Howard, IA",2021,county_current_gdp,585125,Thousands of dollars
+19089,"Howard, IA",2022,county_current_gdp,688482,Thousands of dollars
+19089,"Howard, IA",2023,county_current_gdp,701693,Thousands of dollars
+19089,"Howard, IA",2024,county_current_gdp,727355,Thousands of dollars
+19091,"Humboldt, IA",2020,county_real_gdp,423201,Thousands of chained 2017 dollars
+19091,"Humboldt, IA",2021,county_real_gdp,470876,Thousands of chained 2017 dollars
+19091,"Humboldt, IA",2022,county_real_gdp,451140,Thousands of chained 2017 dollars
+19091,"Humboldt, IA",2023,county_real_gdp,446614,Thousands of chained 2017 dollars
+19091,"Humboldt, IA",2024,county_real_gdp,449116,Thousands of chained 2017 dollars
+19091,"Humboldt, IA",2020,county_current_gdp,446690,Thousands of dollars
+19091,"Humboldt, IA",2021,county_current_gdp,533867,Thousands of dollars
+19091,"Humboldt, IA",2022,county_current_gdp,580341,Thousands of dollars
+19091,"Humboldt, IA",2023,county_current_gdp,588040,Thousands of dollars
+19091,"Humboldt, IA",2024,county_current_gdp,598190,Thousands of dollars
+19093,"Ida, IA",2020,county_real_gdp,584748,Thousands of chained 2017 dollars
+19093,"Ida, IA",2021,county_real_gdp,607381,Thousands of chained 2017 dollars
+19093,"Ida, IA",2022,county_real_gdp,577720,Thousands of chained 2017 dollars
+19093,"Ida, IA",2023,county_real_gdp,557191,Thousands of chained 2017 dollars
+19093,"Ida, IA",2024,county_real_gdp,551885,Thousands of chained 2017 dollars
+19093,"Ida, IA",2020,county_current_gdp,624459,Thousands of dollars
+19093,"Ida, IA",2021,county_current_gdp,721396,Thousands of dollars
+19093,"Ida, IA",2022,county_current_gdp,779724,Thousands of dollars
+19093,"Ida, IA",2023,county_current_gdp,751989,Thousands of dollars
+19093,"Ida, IA",2024,county_current_gdp,745612,Thousands of dollars
+19095,"Iowa, IA",2020,county_real_gdp,962210,Thousands of chained 2017 dollars
+19095,"Iowa, IA",2021,county_real_gdp,1057448,Thousands of chained 2017 dollars
+19095,"Iowa, IA",2022,county_real_gdp,979313,Thousands of chained 2017 dollars
+19095,"Iowa, IA",2023,county_real_gdp,917486,Thousands of chained 2017 dollars
+19095,"Iowa, IA",2024,county_real_gdp,907656,Thousands of chained 2017 dollars
+19095,"Iowa, IA",2020,county_current_gdp,1033669,Thousands of dollars
+19095,"Iowa, IA",2021,county_current_gdp,1187843,Thousands of dollars
+19095,"Iowa, IA",2022,county_current_gdp,1272961,Thousands of dollars
+19095,"Iowa, IA",2023,county_current_gdp,1265744,Thousands of dollars
+19095,"Iowa, IA",2024,county_current_gdp,1274166,Thousands of dollars
+19097,"Jackson, IA",2020,county_real_gdp,654882,Thousands of chained 2017 dollars
+19097,"Jackson, IA",2021,county_real_gdp,663360,Thousands of chained 2017 dollars
+19097,"Jackson, IA",2022,county_real_gdp,662916,Thousands of chained 2017 dollars
+19097,"Jackson, IA",2023,county_real_gdp,654731,Thousands of chained 2017 dollars
+19097,"Jackson, IA",2024,county_real_gdp,682179,Thousands of chained 2017 dollars
+19097,"Jackson, IA",2020,county_current_gdp,699324,Thousands of dollars
+19097,"Jackson, IA",2021,county_current_gdp,756410,Thousands of dollars
+19097,"Jackson, IA",2022,county_current_gdp,838771,Thousands of dollars
+19097,"Jackson, IA",2023,county_current_gdp,855199,Thousands of dollars
+19097,"Jackson, IA",2024,county_current_gdp,906681,Thousands of dollars
+19099,"Jasper, IA",2020,county_real_gdp,1178488,Thousands of chained 2017 dollars
+19099,"Jasper, IA",2021,county_real_gdp,1272529,Thousands of chained 2017 dollars
+19099,"Jasper, IA",2022,county_real_gdp,1167752,Thousands of chained 2017 dollars
+19099,"Jasper, IA",2023,county_real_gdp,1143588,Thousands of chained 2017 dollars
+19099,"Jasper, IA",2024,county_real_gdp,1137849,Thousands of chained 2017 dollars
+19099,"Jasper, IA",2020,county_current_gdp,1264252,Thousands of dollars
+19099,"Jasper, IA",2021,county_current_gdp,1431379,Thousands of dollars
+19099,"Jasper, IA",2022,county_current_gdp,1466759,Thousands of dollars
+19099,"Jasper, IA",2023,county_current_gdp,1497722,Thousands of dollars
+19099,"Jasper, IA",2024,county_current_gdp,1522980,Thousands of dollars
+19101,"Jefferson, IA",2020,county_real_gdp,675678,Thousands of chained 2017 dollars
+19101,"Jefferson, IA",2021,county_real_gdp,736777,Thousands of chained 2017 dollars
+19101,"Jefferson, IA",2022,county_real_gdp,763884,Thousands of chained 2017 dollars
+19101,"Jefferson, IA",2023,county_real_gdp,739767,Thousands of chained 2017 dollars
+19101,"Jefferson, IA",2024,county_real_gdp,709844,Thousands of chained 2017 dollars
+19101,"Jefferson, IA",2020,county_current_gdp,721186,Thousands of dollars
+19101,"Jefferson, IA",2021,county_current_gdp,839540,Thousands of dollars
+19101,"Jefferson, IA",2022,county_current_gdp,930970,Thousands of dollars
+19101,"Jefferson, IA",2023,county_current_gdp,925693,Thousands of dollars
+19101,"Jefferson, IA",2024,county_current_gdp,911305,Thousands of dollars
+19103,"Johnson, IA",2020,county_real_gdp,9368536,Thousands of chained 2017 dollars
+19103,"Johnson, IA",2021,county_real_gdp,9680610,Thousands of chained 2017 dollars
+19103,"Johnson, IA",2022,county_real_gdp,9608045,Thousands of chained 2017 dollars
+19103,"Johnson, IA",2023,county_real_gdp,9723176,Thousands of chained 2017 dollars
+19103,"Johnson, IA",2024,county_real_gdp,9887747,Thousands of chained 2017 dollars
+19103,"Johnson, IA",2020,county_current_gdp,10163763,Thousands of dollars
+19103,"Johnson, IA",2021,county_current_gdp,10874449,Thousands of dollars
+19103,"Johnson, IA",2022,county_current_gdp,11400830,Thousands of dollars
+19103,"Johnson, IA",2023,county_current_gdp,12087484,Thousands of dollars
+19103,"Johnson, IA",2024,county_current_gdp,12640083,Thousands of dollars
+19105,"Jones, IA",2020,county_real_gdp,621578,Thousands of chained 2017 dollars
+19105,"Jones, IA",2021,county_real_gdp,669755,Thousands of chained 2017 dollars
+19105,"Jones, IA",2022,county_real_gdp,650949,Thousands of chained 2017 dollars
+19105,"Jones, IA",2023,county_real_gdp,648697,Thousands of chained 2017 dollars
+19105,"Jones, IA",2024,county_real_gdp,631420,Thousands of chained 2017 dollars
+19105,"Jones, IA",2020,county_current_gdp,665475,Thousands of dollars
+19105,"Jones, IA",2021,county_current_gdp,776260,Thousands of dollars
+19105,"Jones, IA",2022,county_current_gdp,854187,Thousands of dollars
+19105,"Jones, IA",2023,county_current_gdp,869854,Thousands of dollars
+19105,"Jones, IA",2024,county_current_gdp,858258,Thousands of dollars
+19107,"Keokuk, IA",2020,county_real_gdp,310349,Thousands of chained 2017 dollars
+19107,"Keokuk, IA",2021,county_real_gdp,347763,Thousands of chained 2017 dollars
+19107,"Keokuk, IA",2022,county_real_gdp,345464,Thousands of chained 2017 dollars
+19107,"Keokuk, IA",2023,county_real_gdp,327567,Thousands of chained 2017 dollars
+19107,"Keokuk, IA",2024,county_real_gdp,326816,Thousands of chained 2017 dollars
+19107,"Keokuk, IA",2020,county_current_gdp,321477,Thousands of dollars
+19107,"Keokuk, IA",2021,county_current_gdp,408080,Thousands of dollars
+19107,"Keokuk, IA",2022,county_current_gdp,471766,Thousands of dollars
+19107,"Keokuk, IA",2023,county_current_gdp,442952,Thousands of dollars
+19107,"Keokuk, IA",2024,county_current_gdp,442568,Thousands of dollars
+19109,"Kossuth, IA",2020,county_real_gdp,806977,Thousands of chained 2017 dollars
+19109,"Kossuth, IA",2021,county_real_gdp,1031181,Thousands of chained 2017 dollars
+19109,"Kossuth, IA",2022,county_real_gdp,1040619,Thousands of chained 2017 dollars
+19109,"Kossuth, IA",2023,county_real_gdp,1006596,Thousands of chained 2017 dollars
+19109,"Kossuth, IA",2024,county_real_gdp,1066606,Thousands of chained 2017 dollars
+19109,"Kossuth, IA",2020,county_current_gdp,848729,Thousands of dollars
+19109,"Kossuth, IA",2021,county_current_gdp,1162977,Thousands of dollars
+19109,"Kossuth, IA",2022,county_current_gdp,1334138,Thousands of dollars
+19109,"Kossuth, IA",2023,county_current_gdp,1308699,Thousands of dollars
+19109,"Kossuth, IA",2024,county_current_gdp,1398715,Thousands of dollars
+19111,"Lee, IA",2020,county_real_gdp,1854877,Thousands of chained 2017 dollars
+19111,"Lee, IA",2021,county_real_gdp,1905410,Thousands of chained 2017 dollars
+19111,"Lee, IA",2022,county_real_gdp,1752087,Thousands of chained 2017 dollars
+19111,"Lee, IA",2023,county_real_gdp,1739653,Thousands of chained 2017 dollars
+19111,"Lee, IA",2024,county_real_gdp,1749234,Thousands of chained 2017 dollars
+19111,"Lee, IA",2020,county_current_gdp,1964229,Thousands of dollars
+19111,"Lee, IA",2021,county_current_gdp,2124046,Thousands of dollars
+19111,"Lee, IA",2022,county_current_gdp,2134942,Thousands of dollars
+19111,"Lee, IA",2023,county_current_gdp,2222048,Thousands of dollars
+19111,"Lee, IA",2024,county_current_gdp,2263540,Thousands of dollars
+19113,"Linn, IA",2020,county_real_gdp,16589410,Thousands of chained 2017 dollars
+19113,"Linn, IA",2021,county_real_gdp,17728784,Thousands of chained 2017 dollars
+19113,"Linn, IA",2022,county_real_gdp,17591539,Thousands of chained 2017 dollars
+19113,"Linn, IA",2023,county_real_gdp,17360484,Thousands of chained 2017 dollars
+19113,"Linn, IA",2024,county_real_gdp,17575215,Thousands of chained 2017 dollars
+19113,"Linn, IA",2020,county_current_gdp,17561630,Thousands of dollars
+19113,"Linn, IA",2021,county_current_gdp,19220890,Thousands of dollars
+19113,"Linn, IA",2022,county_current_gdp,20289371,Thousands of dollars
+19113,"Linn, IA",2023,county_current_gdp,21037374,Thousands of dollars
+19113,"Linn, IA",2024,county_current_gdp,21899205,Thousands of dollars
+19115,"Louisa, IA",2020,county_real_gdp,652436,Thousands of chained 2017 dollars
+19115,"Louisa, IA",2021,county_real_gdp,797485,Thousands of chained 2017 dollars
+19115,"Louisa, IA",2022,county_real_gdp,752012,Thousands of chained 2017 dollars
+19115,"Louisa, IA",2023,county_real_gdp,758281,Thousands of chained 2017 dollars
+19115,"Louisa, IA",2024,county_real_gdp,728908,Thousands of chained 2017 dollars
+19115,"Louisa, IA",2020,county_current_gdp,685294,Thousands of dollars
+19115,"Louisa, IA",2021,county_current_gdp,903852,Thousands of dollars
+19115,"Louisa, IA",2022,county_current_gdp,917486,Thousands of dollars
+19115,"Louisa, IA",2023,county_current_gdp,960835,Thousands of dollars
+19115,"Louisa, IA",2024,county_current_gdp,930413,Thousands of dollars
+19117,"Lucas, IA",2020,county_real_gdp,313353,Thousands of chained 2017 dollars
+19117,"Lucas, IA",2021,county_real_gdp,327521,Thousands of chained 2017 dollars
+19117,"Lucas, IA",2022,county_real_gdp,295221,Thousands of chained 2017 dollars
+19117,"Lucas, IA",2023,county_real_gdp,267567,Thousands of chained 2017 dollars
+19117,"Lucas, IA",2024,county_real_gdp,265780,Thousands of chained 2017 dollars
+19117,"Lucas, IA",2020,county_current_gdp,339209,Thousands of dollars
+19117,"Lucas, IA",2021,county_current_gdp,367346,Thousands of dollars
+19117,"Lucas, IA",2022,county_current_gdp,367092,Thousands of dollars
+19117,"Lucas, IA",2023,county_current_gdp,355541,Thousands of dollars
+19117,"Lucas, IA",2024,county_current_gdp,362431,Thousands of dollars
+19119,"Lyon, IA",2020,county_real_gdp,868530,Thousands of chained 2017 dollars
+19119,"Lyon, IA",2021,county_real_gdp,886600,Thousands of chained 2017 dollars
+19119,"Lyon, IA",2022,county_real_gdp,980110,Thousands of chained 2017 dollars
+19119,"Lyon, IA",2023,county_real_gdp,916631,Thousands of chained 2017 dollars
+19119,"Lyon, IA",2024,county_real_gdp,1110011,Thousands of chained 2017 dollars
+19119,"Lyon, IA",2020,county_current_gdp,860591,Thousands of dollars
+19119,"Lyon, IA",2021,county_current_gdp,1010199,Thousands of dollars
+19119,"Lyon, IA",2022,county_current_gdp,1303930,Thousands of dollars
+19119,"Lyon, IA",2023,county_current_gdp,1192080,Thousands of dollars
+19119,"Lyon, IA",2024,county_current_gdp,1425377,Thousands of dollars
+19121,"Madison, IA",2020,county_real_gdp,419268,Thousands of chained 2017 dollars
+19121,"Madison, IA",2021,county_real_gdp,462076,Thousands of chained 2017 dollars
+19121,"Madison, IA",2022,county_real_gdp,489559,Thousands of chained 2017 dollars
+19121,"Madison, IA",2023,county_real_gdp,521445,Thousands of chained 2017 dollars
+19121,"Madison, IA",2024,county_real_gdp,509936,Thousands of chained 2017 dollars
+19121,"Madison, IA",2020,county_current_gdp,453750,Thousands of dollars
+19121,"Madison, IA",2021,county_current_gdp,526281,Thousands of dollars
+19121,"Madison, IA",2022,county_current_gdp,612530,Thousands of dollars
+19121,"Madison, IA",2023,county_current_gdp,680315,Thousands of dollars
+19121,"Madison, IA",2024,county_current_gdp,684290,Thousands of dollars
+19123,"Mahaska, IA",2020,county_real_gdp,820083,Thousands of chained 2017 dollars
+19123,"Mahaska, IA",2021,county_real_gdp,894066,Thousands of chained 2017 dollars
+19123,"Mahaska, IA",2022,county_real_gdp,899793,Thousands of chained 2017 dollars
+19123,"Mahaska, IA",2023,county_real_gdp,854821,Thousands of chained 2017 dollars
+19123,"Mahaska, IA",2024,county_real_gdp,873915,Thousands of chained 2017 dollars
+19123,"Mahaska, IA",2020,county_current_gdp,879041,Thousands of dollars
+19123,"Mahaska, IA",2021,county_current_gdp,1008005,Thousands of dollars
+19123,"Mahaska, IA",2022,county_current_gdp,1145504,Thousands of dollars
+19123,"Mahaska, IA",2023,county_current_gdp,1142812,Thousands of dollars
+19123,"Mahaska, IA",2024,county_current_gdp,1192082,Thousands of dollars
+19125,"Marion, IA",2020,county_real_gdp,2105257,Thousands of chained 2017 dollars
+19125,"Marion, IA",2021,county_real_gdp,2088609,Thousands of chained 2017 dollars
+19125,"Marion, IA",2022,county_real_gdp,2048705,Thousands of chained 2017 dollars
+19125,"Marion, IA",2023,county_real_gdp,2136959,Thousands of chained 2017 dollars
+19125,"Marion, IA",2024,county_real_gdp,2078419,Thousands of chained 2017 dollars
+19125,"Marion, IA",2020,county_current_gdp,2286264,Thousands of dollars
+19125,"Marion, IA",2021,county_current_gdp,2404185,Thousands of dollars
+19125,"Marion, IA",2022,county_current_gdp,2622784,Thousands of dollars
+19125,"Marion, IA",2023,county_current_gdp,2874558,Thousands of dollars
+19125,"Marion, IA",2024,county_current_gdp,2877638,Thousands of dollars
+19127,"Marshall, IA",2020,county_real_gdp,1829028,Thousands of chained 2017 dollars
+19127,"Marshall, IA",2021,county_real_gdp,1816698,Thousands of chained 2017 dollars
+19127,"Marshall, IA",2022,county_real_gdp,1789575,Thousands of chained 2017 dollars
+19127,"Marshall, IA",2023,county_real_gdp,1750980,Thousands of chained 2017 dollars
+19127,"Marshall, IA",2024,county_real_gdp,1739482,Thousands of chained 2017 dollars
+19127,"Marshall, IA",2020,county_current_gdp,1964670,Thousands of dollars
+19127,"Marshall, IA",2021,county_current_gdp,2051449,Thousands of dollars
+19127,"Marshall, IA",2022,county_current_gdp,2201124,Thousands of dollars
+19127,"Marshall, IA",2023,county_current_gdp,2278849,Thousands of dollars
+19127,"Marshall, IA",2024,county_current_gdp,2316784,Thousands of dollars
+19129,"Mills, IA",2020,county_real_gdp,525242,Thousands of chained 2017 dollars
+19129,"Mills, IA",2021,county_real_gdp,582319,Thousands of chained 2017 dollars
+19129,"Mills, IA",2022,county_real_gdp,516569,Thousands of chained 2017 dollars
+19129,"Mills, IA",2023,county_real_gdp,494669,Thousands of chained 2017 dollars
+19129,"Mills, IA",2024,county_real_gdp,486633,Thousands of chained 2017 dollars
+19129,"Mills, IA",2020,county_current_gdp,564962,Thousands of dollars
+19129,"Mills, IA",2021,county_current_gdp,672719,Thousands of dollars
+19129,"Mills, IA",2022,county_current_gdp,654270,Thousands of dollars
+19129,"Mills, IA",2023,county_current_gdp,644632,Thousands of dollars
+19129,"Mills, IA",2024,county_current_gdp,645309,Thousands of dollars
+19131,"Mitchell, IA",2020,county_real_gdp,579845,Thousands of chained 2017 dollars
+19131,"Mitchell, IA",2021,county_real_gdp,686575,Thousands of chained 2017 dollars
+19131,"Mitchell, IA",2022,county_real_gdp,722686,Thousands of chained 2017 dollars
+19131,"Mitchell, IA",2023,county_real_gdp,782404,Thousands of chained 2017 dollars
+19131,"Mitchell, IA",2024,county_real_gdp,765437,Thousands of chained 2017 dollars
+19131,"Mitchell, IA",2020,county_current_gdp,608915,Thousands of dollars
+19131,"Mitchell, IA",2021,county_current_gdp,788002,Thousands of dollars
+19131,"Mitchell, IA",2022,county_current_gdp,935556,Thousands of dollars
+19131,"Mitchell, IA",2023,county_current_gdp,1020008,Thousands of dollars
+19131,"Mitchell, IA",2024,county_current_gdp,994769,Thousands of dollars
+19133,"Monona, IA",2020,county_real_gdp,300580,Thousands of chained 2017 dollars
+19133,"Monona, IA",2021,county_real_gdp,350324,Thousands of chained 2017 dollars
+19133,"Monona, IA",2022,county_real_gdp,341718,Thousands of chained 2017 dollars
+19133,"Monona, IA",2023,county_real_gdp,367640,Thousands of chained 2017 dollars
+19133,"Monona, IA",2024,county_real_gdp,344000,Thousands of chained 2017 dollars
+19133,"Monona, IA",2020,county_current_gdp,317864,Thousands of dollars
+19133,"Monona, IA",2021,county_current_gdp,413132,Thousands of dollars
+19133,"Monona, IA",2022,county_current_gdp,465485,Thousands of dollars
+19133,"Monona, IA",2023,county_current_gdp,493670,Thousands of dollars
+19133,"Monona, IA",2024,county_current_gdp,462008,Thousands of dollars
+19135,"Monroe, IA",2020,county_real_gdp,408754,Thousands of chained 2017 dollars
+19135,"Monroe, IA",2021,county_real_gdp,471711,Thousands of chained 2017 dollars
+19135,"Monroe, IA",2022,county_real_gdp,492773,Thousands of chained 2017 dollars
+19135,"Monroe, IA",2023,county_real_gdp,491492,Thousands of chained 2017 dollars
+19135,"Monroe, IA",2024,county_real_gdp,485114,Thousands of chained 2017 dollars
+19135,"Monroe, IA",2020,county_current_gdp,435190,Thousands of dollars
+19135,"Monroe, IA",2021,county_current_gdp,519891,Thousands of dollars
+19135,"Monroe, IA",2022,county_current_gdp,571919,Thousands of dollars
+19135,"Monroe, IA",2023,county_current_gdp,612272,Thousands of dollars
+19135,"Monroe, IA",2024,county_current_gdp,618965,Thousands of dollars
+19137,"Montgomery, IA",2020,county_real_gdp,410334,Thousands of chained 2017 dollars
+19137,"Montgomery, IA",2021,county_real_gdp,462284,Thousands of chained 2017 dollars
+19137,"Montgomery, IA",2022,county_real_gdp,446958,Thousands of chained 2017 dollars
+19137,"Montgomery, IA",2023,county_real_gdp,429233,Thousands of chained 2017 dollars
+19137,"Montgomery, IA",2024,county_real_gdp,419234,Thousands of chained 2017 dollars
+19137,"Montgomery, IA",2020,county_current_gdp,441892,Thousands of dollars
+19137,"Montgomery, IA",2021,county_current_gdp,523330,Thousands of dollars
+19137,"Montgomery, IA",2022,county_current_gdp,561662,Thousands of dollars
+19137,"Montgomery, IA",2023,county_current_gdp,558027,Thousands of dollars
+19137,"Montgomery, IA",2024,county_current_gdp,557186,Thousands of dollars
+19139,"Muscatine, IA",2020,county_real_gdp,2545990,Thousands of chained 2017 dollars
+19139,"Muscatine, IA",2021,county_real_gdp,2588316,Thousands of chained 2017 dollars
+19139,"Muscatine, IA",2022,county_real_gdp,2593837,Thousands of chained 2017 dollars
+19139,"Muscatine, IA",2023,county_real_gdp,2518379,Thousands of chained 2017 dollars
+19139,"Muscatine, IA",2024,county_real_gdp,2577854,Thousands of chained 2017 dollars
+19139,"Muscatine, IA",2020,county_current_gdp,2649560,Thousands of dollars
+19139,"Muscatine, IA",2021,county_current_gdp,2843429,Thousands of dollars
+19139,"Muscatine, IA",2022,county_current_gdp,3094220,Thousands of dollars
+19139,"Muscatine, IA",2023,county_current_gdp,3134597,Thousands of dollars
+19139,"Muscatine, IA",2024,county_current_gdp,3242090,Thousands of dollars
+19141,"O'Brien, IA",2020,county_real_gdp,851790,Thousands of chained 2017 dollars
+19141,"O'Brien, IA",2021,county_real_gdp,881414,Thousands of chained 2017 dollars
+19141,"O'Brien, IA",2022,county_real_gdp,922145,Thousands of chained 2017 dollars
+19141,"O'Brien, IA",2023,county_real_gdp,872063,Thousands of chained 2017 dollars
+19141,"O'Brien, IA",2024,county_real_gdp,956767,Thousands of chained 2017 dollars
+19141,"O'Brien, IA",2020,county_current_gdp,884030,Thousands of dollars
+19141,"O'Brien, IA",2021,county_current_gdp,1009990,Thousands of dollars
+19141,"O'Brien, IA",2022,county_current_gdp,1200497,Thousands of dollars
+19141,"O'Brien, IA",2023,county_current_gdp,1138467,Thousands of dollars
+19141,"O'Brien, IA",2024,county_current_gdp,1250240,Thousands of dollars
+19143,"Osceola, IA",2020,county_real_gdp,330783,Thousands of chained 2017 dollars
+19143,"Osceola, IA",2021,county_real_gdp,366895,Thousands of chained 2017 dollars
+19143,"Osceola, IA",2022,county_real_gdp,427468,Thousands of chained 2017 dollars
+19143,"Osceola, IA",2023,county_real_gdp,375828,Thousands of chained 2017 dollars
+19143,"Osceola, IA",2024,county_real_gdp,467536,Thousands of chained 2017 dollars
+19143,"Osceola, IA",2020,county_current_gdp,333688,Thousands of dollars
+19143,"Osceola, IA",2021,county_current_gdp,420114,Thousands of dollars
+19143,"Osceola, IA",2022,county_current_gdp,576706,Thousands of dollars
+19143,"Osceola, IA",2023,county_current_gdp,491610,Thousands of dollars
+19143,"Osceola, IA",2024,county_current_gdp,602104,Thousands of dollars
+19145,"Page, IA",2020,county_real_gdp,590022,Thousands of chained 2017 dollars
+19145,"Page, IA",2021,county_real_gdp,670118,Thousands of chained 2017 dollars
+19145,"Page, IA",2022,county_real_gdp,626396,Thousands of chained 2017 dollars
+19145,"Page, IA",2023,county_real_gdp,625686,Thousands of chained 2017 dollars
+19145,"Page, IA",2024,county_real_gdp,615018,Thousands of chained 2017 dollars
+19145,"Page, IA",2020,county_current_gdp,628244,Thousands of dollars
+19145,"Page, IA",2021,county_current_gdp,764679,Thousands of dollars
+19145,"Page, IA",2022,county_current_gdp,796457,Thousands of dollars
+19145,"Page, IA",2023,county_current_gdp,814076,Thousands of dollars
+19145,"Page, IA",2024,county_current_gdp,810561,Thousands of dollars
+19147,"Palo Alto, IA",2020,county_real_gdp,458495,Thousands of chained 2017 dollars
+19147,"Palo Alto, IA",2021,county_real_gdp,548734,Thousands of chained 2017 dollars
+19147,"Palo Alto, IA",2022,county_real_gdp,608875,Thousands of chained 2017 dollars
+19147,"Palo Alto, IA",2023,county_real_gdp,544858,Thousands of chained 2017 dollars
+19147,"Palo Alto, IA",2024,county_real_gdp,617067,Thousands of chained 2017 dollars
+19147,"Palo Alto, IA",2020,county_current_gdp,471931,Thousands of dollars
+19147,"Palo Alto, IA",2021,county_current_gdp,632613,Thousands of dollars
+19147,"Palo Alto, IA",2022,county_current_gdp,808670,Thousands of dollars
+19147,"Palo Alto, IA",2023,county_current_gdp,708572,Thousands of dollars
+19147,"Palo Alto, IA",2024,county_current_gdp,796293,Thousands of dollars
+19149,"Plymouth, IA",2020,county_real_gdp,1331017,Thousands of chained 2017 dollars
+19149,"Plymouth, IA",2021,county_real_gdp,1484195,Thousands of chained 2017 dollars
+19149,"Plymouth, IA",2022,county_real_gdp,1613345,Thousands of chained 2017 dollars
+19149,"Plymouth, IA",2023,county_real_gdp,1557347,Thousands of chained 2017 dollars
+19149,"Plymouth, IA",2024,county_real_gdp,1561144,Thousands of chained 2017 dollars
+19149,"Plymouth, IA",2020,county_current_gdp,1396939,Thousands of dollars
+19149,"Plymouth, IA",2021,county_current_gdp,1666320,Thousands of dollars
+19149,"Plymouth, IA",2022,county_current_gdp,2002079,Thousands of dollars
+19149,"Plymouth, IA",2023,county_current_gdp,1977804,Thousands of dollars
+19149,"Plymouth, IA",2024,county_current_gdp,1997065,Thousands of dollars
+19151,"Pocahontas, IA",2020,county_real_gdp,459167,Thousands of chained 2017 dollars
+19151,"Pocahontas, IA",2021,county_real_gdp,526796,Thousands of chained 2017 dollars
+19151,"Pocahontas, IA",2022,county_real_gdp,532938,Thousands of chained 2017 dollars
+19151,"Pocahontas, IA",2023,county_real_gdp,478476,Thousands of chained 2017 dollars
+19151,"Pocahontas, IA",2024,county_real_gdp,476013,Thousands of chained 2017 dollars
+19151,"Pocahontas, IA",2020,county_current_gdp,474028,Thousands of dollars
+19151,"Pocahontas, IA",2021,county_current_gdp,605225,Thousands of dollars
+19151,"Pocahontas, IA",2022,county_current_gdp,718778,Thousands of dollars
+19151,"Pocahontas, IA",2023,county_current_gdp,645004,Thousands of dollars
+19151,"Pocahontas, IA",2024,county_current_gdp,641676,Thousands of dollars
+19153,"Polk, IA",2020,county_real_gdp,45811649,Thousands of chained 2017 dollars
+19153,"Polk, IA",2021,county_real_gdp,50420264,Thousands of chained 2017 dollars
+19153,"Polk, IA",2022,county_real_gdp,49240656,Thousands of chained 2017 dollars
+19153,"Polk, IA",2023,county_real_gdp,48962248,Thousands of chained 2017 dollars
+19153,"Polk, IA",2024,county_real_gdp,50518845,Thousands of chained 2017 dollars
+19153,"Polk, IA",2020,county_current_gdp,49099759,Thousands of dollars
+19153,"Polk, IA",2021,county_current_gdp,54975874,Thousands of dollars
+19153,"Polk, IA",2022,county_current_gdp,56752877,Thousands of dollars
+19153,"Polk, IA",2023,county_current_gdp,59553910,Thousands of dollars
+19153,"Polk, IA",2024,county_current_gdp,63823028,Thousands of dollars
+19155,"Pottawattamie, IA",2020,county_real_gdp,4097120,Thousands of chained 2017 dollars
+19155,"Pottawattamie, IA",2021,county_real_gdp,4322099,Thousands of chained 2017 dollars
+19155,"Pottawattamie, IA",2022,county_real_gdp,4474506,Thousands of chained 2017 dollars
+19155,"Pottawattamie, IA",2023,county_real_gdp,4610420,Thousands of chained 2017 dollars
+19155,"Pottawattamie, IA",2024,county_real_gdp,4836746,Thousands of chained 2017 dollars
+19155,"Pottawattamie, IA",2020,county_current_gdp,4385103,Thousands of dollars
+19155,"Pottawattamie, IA",2021,county_current_gdp,4892055,Thousands of dollars
+19155,"Pottawattamie, IA",2022,county_current_gdp,5472328,Thousands of dollars
+19155,"Pottawattamie, IA",2023,county_current_gdp,5869049,Thousands of dollars
+19155,"Pottawattamie, IA",2024,county_current_gdp,6263240,Thousands of dollars
+19157,"Poweshiek, IA",2020,county_real_gdp,1135037,Thousands of chained 2017 dollars
+19157,"Poweshiek, IA",2021,county_real_gdp,1218732,Thousands of chained 2017 dollars
+19157,"Poweshiek, IA",2022,county_real_gdp,1265309,Thousands of chained 2017 dollars
+19157,"Poweshiek, IA",2023,county_real_gdp,1206191,Thousands of chained 2017 dollars
+19157,"Poweshiek, IA",2024,county_real_gdp,1279070,Thousands of chained 2017 dollars
+19157,"Poweshiek, IA",2020,county_current_gdp,1219635,Thousands of dollars
+19157,"Poweshiek, IA",2021,county_current_gdp,1394496,Thousands of dollars
+19157,"Poweshiek, IA",2022,county_current_gdp,1582349,Thousands of dollars
+19157,"Poweshiek, IA",2023,county_current_gdp,1536539,Thousands of dollars
+19157,"Poweshiek, IA",2024,county_current_gdp,1654237,Thousands of dollars
+19159,"Ringgold, IA",2020,county_real_gdp,174616,Thousands of chained 2017 dollars
+19159,"Ringgold, IA",2021,county_real_gdp,182823,Thousands of chained 2017 dollars
+19159,"Ringgold, IA",2022,county_real_gdp,169682,Thousands of chained 2017 dollars
+19159,"Ringgold, IA",2023,county_real_gdp,157905,Thousands of chained 2017 dollars
+19159,"Ringgold, IA",2024,county_real_gdp,174755,Thousands of chained 2017 dollars
+19159,"Ringgold, IA",2020,county_current_gdp,179596,Thousands of dollars
+19159,"Ringgold, IA",2021,county_current_gdp,214079,Thousands of dollars
+19159,"Ringgold, IA",2022,county_current_gdp,227855,Thousands of dollars
+19159,"Ringgold, IA",2023,county_current_gdp,210542,Thousands of dollars
+19159,"Ringgold, IA",2024,county_current_gdp,233698,Thousands of dollars
+19161,"Sac, IA",2020,county_real_gdp,475620,Thousands of chained 2017 dollars
+19161,"Sac, IA",2021,county_real_gdp,560784,Thousands of chained 2017 dollars
+19161,"Sac, IA",2022,county_real_gdp,581234,Thousands of chained 2017 dollars
+19161,"Sac, IA",2023,county_real_gdp,554022,Thousands of chained 2017 dollars
+19161,"Sac, IA",2024,county_real_gdp,605476,Thousands of chained 2017 dollars
+19161,"Sac, IA",2020,county_current_gdp,486227,Thousands of dollars
+19161,"Sac, IA",2021,county_current_gdp,647129,Thousands of dollars
+19161,"Sac, IA",2022,county_current_gdp,783904,Thousands of dollars
+19161,"Sac, IA",2023,county_current_gdp,733096,Thousands of dollars
+19161,"Sac, IA",2024,county_current_gdp,793724,Thousands of dollars
+19163,"Scott, IA",2020,county_real_gdp,9434663,Thousands of chained 2017 dollars
+19163,"Scott, IA",2021,county_real_gdp,9813086,Thousands of chained 2017 dollars
+19163,"Scott, IA",2022,county_real_gdp,9974532,Thousands of chained 2017 dollars
+19163,"Scott, IA",2023,county_real_gdp,10270984,Thousands of chained 2017 dollars
+19163,"Scott, IA",2024,county_real_gdp,10565169,Thousands of chained 2017 dollars
+19163,"Scott, IA",2020,county_current_gdp,9895246,Thousands of dollars
+19163,"Scott, IA",2021,county_current_gdp,10857503,Thousands of dollars
+19163,"Scott, IA",2022,county_current_gdp,11838527,Thousands of dollars
+19163,"Scott, IA",2023,county_current_gdp,12675837,Thousands of dollars
+19163,"Scott, IA",2024,county_current_gdp,13290551,Thousands of dollars
+19165,"Shelby, IA",2020,county_real_gdp,664853,Thousands of chained 2017 dollars
+19165,"Shelby, IA",2021,county_real_gdp,794864,Thousands of chained 2017 dollars
+19165,"Shelby, IA",2022,county_real_gdp,791813,Thousands of chained 2017 dollars
+19165,"Shelby, IA",2023,county_real_gdp,816330,Thousands of chained 2017 dollars
+19165,"Shelby, IA",2024,county_real_gdp,810198,Thousands of chained 2017 dollars
+19165,"Shelby, IA",2020,county_current_gdp,700027,Thousands of dollars
+19165,"Shelby, IA",2021,county_current_gdp,893948,Thousands of dollars
+19165,"Shelby, IA",2022,county_current_gdp,989241,Thousands of dollars
+19165,"Shelby, IA",2023,county_current_gdp,1045892,Thousands of dollars
+19165,"Shelby, IA",2024,county_current_gdp,1051016,Thousands of dollars
+19167,"Sioux, IA",2020,county_real_gdp,2481100,Thousands of chained 2017 dollars
+19167,"Sioux, IA",2021,county_real_gdp,2435929,Thousands of chained 2017 dollars
+19167,"Sioux, IA",2022,county_real_gdp,2665245,Thousands of chained 2017 dollars
+19167,"Sioux, IA",2023,county_real_gdp,2546037,Thousands of chained 2017 dollars
+19167,"Sioux, IA",2024,county_real_gdp,3014989,Thousands of chained 2017 dollars
+19167,"Sioux, IA",2020,county_current_gdp,2566685,Thousands of dollars
+19167,"Sioux, IA",2021,county_current_gdp,2730580,Thousands of dollars
+19167,"Sioux, IA",2022,county_current_gdp,3360209,Thousands of dollars
+19167,"Sioux, IA",2023,county_current_gdp,3288165,Thousands of dollars
+19167,"Sioux, IA",2024,county_current_gdp,3920054,Thousands of dollars
+19169,"Story, IA",2020,county_real_gdp,5504536,Thousands of chained 2017 dollars
+19169,"Story, IA",2021,county_real_gdp,5889275,Thousands of chained 2017 dollars
+19169,"Story, IA",2022,county_real_gdp,5871713,Thousands of chained 2017 dollars
+19169,"Story, IA",2023,county_real_gdp,5908358,Thousands of chained 2017 dollars
+19169,"Story, IA",2024,county_real_gdp,6136665,Thousands of chained 2017 dollars
+19169,"Story, IA",2020,county_current_gdp,5895563,Thousands of dollars
+19169,"Story, IA",2021,county_current_gdp,6518428,Thousands of dollars
+19169,"Story, IA",2022,county_current_gdp,6917198,Thousands of dollars
+19169,"Story, IA",2023,county_current_gdp,7307368,Thousands of dollars
+19169,"Story, IA",2024,county_current_gdp,7790105,Thousands of dollars
+19171,"Tama, IA",2020,county_real_gdp,644672,Thousands of chained 2017 dollars
+19171,"Tama, IA",2021,county_real_gdp,705000,Thousands of chained 2017 dollars
+19171,"Tama, IA",2022,county_real_gdp,690818,Thousands of chained 2017 dollars
+19171,"Tama, IA",2023,county_real_gdp,668286,Thousands of chained 2017 dollars
+19171,"Tama, IA",2024,county_real_gdp,636320,Thousands of chained 2017 dollars
+19171,"Tama, IA",2020,county_current_gdp,686930,Thousands of dollars
+19171,"Tama, IA",2021,county_current_gdp,815670,Thousands of dollars
+19171,"Tama, IA",2022,county_current_gdp,880548,Thousands of dollars
+19171,"Tama, IA",2023,county_current_gdp,879395,Thousands of dollars
+19171,"Tama, IA",2024,county_current_gdp,847858,Thousands of dollars
+19173,"Taylor, IA",2020,county_real_gdp,243342,Thousands of chained 2017 dollars
+19173,"Taylor, IA",2021,county_real_gdp,299988,Thousands of chained 2017 dollars
+19173,"Taylor, IA",2022,county_real_gdp,283916,Thousands of chained 2017 dollars
+19173,"Taylor, IA",2023,county_real_gdp,273828,Thousands of chained 2017 dollars
+19173,"Taylor, IA",2024,county_real_gdp,279166,Thousands of chained 2017 dollars
+19173,"Taylor, IA",2020,county_current_gdp,258061,Thousands of dollars
+19173,"Taylor, IA",2021,county_current_gdp,344350,Thousands of dollars
+19173,"Taylor, IA",2022,county_current_gdp,372338,Thousands of dollars
+19173,"Taylor, IA",2023,county_current_gdp,367135,Thousands of dollars
+19173,"Taylor, IA",2024,county_current_gdp,375852,Thousands of dollars
+19175,"Union, IA",2020,county_real_gdp,693536,Thousands of chained 2017 dollars
+19175,"Union, IA",2021,county_real_gdp,785005,Thousands of chained 2017 dollars
+19175,"Union, IA",2022,county_real_gdp,793251,Thousands of chained 2017 dollars
+19175,"Union, IA",2023,county_real_gdp,769095,Thousands of chained 2017 dollars
+19175,"Union, IA",2024,county_real_gdp,805377,Thousands of chained 2017 dollars
+19175,"Union, IA",2020,county_current_gdp,714911,Thousands of dollars
+19175,"Union, IA",2021,county_current_gdp,882668,Thousands of dollars
+19175,"Union, IA",2022,county_current_gdp,967966,Thousands of dollars
+19175,"Union, IA",2023,county_current_gdp,930808,Thousands of dollars
+19175,"Union, IA",2024,county_current_gdp,964859,Thousands of dollars
+19177,"Van Buren, IA",2020,county_real_gdp,212321,Thousands of chained 2017 dollars
+19177,"Van Buren, IA",2021,county_real_gdp,245294,Thousands of chained 2017 dollars
+19177,"Van Buren, IA",2022,county_real_gdp,249611,Thousands of chained 2017 dollars
+19177,"Van Buren, IA",2023,county_real_gdp,218338,Thousands of chained 2017 dollars
+19177,"Van Buren, IA",2024,county_real_gdp,213355,Thousands of chained 2017 dollars
+19177,"Van Buren, IA",2020,county_current_gdp,229303,Thousands of dollars
+19177,"Van Buren, IA",2021,county_current_gdp,272912,Thousands of dollars
+19177,"Van Buren, IA",2022,county_current_gdp,316817,Thousands of dollars
+19177,"Van Buren, IA",2023,county_current_gdp,293057,Thousands of dollars
+19177,"Van Buren, IA",2024,county_current_gdp,294997,Thousands of dollars
+19179,"Wapello, IA",2020,county_real_gdp,1618427,Thousands of chained 2017 dollars
+19179,"Wapello, IA",2021,county_real_gdp,1758331,Thousands of chained 2017 dollars
+19179,"Wapello, IA",2022,county_real_gdp,1748943,Thousands of chained 2017 dollars
+19179,"Wapello, IA",2023,county_real_gdp,1691547,Thousands of chained 2017 dollars
+19179,"Wapello, IA",2024,county_real_gdp,1648497,Thousands of chained 2017 dollars
+19179,"Wapello, IA",2020,county_current_gdp,1750642,Thousands of dollars
+19179,"Wapello, IA",2021,county_current_gdp,1974610,Thousands of dollars
+19179,"Wapello, IA",2022,county_current_gdp,2086454,Thousands of dollars
+19179,"Wapello, IA",2023,county_current_gdp,2159211,Thousands of dollars
+19179,"Wapello, IA",2024,county_current_gdp,2159794,Thousands of dollars
+19181,"Warren, IA",2020,county_real_gdp,1269119,Thousands of chained 2017 dollars
+19181,"Warren, IA",2021,county_real_gdp,1395228,Thousands of chained 2017 dollars
+19181,"Warren, IA",2022,county_real_gdp,1414606,Thousands of chained 2017 dollars
+19181,"Warren, IA",2023,county_real_gdp,1397186,Thousands of chained 2017 dollars
+19181,"Warren, IA",2024,county_real_gdp,1429806,Thousands of chained 2017 dollars
+19181,"Warren, IA",2020,county_current_gdp,1378595,Thousands of dollars
+19181,"Warren, IA",2021,county_current_gdp,1568504,Thousands of dollars
+19181,"Warren, IA",2022,county_current_gdp,1711710,Thousands of dollars
+19181,"Warren, IA",2023,county_current_gdp,1790046,Thousands of dollars
+19181,"Warren, IA",2024,county_current_gdp,1885393,Thousands of dollars
+19183,"Washington, IA",2020,county_real_gdp,1028367,Thousands of chained 2017 dollars
+19183,"Washington, IA",2021,county_real_gdp,1259693,Thousands of chained 2017 dollars
+19183,"Washington, IA",2022,county_real_gdp,1356533,Thousands of chained 2017 dollars
+19183,"Washington, IA",2023,county_real_gdp,1257378,Thousands of chained 2017 dollars
+19183,"Washington, IA",2024,county_real_gdp,1412399,Thousands of chained 2017 dollars
+19183,"Washington, IA",2020,county_current_gdp,1055955,Thousands of dollars
+19183,"Washington, IA",2021,county_current_gdp,1412042,Thousands of dollars
+19183,"Washington, IA",2022,county_current_gdp,1734968,Thousands of dollars
+19183,"Washington, IA",2023,county_current_gdp,1637617,Thousands of dollars
+19183,"Washington, IA",2024,county_current_gdp,1863408,Thousands of dollars
+19185,"Wayne, IA",2020,county_real_gdp,216532,Thousands of chained 2017 dollars
+19185,"Wayne, IA",2021,county_real_gdp,271814,Thousands of chained 2017 dollars
+19185,"Wayne, IA",2022,county_real_gdp,249040,Thousands of chained 2017 dollars
+19185,"Wayne, IA",2023,county_real_gdp,235276,Thousands of chained 2017 dollars
+19185,"Wayne, IA",2024,county_real_gdp,230960,Thousands of chained 2017 dollars
+19185,"Wayne, IA",2020,county_current_gdp,234882,Thousands of dollars
+19185,"Wayne, IA",2021,county_current_gdp,306477,Thousands of dollars
+19185,"Wayne, IA",2022,county_current_gdp,313468,Thousands of dollars
+19185,"Wayne, IA",2023,county_current_gdp,314190,Thousands of dollars
+19185,"Wayne, IA",2024,county_current_gdp,316484,Thousands of dollars
+19187,"Webster, IA",2020,county_real_gdp,1953915,Thousands of chained 2017 dollars
+19187,"Webster, IA",2021,county_real_gdp,2165409,Thousands of chained 2017 dollars
+19187,"Webster, IA",2022,county_real_gdp,2121297,Thousands of chained 2017 dollars
+19187,"Webster, IA",2023,county_real_gdp,2093993,Thousands of chained 2017 dollars
+19187,"Webster, IA",2024,county_real_gdp,2119925,Thousands of chained 2017 dollars
+19187,"Webster, IA",2020,county_current_gdp,2074170,Thousands of dollars
+19187,"Webster, IA",2021,county_current_gdp,2461150,Thousands of dollars
+19187,"Webster, IA",2022,county_current_gdp,2655365,Thousands of dollars
+19187,"Webster, IA",2023,county_current_gdp,2698857,Thousands of dollars
+19187,"Webster, IA",2024,county_current_gdp,2759070,Thousands of dollars
+19189,"Winnebago, IA",2020,county_real_gdp,433465,Thousands of chained 2017 dollars
+19189,"Winnebago, IA",2021,county_real_gdp,493793,Thousands of chained 2017 dollars
+19189,"Winnebago, IA",2022,county_real_gdp,530668,Thousands of chained 2017 dollars
+19189,"Winnebago, IA",2023,county_real_gdp,492037,Thousands of chained 2017 dollars
+19189,"Winnebago, IA",2024,county_real_gdp,532596,Thousands of chained 2017 dollars
+19189,"Winnebago, IA",2020,county_current_gdp,463406,Thousands of dollars
+19189,"Winnebago, IA",2021,county_current_gdp,557599,Thousands of dollars
+19189,"Winnebago, IA",2022,county_current_gdp,671546,Thousands of dollars
+19189,"Winnebago, IA",2023,county_current_gdp,633880,Thousands of dollars
+19189,"Winnebago, IA",2024,county_current_gdp,690062,Thousands of dollars
+19191,"Winneshiek, IA",2020,county_real_gdp,1001137,Thousands of chained 2017 dollars
+19191,"Winneshiek, IA",2021,county_real_gdp,1029774,Thousands of chained 2017 dollars
+19191,"Winneshiek, IA",2022,county_real_gdp,1011967,Thousands of chained 2017 dollars
+19191,"Winneshiek, IA",2023,county_real_gdp,1010914,Thousands of chained 2017 dollars
+19191,"Winneshiek, IA",2024,county_real_gdp,1026441,Thousands of chained 2017 dollars
+19191,"Winneshiek, IA",2020,county_current_gdp,1061342,Thousands of dollars
+19191,"Winneshiek, IA",2021,county_current_gdp,1177225,Thousands of dollars
+19191,"Winneshiek, IA",2022,county_current_gdp,1283382,Thousands of dollars
+19191,"Winneshiek, IA",2023,county_current_gdp,1313895,Thousands of dollars
+19191,"Winneshiek, IA",2024,county_current_gdp,1353749,Thousands of dollars
+19193,"Woodbury, IA",2020,county_real_gdp,5111726,Thousands of chained 2017 dollars
+19193,"Woodbury, IA",2021,county_real_gdp,5341503,Thousands of chained 2017 dollars
+19193,"Woodbury, IA",2022,county_real_gdp,5349084,Thousands of chained 2017 dollars
+19193,"Woodbury, IA",2023,county_real_gdp,5424174,Thousands of chained 2017 dollars
+19193,"Woodbury, IA",2024,county_real_gdp,5432371,Thousands of chained 2017 dollars
+19193,"Woodbury, IA",2020,county_current_gdp,5476616,Thousands of dollars
+19193,"Woodbury, IA",2021,county_current_gdp,6002260,Thousands of dollars
+19193,"Woodbury, IA",2022,county_current_gdp,6457284,Thousands of dollars
+19193,"Woodbury, IA",2023,county_current_gdp,6871689,Thousands of dollars
+19193,"Woodbury, IA",2024,county_current_gdp,7027889,Thousands of dollars
+19195,"Worth, IA",2020,county_real_gdp,290057,Thousands of chained 2017 dollars
+19195,"Worth, IA",2021,county_real_gdp,364916,Thousands of chained 2017 dollars
+19195,"Worth, IA",2022,county_real_gdp,358636,Thousands of chained 2017 dollars
+19195,"Worth, IA",2023,county_real_gdp,367368,Thousands of chained 2017 dollars
+19195,"Worth, IA",2024,county_real_gdp,357509,Thousands of chained 2017 dollars
+19195,"Worth, IA",2020,county_current_gdp,312369,Thousands of dollars
+19195,"Worth, IA",2021,county_current_gdp,424475,Thousands of dollars
+19195,"Worth, IA",2022,county_current_gdp,471122,Thousands of dollars
+19195,"Worth, IA",2023,county_current_gdp,493679,Thousands of dollars
+19195,"Worth, IA",2024,county_current_gdp,484997,Thousands of dollars
+19197,"Wright, IA",2020,county_real_gdp,623632,Thousands of chained 2017 dollars
+19197,"Wright, IA",2021,county_real_gdp,746362,Thousands of chained 2017 dollars
+19197,"Wright, IA",2022,county_real_gdp,873877,Thousands of chained 2017 dollars
+19197,"Wright, IA",2023,county_real_gdp,832242,Thousands of chained 2017 dollars
+19197,"Wright, IA",2024,county_real_gdp,989859,Thousands of chained 2017 dollars
+19197,"Wright, IA",2020,county_current_gdp,661355,Thousands of dollars
+19197,"Wright, IA",2021,county_current_gdp,823420,Thousands of dollars
+19197,"Wright, IA",2022,county_current_gdp,1079354,Thousands of dollars
+19197,"Wright, IA",2023,county_current_gdp,1043027,Thousands of dollars
+19197,"Wright, IA",2024,county_current_gdp,1246622,Thousands of dollars

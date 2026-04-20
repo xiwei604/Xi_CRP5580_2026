@@ -1,0 +1,261 @@
+GEOID,NAME,population,year,level
+01,Alabama,4893186,2020,state
+02,Alaska,736990,2020,state
+04,Arizona,7174064,2020,state
+05,Arkansas,3011873,2020,state
+06,California,39346023,2020,state
+08,Colorado,5684926,2020,state
+09,Connecticut,3570549,2020,state
+10,Delaware,967679,2020,state
+11,District of Columbia,701974,2020,state
+12,Florida,21216924,2020,state
+13,Georgia,10516579,2020,state
+15,Hawaii,1420074,2020,state
+16,Idaho,1754367,2020,state
+17,Illinois,12716164,2020,state
+18,Indiana,6696893,2020,state
+19,Iowa,3150011,2020,state
+20,Kansas,2912619,2020,state
+21,Kentucky,4461952,2020,state
+22,Louisiana,4664616,2020,state
+23,Maine,1340825,2020,state
+24,Maryland,6037624,2020,state
+25,Massachusetts,6873003,2020,state
+26,Michigan,9973907,2020,state
+27,Minnesota,5600166,2020,state
+28,Mississippi,2981835,2020,state
+29,Missouri,6124160,2020,state
+30,Montana,1061705,2020,state
+31,Nebraska,1923826,2020,state
+32,Nevada,3030281,2020,state
+33,New Hampshire,1355244,2020,state
+34,New Jersey,8885418,2020,state
+35,New Mexico,2097021,2020,state
+36,New York,19514849,2020,state
+37,North Carolina,10386227,2020,state
+38,North Dakota,760394,2020,state
+39,Ohio,11675275,2020,state
+40,Oklahoma,3949342,2020,state
+41,Oregon,4176346,2020,state
+42,Pennsylvania,12794885,2020,state
+44,Rhode Island,1057798,2020,state
+45,South Carolina,5091517,2020,state
+46,South Dakota,879336,2020,state
+47,Tennessee,6772268,2020,state
+48,Texas,28635442,2020,state
+49,Utah,3151239,2020,state
+50,Vermont,624340,2020,state
+51,Virginia,8509358,2020,state
+53,Washington,7512465,2020,state
+54,West Virginia,1807426,2020,state
+55,Wisconsin,5806975,2020,state
+56,Wyoming,581348,2020,state
+72,Puerto Rico,3255642,2020,state
+01,Alabama,4997675,2021,state
+02,Alaska,735951,2021,state
+04,Arizona,7079203,2021,state
+05,Arkansas,3006309,2021,state
+06,California,39455353,2021,state
+08,Colorado,5723176,2021,state
+09,Connecticut,3605330,2021,state
+10,Delaware,981892,2021,state
+11,District of Columbia,683154,2021,state
+12,Florida,21339762,2021,state
+13,Georgia,10625615,2021,state
+15,Hawaii,1453498,2021,state
+16,Idaho,1811617,2021,state
+17,Illinois,12821813,2021,state
+18,Indiana,6751340,2021,state
+19,Iowa,3179090,2021,state
+20,Kansas,2932099,2021,state
+21,Kentucky,4494141,2021,state
+22,Louisiana,4657305,2021,state
+23,Maine,1357046,2021,state
+24,Maryland,6148545,2021,state
+25,Massachusetts,6991852,2021,state
+26,Michigan,10062512,2021,state
+27,Minnesota,5670472,2021,state
+28,Mississippi,2967023,2021,state
+29,Missouri,6141534,2021,state
+30,Montana,1077978,2021,state
+31,Nebraska,1951480,2021,state
+32,Nevada,3059238,2021,state
+33,New Hampshire,1372175,2021,state
+34,New Jersey,9234024,2021,state
+35,New Mexico,2109366,2021,state
+36,New York,20114745,2021,state
+37,North Carolina,10367022,2021,state
+38,North Dakota,773344,2021,state
+39,Ohio,11769923,2021,state
+40,Oklahoma,3948136,2021,state
+41,Oregon,4207177,2021,state
+42,Pennsylvania,12970650,2021,state
+44,Rhode Island,1091949,2021,state
+45,South Carolina,5078903,2021,state
+46,South Dakota,881785,2021,state
+47,Tennessee,6859497,2021,state
+48,Texas,28862581,2021,state
+49,Utah,3231370,2021,state
+50,Vermont,641637,2021,state
+51,Virginia,8582479,2021,state
+53,Washington,7617364,2021,state
+54,West Virginia,1801049,2021,state
+55,Wisconsin,5871661,2021,state
+56,Wyoming,576641,2021,state
+72,Puerto Rico,3311274,2021,state
+01,Alabama,5028092,2022,state
+02,Alaska,734821,2022,state
+04,Arizona,7172282,2022,state
+05,Arkansas,3018669,2022,state
+06,California,39356104,2022,state
+08,Colorado,5770790,2022,state
+09,Connecticut,3611317,2022,state
+10,Delaware,993635,2022,state
+11,District of Columbia,670587,2022,state
+12,Florida,21634529,2022,state
+13,Georgia,10722325,2022,state
+15,Hawaii,1450589,2022,state
+16,Idaho,1854109,2022,state
+17,Illinois,12757634,2022,state
+18,Indiana,6784403,2022,state
+19,Iowa,3188836,2022,state
+20,Kansas,2935922,2022,state
+21,Kentucky,4502935,2022,state
+22,Louisiana,4640546,2022,state
+23,Maine,1366949,2022,state
+24,Maryland,6161707,2022,state
+25,Massachusetts,6984205,2022,state
+26,Michigan,10057921,2022,state
+27,Minnesota,5695292,2022,state
+28,Mississippi,2958846,2022,state
+29,Missouri,6154422,2022,state
+30,Montana,1091840,2022,state
+31,Nebraska,1958939,2022,state
+32,Nevada,3104817,2022,state
+33,New Hampshire,1379610,2022,state
+34,New Jersey,9249063,2022,state
+35,New Mexico,2112463,2022,state
+36,New York,19994379,2022,state
+37,North Carolina,10470214,2022,state
+38,North Dakota,776874,2022,state
+39,Ohio,11774683,2022,state
+40,Oklahoma,3970497,2022,state
+41,Oregon,4229374,2022,state
+42,Pennsylvania,12989208,2022,state
+44,Rhode Island,1094250,2022,state
+45,South Carolina,5142750,2022,state
+46,South Dakota,890342,2022,state
+47,Tennessee,6923772,2022,state
+48,Texas,29243342,2022,state
+49,Utah,3283809,2022,state
+50,Vermont,643816,2022,state
+51,Virginia,8624511,2022,state
+53,Washington,7688549,2022,state
+54,West Virginia,1792967,2022,state
+55,Wisconsin,5882128,2022,state
+56,Wyoming,577929,2022,state
+72,Puerto Rico,3272382,2022,state
+01,Alabama,5054253,2023,state
+02,Alaska,733971,2023,state
+04,Arizona,7268175,2023,state
+05,Arkansas,3032651,2023,state
+06,California,39242785,2023,state
+08,Colorado,5810774,2023,state
+09,Connecticut,3598348,2023,state
+10,Delaware,1005872,2023,state
+11,District of Columbia,672079,2023,state
+12,Florida,21928881,2023,state
+13,Georgia,10822590,2023,state
+15,Hawaii,1445635,2023,state
+16,Idaho,1893296,2023,state
+17,Illinois,12692653,2023,state
+18,Indiana,6811752,2023,state
+19,Iowa,3195937,2023,state
+20,Kansas,2937569,2023,state
+21,Kentucky,4510725,2023,state
+22,Louisiana,4621025,2023,state
+23,Maine,1377400,2023,state
+24,Maryland,6170738,2023,state
+25,Massachusetts,6992395,2023,state
+26,Michigan,10051595,2023,state
+27,Minnesota,5713716,2023,state
+28,Mississippi,2951438,2023,state
+29,Missouri,6168181,2023,state
+30,Montana,1105072,2023,state
+31,Nebraska,1965926,2023,state
+32,Nevada,3141000,2023,state
+33,New Hampshire,1387834,2023,state
+34,New Jersey,9267014,2023,state
+35,New Mexico,2114768,2023,state
+36,New York,19872319,2023,state
+37,North Carolina,10584340,2023,state
+38,North Dakota,779361,2023,state
+39,Ohio,11780046,2023,state
+40,Oklahoma,3995260,2023,state
+41,Oregon,4238714,2023,state
+42,Pennsylvania,12986518,2023,state
+44,Rhode Island,1095371,2023,state
+45,South Carolina,5212774,2023,state
+46,South Dakota,899194,2023,state
+47,Tennessee,6986082,2023,state
+48,Texas,29640343,2023,state
+49,Utah,3331187,2023,state
+50,Vermont,645254,2023,state
+51,Virginia,8657499,2023,state
+53,Washington,7740984,2023,state
+54,West Virginia,1784462,2023,state
+55,Wisconsin,5892023,2023,state
+56,Wyoming,579761,2023,state
+72,Puerto Rico,3254885,2023,state
+01,Alabama,5086768,2024,state
+02,Alaska,735706,2024,state
+04,Arizona,7378838,2024,state
+05,Arkansas,3049391,2024,state
+06,California,39287377,2024,state
+08,Colorado,5862189,2024,state
+09,Connecticut,3624508,2024,state
+10,Delaware,1021191,2024,state
+11,District of Columbia,681294,2024,state
+12,Florida,22416077,2024,state
+13,Georgia,10940407,2024,state
+15,Hawaii,1445235,2024,state
+16,Idaho,1934262,2024,state
+17,Illinois,12694798,2024,state
+18,Indiana,6851073,2024,state
+19,Iowa,3210507,2024,state
+20,Kansas,2947197,2024,state
+21,Kentucky,4534824,2024,state
+22,Louisiana,4611961,2024,state
+23,Maine,1387817,2024,state
+24,Maryland,6206011,2024,state
+25,Massachusetts,7044056,2024,state
+26,Michigan,10077761,2024,state
+27,Minnesota,5739445,2024,state
+28,Mississippi,2946779,2024,state
+29,Missouri,6191814,2024,state
+30,Montana,1116875,2024,state
+31,Nebraska,1978707,2024,state
+32,Nevada,3184612,2024,state
+33,New Hampshire,1394868,2024,state
+34,New Jersey,9343809,2024,state
+35,New Mexico,2120246,2024,state
+36,New York,19852366,2024,state
+37,North Carolina,10730404,2024,state
+38,North Dakota,784841,2024,state
+39,Ohio,11810293,2024,state
+40,Oklahoma,4028634,2024,state
+41,Oregon,4254293,2024,state
+42,Pennsylvania,13018639,2024,state
+44,Rhode Island,1101801,2024,state
+45,South Carolina,5296225,2024,state
+46,South Dakota,907428,2024,state
+47,Tennessee,7066383,2024,state
+48,Texas,30188424,2024,state
+49,Utah,3392331,2024,state
+50,Vermont,647106,2024,state
+51,Virginia,8705170,2024,state
+53,Washington,7816116,2024,state
+54,West Virginia,1778373,2024,state
+55,Wisconsin,5914872,2024,state
+56,Wyoming,582397,2024,state
+72,Puerto Rico,3234309,2024,state

@@ -1,0 +1,1501 @@
+GeoFIPS,GeoName,year,metric,value,Unit
+19000,Iowa,2020,county_personal_income,168097773,Thousands of dollars
+19000,Iowa,2021,county_personal_income,186318884,Thousands of dollars
+19000,Iowa,2022,county_personal_income,196040112,Thousands of dollars
+19000,Iowa,2023,county_personal_income,201755854,Thousands of dollars
+19000,Iowa,2024,county_personal_income,211425368,Thousands of dollars
+19000,Iowa,2020,county_population,3191141,Number of persons
+19000,Iowa,2021,county_population,3198613,Number of persons
+19000,Iowa,2022,county_population,3202820,Number of persons
+19000,Iowa,2023,county_population,3218414,Number of persons
+19000,Iowa,2024,county_population,3241488,Number of persons
+19000,Iowa,2020,county_per_capita_income,52676,Dollars
+19000,Iowa,2021,county_per_capita_income,58250,Dollars
+19000,Iowa,2022,county_per_capita_income,61209,Dollars
+19000,Iowa,2023,county_per_capita_income,62688,Dollars
+19000,Iowa,2024,county_per_capita_income,65225,Dollars
+19001,"Adair, IA",2020,county_personal_income,403853,Thousands of dollars
+19001,"Adair, IA",2021,county_personal_income,491147,Thousands of dollars
+19001,"Adair, IA",2022,county_personal_income,507908,Thousands of dollars
+19001,"Adair, IA",2023,county_personal_income,517616,Thousands of dollars
+19001,"Adair, IA",2024,county_personal_income,572064,Thousands of dollars
+19001,"Adair, IA",2020,county_population,7489,Number of persons
+19001,"Adair, IA",2021,county_population,7522,Number of persons
+19001,"Adair, IA",2022,county_population,7457,Number of persons
+19001,"Adair, IA",2023,county_population,7399,Number of persons
+19001,"Adair, IA",2024,county_population,7431,Number of persons
+19001,"Adair, IA",2020,county_per_capita_income,53926,Dollars
+19001,"Adair, IA",2021,county_per_capita_income,65295,Dollars
+19001,"Adair, IA",2022,county_per_capita_income,68112,Dollars
+19001,"Adair, IA",2023,county_per_capita_income,69958,Dollars
+19001,"Adair, IA",2024,county_per_capita_income,76983,Dollars
+19003,"Adams, IA",2020,county_personal_income,196824,Thousands of dollars
+19003,"Adams, IA",2021,county_personal_income,236856,Thousands of dollars
+19003,"Adams, IA",2022,county_personal_income,240107,Thousands of dollars
+19003,"Adams, IA",2023,county_personal_income,229983,Thousands of dollars
+19003,"Adams, IA",2024,county_personal_income,230031,Thousands of dollars
+19003,"Adams, IA",2020,county_population,3710,Number of persons
+19003,"Adams, IA",2021,county_population,3641,Number of persons
+19003,"Adams, IA",2022,county_population,3602,Number of persons
+19003,"Adams, IA",2023,county_population,3553,Number of persons
+19003,"Adams, IA",2024,county_population,3606,Number of persons
+19003,"Adams, IA",2020,county_per_capita_income,53052,Dollars
+19003,"Adams, IA",2021,county_per_capita_income,65052,Dollars
+19003,"Adams, IA",2022,county_per_capita_income,66659,Dollars
+19003,"Adams, IA",2023,county_per_capita_income,64729,Dollars
+19003,"Adams, IA",2024,county_per_capita_income,63791,Dollars
+19005,"Allamakee, IA",2020,county_personal_income,687079,Thousands of dollars
+19005,"Allamakee, IA",2021,county_personal_income,748370,Thousands of dollars
+19005,"Allamakee, IA",2022,county_personal_income,787327,Thousands of dollars
+19005,"Allamakee, IA",2023,county_personal_income,787185,Thousands of dollars
+19005,"Allamakee, IA",2024,county_personal_income,832677,Thousands of dollars
+19005,"Allamakee, IA",2020,county_population,14069,Number of persons
+19005,"Allamakee, IA",2021,county_population,13965,Number of persons
+19005,"Allamakee, IA",2022,county_population,14072,Number of persons
+19005,"Allamakee, IA",2023,county_population,14168,Number of persons
+19005,"Allamakee, IA",2024,county_population,14184,Number of persons
+19005,"Allamakee, IA",2020,county_per_capita_income,48836,Dollars
+19005,"Allamakee, IA",2021,county_per_capita_income,53589,Dollars
+19005,"Allamakee, IA",2022,county_per_capita_income,55950,Dollars
+19005,"Allamakee, IA",2023,county_per_capita_income,55561,Dollars
+19005,"Allamakee, IA",2024,county_per_capita_income,58705,Dollars
+19007,"Appanoose, IA",2020,county_personal_income,528300,Thousands of dollars
+19007,"Appanoose, IA",2021,county_personal_income,583571,Thousands of dollars
+19007,"Appanoose, IA",2022,county_personal_income,573035,Thousands of dollars
+19007,"Appanoose, IA",2023,county_personal_income,581725,Thousands of dollars
+19007,"Appanoose, IA",2024,county_personal_income,613131,Thousands of dollars
+19007,"Appanoose, IA",2020,county_population,12283,Number of persons
+19007,"Appanoose, IA",2021,county_population,12269,Number of persons
+19007,"Appanoose, IA",2022,county_population,12135,Number of persons
+19007,"Appanoose, IA",2023,county_population,12129,Number of persons
+19007,"Appanoose, IA",2024,county_population,12106,Number of persons
+19007,"Appanoose, IA",2020,county_per_capita_income,43011,Dollars
+19007,"Appanoose, IA",2021,county_per_capita_income,47565,Dollars
+19007,"Appanoose, IA",2022,county_per_capita_income,47222,Dollars
+19007,"Appanoose, IA",2023,county_per_capita_income,47961,Dollars
+19007,"Appanoose, IA",2024,county_per_capita_income,50647,Dollars
+19009,"Audubon, IA",2020,county_personal_income,294587,Thousands of dollars
+19009,"Audubon, IA",2021,county_personal_income,366774,Thousands of dollars
+19009,"Audubon, IA",2022,county_personal_income,400014,Thousands of dollars
+19009,"Audubon, IA",2023,county_personal_income,369961,Thousands of dollars
+19009,"Audubon, IA",2024,county_personal_income,377835,Thousands of dollars
+19009,"Audubon, IA",2020,county_population,5680,Number of persons
+19009,"Audubon, IA",2021,county_population,5645,Number of persons
+19009,"Audubon, IA",2022,county_population,5573,Number of persons
+19009,"Audubon, IA",2023,county_population,5533,Number of persons
+19009,"Audubon, IA",2024,county_population,5562,Number of persons
+19009,"Audubon, IA",2020,county_per_capita_income,51864,Dollars
+19009,"Audubon, IA",2021,county_per_capita_income,64973,Dollars
+19009,"Audubon, IA",2022,county_per_capita_income,71777,Dollars
+19009,"Audubon, IA",2023,county_per_capita_income,66864,Dollars
+19009,"Audubon, IA",2024,county_per_capita_income,67931,Dollars
+19011,"Benton, IA",2020,county_personal_income,1421277,Thousands of dollars
+19011,"Benton, IA",2021,county_personal_income,1634548,Thousands of dollars
+19011,"Benton, IA",2022,county_personal_income,1789248,Thousands of dollars
+19011,"Benton, IA",2023,county_personal_income,1682186,Thousands of dollars
+19011,"Benton, IA",2024,county_personal_income,1705660,Thousands of dollars
+19011,"Benton, IA",2020,county_population,25550,Number of persons
+19011,"Benton, IA",2021,county_population,25745,Number of persons
+19011,"Benton, IA",2022,county_population,25756,Number of persons
+19011,"Benton, IA",2023,county_population,25769,Number of persons
+19011,"Benton, IA",2024,county_population,25799,Number of persons
+19011,"Benton, IA",2020,county_per_capita_income,55627,Dollars
+19011,"Benton, IA",2021,county_per_capita_income,63490,Dollars
+19011,"Benton, IA",2022,county_per_capita_income,69469,Dollars
+19011,"Benton, IA",2023,county_per_capita_income,65279,Dollars
+19011,"Benton, IA",2024,county_per_capita_income,66113,Dollars
+19013,"Black Hawk, IA",2020,county_personal_income,6453128,Thousands of dollars
+19013,"Black Hawk, IA",2021,county_personal_income,6863122,Thousands of dollars
+19013,"Black Hawk, IA",2022,county_personal_income,6919379,Thousands of dollars
+19013,"Black Hawk, IA",2023,county_personal_income,7281517,Thousands of dollars
+19013,"Black Hawk, IA",2024,county_personal_income,7542170,Thousands of dollars
+19013,"Black Hawk, IA",2020,county_population,131049,Number of persons
+19013,"Black Hawk, IA",2021,county_population,130587,Number of persons
+19013,"Black Hawk, IA",2022,county_population,130081,Number of persons
+19013,"Black Hawk, IA",2023,county_population,131179,Number of persons
+19013,"Black Hawk, IA",2024,county_population,132348,Number of persons
+19013,"Black Hawk, IA",2020,county_per_capita_income,49242,Dollars
+19013,"Black Hawk, IA",2021,county_per_capita_income,52556,Dollars
+19013,"Black Hawk, IA",2022,county_per_capita_income,53193,Dollars
+19013,"Black Hawk, IA",2023,county_per_capita_income,55508,Dollars
+19013,"Black Hawk, IA",2024,county_per_capita_income,56987,Dollars
+19015,"Boone, IA",2020,county_personal_income,1327941,Thousands of dollars
+19015,"Boone, IA",2021,county_personal_income,1431938,Thousands of dollars
+19015,"Boone, IA",2022,county_personal_income,1459675,Thousands of dollars
+19015,"Boone, IA",2023,county_personal_income,1519087,Thousands of dollars
+19015,"Boone, IA",2024,county_personal_income,1565363,Thousands of dollars
+19015,"Boone, IA",2020,county_population,26702,Number of persons
+19015,"Boone, IA",2021,county_population,26770,Number of persons
+19015,"Boone, IA",2022,county_population,26570,Number of persons
+19015,"Boone, IA",2023,county_population,26567,Number of persons
+19015,"Boone, IA",2024,county_population,26729,Number of persons
+19015,"Boone, IA",2020,county_per_capita_income,49732,Dollars
+19015,"Boone, IA",2021,county_per_capita_income,53490,Dollars
+19015,"Boone, IA",2022,county_per_capita_income,54937,Dollars
+19015,"Boone, IA",2023,county_per_capita_income,57179,Dollars
+19015,"Boone, IA",2024,county_per_capita_income,58564,Dollars
+19017,"Bremer, IA",2020,county_personal_income,1324297,Thousands of dollars
+19017,"Bremer, IA",2021,county_personal_income,1449941,Thousands of dollars
+19017,"Bremer, IA",2022,county_personal_income,1511249,Thousands of dollars
+19017,"Bremer, IA",2023,county_personal_income,1558849,Thousands of dollars
+19017,"Bremer, IA",2024,county_personal_income,1588725,Thousands of dollars
+19017,"Bremer, IA",2020,county_population,25007,Number of persons
+19017,"Bremer, IA",2021,county_population,25119,Number of persons
+19017,"Bremer, IA",2022,county_population,25260,Number of persons
+19017,"Bremer, IA",2023,county_population,25304,Number of persons
+19017,"Bremer, IA",2024,county_population,25328,Number of persons
+19017,"Bremer, IA",2020,county_per_capita_income,52957,Dollars
+19017,"Bremer, IA",2021,county_per_capita_income,57723,Dollars
+19017,"Bremer, IA",2022,county_per_capita_income,59828,Dollars
+19017,"Bremer, IA",2023,county_per_capita_income,61605,Dollars
+19017,"Bremer, IA",2024,county_per_capita_income,62726,Dollars
+19019,"Buchanan, IA",2020,county_personal_income,1060236,Thousands of dollars
+19019,"Buchanan, IA",2021,county_personal_income,1193630,Thousands of dollars
+19019,"Buchanan, IA",2022,county_personal_income,1280035,Thousands of dollars
+19019,"Buchanan, IA",2023,county_personal_income,1282403,Thousands of dollars
+19019,"Buchanan, IA",2024,county_personal_income,1304704,Thousands of dollars
+19019,"Buchanan, IA",2020,county_population,20606,Number of persons
+19019,"Buchanan, IA",2021,county_population,20707,Number of persons
+19019,"Buchanan, IA",2022,county_population,20700,Number of persons
+19019,"Buchanan, IA",2023,county_population,20725,Number of persons
+19019,"Buchanan, IA",2024,county_population,20733,Number of persons
+19019,"Buchanan, IA",2020,county_per_capita_income,51453,Dollars
+19019,"Buchanan, IA",2021,county_per_capita_income,57644,Dollars
+19019,"Buchanan, IA",2022,county_per_capita_income,61837,Dollars
+19019,"Buchanan, IA",2023,county_per_capita_income,61877,Dollars
+19019,"Buchanan, IA",2024,county_per_capita_income,62929,Dollars
+19021,"Buena Vista, IA",2020,county_personal_income,929495,Thousands of dollars
+19021,"Buena Vista, IA",2021,county_personal_income,1030627,Thousands of dollars
+19021,"Buena Vista, IA",2022,county_personal_income,1130485,Thousands of dollars
+19021,"Buena Vista, IA",2023,county_personal_income,1122691,Thousands of dollars
+19021,"Buena Vista, IA",2024,county_personal_income,1188328,Thousands of dollars
+19021,"Buena Vista, IA",2020,county_population,20808,Number of persons
+19021,"Buena Vista, IA",2021,county_population,20794,Number of persons
+19021,"Buena Vista, IA",2022,county_population,20651,Number of persons
+19021,"Buena Vista, IA",2023,county_population,20698,Number of persons
+19021,"Buena Vista, IA",2024,county_population,20816,Number of persons
+19021,"Buena Vista, IA",2020,county_per_capita_income,44670,Dollars
+19021,"Buena Vista, IA",2021,county_per_capita_income,49564,Dollars
+19021,"Buena Vista, IA",2022,county_per_capita_income,54742,Dollars
+19021,"Buena Vista, IA",2023,county_per_capita_income,54242,Dollars
+19021,"Buena Vista, IA",2024,county_per_capita_income,57087,Dollars
+19023,"Butler, IA",2020,county_personal_income,689618,Thousands of dollars
+19023,"Butler, IA",2021,county_personal_income,825047,Thousands of dollars
+19023,"Butler, IA",2022,county_personal_income,877617,Thousands of dollars
+19023,"Butler, IA",2023,county_personal_income,871336,Thousands of dollars
+19023,"Butler, IA",2024,county_personal_income,867926,Thousands of dollars
+19023,"Butler, IA",2020,county_population,14334,Number of persons
+19023,"Butler, IA",2021,county_population,14351,Number of persons
+19023,"Butler, IA",2022,county_population,14275,Number of persons
+19023,"Butler, IA",2023,county_population,14225,Number of persons
+19023,"Butler, IA",2024,county_population,14156,Number of persons
+19023,"Butler, IA",2020,county_per_capita_income,48111,Dollars
+19023,"Butler, IA",2021,county_per_capita_income,57491,Dollars
+19023,"Butler, IA",2022,county_per_capita_income,61479,Dollars
+19023,"Butler, IA",2023,county_per_capita_income,61254,Dollars
+19023,"Butler, IA",2024,county_per_capita_income,61312,Dollars
+19025,"Calhoun, IA",2020,county_personal_income,481631,Thousands of dollars
+19025,"Calhoun, IA",2021,county_personal_income,587568,Thousands of dollars
+19025,"Calhoun, IA",2022,county_personal_income,642145,Thousands of dollars
+19025,"Calhoun, IA",2023,county_personal_income,608917,Thousands of dollars
+19025,"Calhoun, IA",2024,county_personal_income,611976,Thousands of dollars
+19025,"Calhoun, IA",2020,county_population,9895,Number of persons
+19025,"Calhoun, IA",2021,county_population,9894,Number of persons
+19025,"Calhoun, IA",2022,county_population,9725,Number of persons
+19025,"Calhoun, IA",2023,county_population,9790,Number of persons
+19025,"Calhoun, IA",2024,county_population,9711,Number of persons
+19025,"Calhoun, IA",2020,county_per_capita_income,48674,Dollars
+19025,"Calhoun, IA",2021,county_per_capita_income,59386,Dollars
+19025,"Calhoun, IA",2022,county_per_capita_income,66030,Dollars
+19025,"Calhoun, IA",2023,county_per_capita_income,62198,Dollars
+19025,"Calhoun, IA",2024,county_per_capita_income,63019,Dollars
+19027,"Carroll, IA",2020,county_personal_income,1135722,Thousands of dollars
+19027,"Carroll, IA",2021,county_personal_income,1258561,Thousands of dollars
+19027,"Carroll, IA",2022,county_personal_income,1395310,Thousands of dollars
+19027,"Carroll, IA",2023,county_personal_income,1367890,Thousands of dollars
+19027,"Carroll, IA",2024,county_personal_income,1424207,Thousands of dollars
+19027,"Carroll, IA",2020,county_population,20734,Number of persons
+19027,"Carroll, IA",2021,county_population,20754,Number of persons
+19027,"Carroll, IA",2022,county_population,20565,Number of persons
+19027,"Carroll, IA",2023,county_population,20512,Number of persons
+19027,"Carroll, IA",2024,county_population,20407,Number of persons
+19027,"Carroll, IA",2020,county_per_capita_income,54776,Dollars
+19027,"Carroll, IA",2021,county_per_capita_income,60642,Dollars
+19027,"Carroll, IA",2022,county_per_capita_income,67849,Dollars
+19027,"Carroll, IA",2023,county_per_capita_income,66687,Dollars
+19027,"Carroll, IA",2024,county_per_capita_income,69790,Dollars
+19029,"Cass, IA",2020,county_personal_income,654227,Thousands of dollars
+19029,"Cass, IA",2021,county_personal_income,745543,Thousands of dollars
+19029,"Cass, IA",2022,county_personal_income,795868,Thousands of dollars
+19029,"Cass, IA",2023,county_personal_income,818350,Thousands of dollars
+19029,"Cass, IA",2024,county_personal_income,850078,Thousands of dollars
+19029,"Cass, IA",2020,county_population,13115,Number of persons
+19029,"Cass, IA",2021,county_population,13085,Number of persons
+19029,"Cass, IA",2022,county_population,13125,Number of persons
+19029,"Cass, IA",2023,county_population,13131,Number of persons
+19029,"Cass, IA",2024,county_population,13024,Number of persons
+19029,"Cass, IA",2020,county_per_capita_income,49884,Dollars
+19029,"Cass, IA",2021,county_per_capita_income,56977,Dollars
+19029,"Cass, IA",2022,county_per_capita_income,60638,Dollars
+19029,"Cass, IA",2023,county_per_capita_income,62322,Dollars
+19029,"Cass, IA",2024,county_per_capita_income,65270,Dollars
+19031,"Cedar, IA",2020,county_personal_income,1028409,Thousands of dollars
+19031,"Cedar, IA",2021,county_personal_income,1167012,Thousands of dollars
+19031,"Cedar, IA",2022,county_personal_income,1246936,Thousands of dollars
+19031,"Cedar, IA",2023,county_personal_income,1218225,Thousands of dollars
+19031,"Cedar, IA",2024,county_personal_income,1261806,Thousands of dollars
+19031,"Cedar, IA",2020,county_population,18483,Number of persons
+19031,"Cedar, IA",2021,county_population,18429,Number of persons
+19031,"Cedar, IA",2022,county_population,18331,Number of persons
+19031,"Cedar, IA",2023,county_population,18269,Number of persons
+19031,"Cedar, IA",2024,county_population,18231,Number of persons
+19031,"Cedar, IA",2020,county_per_capita_income,55641,Dollars
+19031,"Cedar, IA",2021,county_per_capita_income,63325,Dollars
+19031,"Cedar, IA",2022,county_per_capita_income,68023,Dollars
+19031,"Cedar, IA",2023,county_per_capita_income,66683,Dollars
+19031,"Cedar, IA",2024,county_per_capita_income,69212,Dollars
+19033,"Cerro Gordo, IA",2020,county_personal_income,2261821,Thousands of dollars
+19033,"Cerro Gordo, IA",2021,county_personal_income,2632043,Thousands of dollars
+19033,"Cerro Gordo, IA",2022,county_personal_income,3200291,Thousands of dollars
+19033,"Cerro Gordo, IA",2023,county_personal_income,3287851,Thousands of dollars
+19033,"Cerro Gordo, IA",2024,county_personal_income,3403373,Thousands of dollars
+19033,"Cerro Gordo, IA",2020,county_population,43021,Number of persons
+19033,"Cerro Gordo, IA",2021,county_population,42767,Number of persons
+19033,"Cerro Gordo, IA",2022,county_population,42408,Number of persons
+19033,"Cerro Gordo, IA",2023,county_population,42470,Number of persons
+19033,"Cerro Gordo, IA",2024,county_population,42493,Number of persons
+19033,"Cerro Gordo, IA",2020,county_per_capita_income,52575,Dollars
+19033,"Cerro Gordo, IA",2021,county_per_capita_income,61544,Dollars
+19033,"Cerro Gordo, IA",2022,county_per_capita_income,75464,Dollars
+19033,"Cerro Gordo, IA",2023,county_per_capita_income,77416,Dollars
+19033,"Cerro Gordo, IA",2024,county_per_capita_income,80093,Dollars
+19035,"Cherokee, IA",2020,county_personal_income,637091,Thousands of dollars
+19035,"Cherokee, IA",2021,county_personal_income,790405,Thousands of dollars
+19035,"Cherokee, IA",2022,county_personal_income,1084482,Thousands of dollars
+19035,"Cherokee, IA",2023,county_personal_income,987341,Thousands of dollars
+19035,"Cherokee, IA",2024,county_personal_income,1013132,Thousands of dollars
+19035,"Cherokee, IA",2020,county_population,11658,Number of persons
+19035,"Cherokee, IA",2021,county_population,11539,Number of persons
+19035,"Cherokee, IA",2022,county_population,11492,Number of persons
+19035,"Cherokee, IA",2023,county_population,11652,Number of persons
+19035,"Cherokee, IA",2024,county_population,11658,Number of persons
+19035,"Cherokee, IA",2020,county_per_capita_income,54648,Dollars
+19035,"Cherokee, IA",2021,county_per_capita_income,68499,Dollars
+19035,"Cherokee, IA",2022,county_per_capita_income,94368,Dollars
+19035,"Cherokee, IA",2023,county_per_capita_income,84736,Dollars
+19035,"Cherokee, IA",2024,county_per_capita_income,86904,Dollars
+19037,"Chickasaw, IA",2020,county_personal_income,680898,Thousands of dollars
+19037,"Chickasaw, IA",2021,county_personal_income,875358,Thousands of dollars
+19037,"Chickasaw, IA",2022,county_personal_income,1202728,Thousands of dollars
+19037,"Chickasaw, IA",2023,county_personal_income,1111947,Thousands of dollars
+19037,"Chickasaw, IA",2024,county_personal_income,1132558,Thousands of dollars
+19037,"Chickasaw, IA",2020,county_population,11985,Number of persons
+19037,"Chickasaw, IA",2021,county_population,11882,Number of persons
+19037,"Chickasaw, IA",2022,county_population,11755,Number of persons
+19037,"Chickasaw, IA",2023,county_population,11694,Number of persons
+19037,"Chickasaw, IA",2024,county_population,11719,Number of persons
+19037,"Chickasaw, IA",2020,county_per_capita_income,56813,Dollars
+19037,"Chickasaw, IA",2021,county_per_capita_income,73671,Dollars
+19037,"Chickasaw, IA",2022,county_per_capita_income,102316,Dollars
+19037,"Chickasaw, IA",2023,county_per_capita_income,95087,Dollars
+19037,"Chickasaw, IA",2024,county_per_capita_income,96643,Dollars
+19039,"Clarke, IA",2020,county_personal_income,419280,Thousands of dollars
+19039,"Clarke, IA",2021,county_personal_income,449209,Thousands of dollars
+19039,"Clarke, IA",2022,county_personal_income,475482,Thousands of dollars
+19039,"Clarke, IA",2023,county_personal_income,476117,Thousands of dollars
+19039,"Clarke, IA",2024,county_personal_income,506521,Thousands of dollars
+19039,"Clarke, IA",2020,county_population,9730,Number of persons
+19039,"Clarke, IA",2021,county_population,9751,Number of persons
+19039,"Clarke, IA",2022,county_population,9676,Number of persons
+19039,"Clarke, IA",2023,county_population,9631,Number of persons
+19039,"Clarke, IA",2024,county_population,9524,Number of persons
+19039,"Clarke, IA",2020,county_per_capita_income,43091,Dollars
+19039,"Clarke, IA",2021,county_per_capita_income,46068,Dollars
+19039,"Clarke, IA",2022,county_per_capita_income,49140,Dollars
+19039,"Clarke, IA",2023,county_per_capita_income,49436,Dollars
+19039,"Clarke, IA",2024,county_per_capita_income,53184,Dollars
+19041,"Clay, IA",2020,county_personal_income,880335,Thousands of dollars
+19041,"Clay, IA",2021,county_personal_income,995136,Thousands of dollars
+19041,"Clay, IA",2022,county_personal_income,1032646,Thousands of dollars
+19041,"Clay, IA",2023,county_personal_income,1076719,Thousands of dollars
+19041,"Clay, IA",2024,county_personal_income,1142022,Thousands of dollars
+19041,"Clay, IA",2020,county_population,16337,Number of persons
+19041,"Clay, IA",2021,county_population,16459,Number of persons
+19041,"Clay, IA",2022,county_population,16506,Number of persons
+19041,"Clay, IA",2023,county_population,16530,Number of persons
+19041,"Clay, IA",2024,county_population,16474,Number of persons
+19041,"Clay, IA",2020,county_per_capita_income,53886,Dollars
+19041,"Clay, IA",2021,county_per_capita_income,60462,Dollars
+19041,"Clay, IA",2022,county_per_capita_income,62562,Dollars
+19041,"Clay, IA",2023,county_per_capita_income,65137,Dollars
+19041,"Clay, IA",2024,county_per_capita_income,69323,Dollars
+19043,"Clayton, IA",2020,county_personal_income,927847,Thousands of dollars
+19043,"Clayton, IA",2021,county_personal_income,1041407,Thousands of dollars
+19043,"Clayton, IA",2022,county_personal_income,1125150,Thousands of dollars
+19043,"Clayton, IA",2023,county_personal_income,1099934,Thousands of dollars
+19043,"Clayton, IA",2024,county_personal_income,1153932,Thousands of dollars
+19043,"Clayton, IA",2020,county_population,17034,Number of persons
+19043,"Clayton, IA",2021,county_population,17058,Number of persons
+19043,"Clayton, IA",2022,county_population,17058,Number of persons
+19043,"Clayton, IA",2023,county_population,16985,Number of persons
+19043,"Clayton, IA",2024,county_population,16931,Number of persons
+19043,"Clayton, IA",2020,county_per_capita_income,54470,Dollars
+19043,"Clayton, IA",2021,county_per_capita_income,61051,Dollars
+19043,"Clayton, IA",2022,county_per_capita_income,65960,Dollars
+19043,"Clayton, IA",2023,county_per_capita_income,64759,Dollars
+19043,"Clayton, IA",2024,county_per_capita_income,68155,Dollars
+19045,"Clinton, IA",2020,county_personal_income,2209805,Thousands of dollars
+19045,"Clinton, IA",2021,county_personal_income,2404686,Thousands of dollars
+19045,"Clinton, IA",2022,county_personal_income,2424816,Thousands of dollars
+19045,"Clinton, IA",2023,county_personal_income,2470130,Thousands of dollars
+19045,"Clinton, IA",2024,county_personal_income,2557836,Thousands of dollars
+19045,"Clinton, IA",2020,county_population,46432,Number of persons
+19045,"Clinton, IA",2021,county_population,46491,Number of persons
+19045,"Clinton, IA",2022,county_population,46268,Number of persons
+19045,"Clinton, IA",2023,county_population,46134,Number of persons
+19045,"Clinton, IA",2024,county_population,46015,Number of persons
+19045,"Clinton, IA",2020,county_per_capita_income,47592,Dollars
+19045,"Clinton, IA",2021,county_per_capita_income,51724,Dollars
+19045,"Clinton, IA",2022,county_per_capita_income,52408,Dollars
+19045,"Clinton, IA",2023,county_per_capita_income,53543,Dollars
+19045,"Clinton, IA",2024,county_per_capita_income,55587,Dollars
+19047,"Crawford, IA",2020,county_personal_income,734406,Thousands of dollars
+19047,"Crawford, IA",2021,county_personal_income,872919,Thousands of dollars
+19047,"Crawford, IA",2022,county_personal_income,918268,Thousands of dollars
+19047,"Crawford, IA",2023,county_personal_income,905892,Thousands of dollars
+19047,"Crawford, IA",2024,county_personal_income,920666,Thousands of dollars
+19047,"Crawford, IA",2020,county_population,16492,Number of persons
+19047,"Crawford, IA",2021,county_population,16242,Number of persons
+19047,"Crawford, IA",2022,county_population,16135,Number of persons
+19047,"Crawford, IA",2023,county_population,16138,Number of persons
+19047,"Crawford, IA",2024,county_population,16378,Number of persons
+19047,"Crawford, IA",2020,county_per_capita_income,44531,Dollars
+19047,"Crawford, IA",2021,county_per_capita_income,53745,Dollars
+19047,"Crawford, IA",2022,county_per_capita_income,56912,Dollars
+19047,"Crawford, IA",2023,county_per_capita_income,56134,Dollars
+19047,"Crawford, IA",2024,county_per_capita_income,56214,Dollars
+19049,"Dallas, IA",2020,county_personal_income,7046057,Thousands of dollars
+19049,"Dallas, IA",2021,county_personal_income,8111592,Thousands of dollars
+19049,"Dallas, IA",2022,county_personal_income,8563282,Thousands of dollars
+19049,"Dallas, IA",2023,county_personal_income,9224383,Thousands of dollars
+19049,"Dallas, IA",2024,county_personal_income,9818467,Thousands of dollars
+19049,"Dallas, IA",2020,county_population,100544,Number of persons
+19049,"Dallas, IA",2021,county_population,104194,Number of persons
+19049,"Dallas, IA",2022,county_population,108164,Number of persons
+19049,"Dallas, IA",2023,county_population,111593,Number of persons
+19049,"Dallas, IA",2024,county_population,115343,Number of persons
+19049,"Dallas, IA",2020,county_per_capita_income,70079,Dollars
+19049,"Dallas, IA",2021,county_per_capita_income,77851,Dollars
+19049,"Dallas, IA",2022,county_per_capita_income,79169,Dollars
+19049,"Dallas, IA",2023,county_per_capita_income,82661,Dollars
+19049,"Dallas, IA",2024,county_per_capita_income,85124,Dollars
+19051,"Davis, IA",2020,county_personal_income,370827,Thousands of dollars
+19051,"Davis, IA",2021,county_personal_income,425070,Thousands of dollars
+19051,"Davis, IA",2022,county_personal_income,513177,Thousands of dollars
+19051,"Davis, IA",2023,county_personal_income,505208,Thousands of dollars
+19051,"Davis, IA",2024,county_personal_income,525860,Thousands of dollars
+19051,"Davis, IA",2020,county_population,9115,Number of persons
+19051,"Davis, IA",2021,county_population,9155,Number of persons
+19051,"Davis, IA",2022,county_population,9158,Number of persons
+19051,"Davis, IA",2023,county_population,9165,Number of persons
+19051,"Davis, IA",2024,county_population,9193,Number of persons
+19051,"Davis, IA",2020,county_per_capita_income,40683,Dollars
+19051,"Davis, IA",2021,county_per_capita_income,46430,Dollars
+19051,"Davis, IA",2022,county_per_capita_income,56036,Dollars
+19051,"Davis, IA",2023,county_per_capita_income,55124,Dollars
+19051,"Davis, IA",2024,county_per_capita_income,57202,Dollars
+19053,"Decatur, IA",2020,county_personal_income,298797,Thousands of dollars
+19053,"Decatur, IA",2021,county_personal_income,339334,Thousands of dollars
+19053,"Decatur, IA",2022,county_personal_income,349549,Thousands of dollars
+19053,"Decatur, IA",2023,county_personal_income,342691,Thousands of dollars
+19053,"Decatur, IA",2024,county_personal_income,353201,Thousands of dollars
+19053,"Decatur, IA",2020,county_population,7733,Number of persons
+19053,"Decatur, IA",2021,county_population,7797,Number of persons
+19053,"Decatur, IA",2022,county_population,7822,Number of persons
+19053,"Decatur, IA",2023,county_population,7781,Number of persons
+19053,"Decatur, IA",2024,county_population,7656,Number of persons
+19053,"Decatur, IA",2020,county_per_capita_income,38639,Dollars
+19053,"Decatur, IA",2021,county_per_capita_income,43521,Dollars
+19053,"Decatur, IA",2022,county_per_capita_income,44688,Dollars
+19053,"Decatur, IA",2023,county_per_capita_income,44042,Dollars
+19053,"Decatur, IA",2024,county_per_capita_income,46134,Dollars
+19055,"Delaware, IA",2020,county_personal_income,912621,Thousands of dollars
+19055,"Delaware, IA",2021,county_personal_income,1014623,Thousands of dollars
+19055,"Delaware, IA",2022,county_personal_income,1103570,Thousands of dollars
+19055,"Delaware, IA",2023,county_personal_income,1074252,Thousands of dollars
+19055,"Delaware, IA",2024,county_personal_income,1109073,Thousands of dollars
+19055,"Delaware, IA",2020,county_population,17454,Number of persons
+19055,"Delaware, IA",2021,county_population,17552,Number of persons
+19055,"Delaware, IA",2022,county_population,17590,Number of persons
+19055,"Delaware, IA",2023,county_population,17583,Number of persons
+19055,"Delaware, IA",2024,county_population,17609,Number of persons
+19055,"Delaware, IA",2020,county_per_capita_income,52287,Dollars
+19055,"Delaware, IA",2021,county_per_capita_income,57807,Dollars
+19055,"Delaware, IA",2022,county_per_capita_income,62738,Dollars
+19055,"Delaware, IA",2023,county_per_capita_income,61096,Dollars
+19055,"Delaware, IA",2024,county_per_capita_income,62983,Dollars
+19057,"Des Moines, IA",2020,county_personal_income,2090665,Thousands of dollars
+19057,"Des Moines, IA",2021,county_personal_income,2261197,Thousands of dollars
+19057,"Des Moines, IA",2022,county_personal_income,2194955,Thousands of dollars
+19057,"Des Moines, IA",2023,county_personal_income,2371726,Thousands of dollars
+19057,"Des Moines, IA",2024,county_personal_income,2470946,Thousands of dollars
+19057,"Des Moines, IA",2020,county_population,38856,Number of persons
+19057,"Des Moines, IA",2021,county_population,38545,Number of persons
+19057,"Des Moines, IA",2022,county_population,38258,Number of persons
+19057,"Des Moines, IA",2023,county_population,38360,Number of persons
+19057,"Des Moines, IA",2024,county_population,38411,Number of persons
+19057,"Des Moines, IA",2020,county_per_capita_income,53805,Dollars
+19057,"Des Moines, IA",2021,county_per_capita_income,58664,Dollars
+19057,"Des Moines, IA",2022,county_per_capita_income,57372,Dollars
+19057,"Des Moines, IA",2023,county_per_capita_income,61828,Dollars
+19057,"Des Moines, IA",2024,county_per_capita_income,64329,Dollars
+19059,"Dickinson, IA",2020,county_personal_income,1114018,Thousands of dollars
+19059,"Dickinson, IA",2021,county_personal_income,1285419,Thousands of dollars
+19059,"Dickinson, IA",2022,county_personal_income,1382246,Thousands of dollars
+19059,"Dickinson, IA",2023,county_personal_income,1444515,Thousands of dollars
+19059,"Dickinson, IA",2024,county_personal_income,1529793,Thousands of dollars
+19059,"Dickinson, IA",2020,county_population,17773,Number of persons
+19059,"Dickinson, IA",2021,county_population,17876,Number of persons
+19059,"Dickinson, IA",2022,county_population,18052,Number of persons
+19059,"Dickinson, IA",2023,county_population,18087,Number of persons
+19059,"Dickinson, IA",2024,county_population,18158,Number of persons
+19059,"Dickinson, IA",2020,county_per_capita_income,62680,Dollars
+19059,"Dickinson, IA",2021,county_per_capita_income,71908,Dollars
+19059,"Dickinson, IA",2022,county_per_capita_income,76570,Dollars
+19059,"Dickinson, IA",2023,county_per_capita_income,79865,Dollars
+19059,"Dickinson, IA",2024,county_per_capita_income,84249,Dollars
+19061,"Dubuque, IA",2020,county_personal_income,5261290,Thousands of dollars
+19061,"Dubuque, IA",2021,county_personal_income,5743688,Thousands of dollars
+19061,"Dubuque, IA",2022,county_personal_income,6009021,Thousands of dollars
+19061,"Dubuque, IA",2023,county_personal_income,6297617,Thousands of dollars
+19061,"Dubuque, IA",2024,county_personal_income,6588859,Thousands of dollars
+19061,"Dubuque, IA",2020,county_population,99310,Number of persons
+19061,"Dubuque, IA",2021,county_population,98863,Number of persons
+19061,"Dubuque, IA",2022,county_population,98748,Number of persons
+19061,"Dubuque, IA",2023,county_population,98988,Number of persons
+19061,"Dubuque, IA",2024,county_population,99242,Number of persons
+19061,"Dubuque, IA",2020,county_per_capita_income,52978,Dollars
+19061,"Dubuque, IA",2021,county_per_capita_income,58097,Dollars
+19061,"Dubuque, IA",2022,county_per_capita_income,60852,Dollars
+19061,"Dubuque, IA",2023,county_per_capita_income,63620,Dollars
+19061,"Dubuque, IA",2024,county_per_capita_income,66392,Dollars
+19063,"Emmet, IA",2020,county_personal_income,417973,Thousands of dollars
+19063,"Emmet, IA",2021,county_personal_income,480362,Thousands of dollars
+19063,"Emmet, IA",2022,county_personal_income,503591,Thousands of dollars
+19063,"Emmet, IA",2023,county_personal_income,485057,Thousands of dollars
+19063,"Emmet, IA",2024,county_personal_income,517576,Thousands of dollars
+19063,"Emmet, IA",2020,county_population,9342,Number of persons
+19063,"Emmet, IA",2021,county_population,9333,Number of persons
+19063,"Emmet, IA",2022,county_population,9197,Number of persons
+19063,"Emmet, IA",2023,county_population,9277,Number of persons
+19063,"Emmet, IA",2024,county_population,9162,Number of persons
+19063,"Emmet, IA",2020,county_per_capita_income,44741,Dollars
+19063,"Emmet, IA",2021,county_per_capita_income,51469,Dollars
+19063,"Emmet, IA",2022,county_per_capita_income,54756,Dollars
+19063,"Emmet, IA",2023,county_per_capita_income,52286,Dollars
+19063,"Emmet, IA",2024,county_per_capita_income,56492,Dollars
+19065,"Fayette, IA",2020,county_personal_income,897799,Thousands of dollars
+19065,"Fayette, IA",2021,county_personal_income,982003,Thousands of dollars
+19065,"Fayette, IA",2022,county_personal_income,1034879,Thousands of dollars
+19065,"Fayette, IA",2023,county_personal_income,1042438,Thousands of dollars
+19065,"Fayette, IA",2024,county_personal_income,1097284,Thousands of dollars
+19065,"Fayette, IA",2020,county_population,19448,Number of persons
+19065,"Fayette, IA",2021,county_population,19303,Number of persons
+19065,"Fayette, IA",2022,county_population,19292,Number of persons
+19065,"Fayette, IA",2023,county_population,19239,Number of persons
+19065,"Fayette, IA",2024,county_population,19152,Number of persons
+19065,"Fayette, IA",2020,county_per_capita_income,46164,Dollars
+19065,"Fayette, IA",2021,county_per_capita_income,50873,Dollars
+19065,"Fayette, IA",2022,county_per_capita_income,53643,Dollars
+19065,"Fayette, IA",2023,county_per_capita_income,54184,Dollars
+19065,"Fayette, IA",2024,county_per_capita_income,57293,Dollars
+19067,"Floyd, IA",2020,county_personal_income,762021,Thousands of dollars
+19067,"Floyd, IA",2021,county_personal_income,868911,Thousands of dollars
+19067,"Floyd, IA",2022,county_personal_income,942797,Thousands of dollars
+19067,"Floyd, IA",2023,county_personal_income,946083,Thousands of dollars
+19067,"Floyd, IA",2024,county_personal_income,973305,Thousands of dollars
+19067,"Floyd, IA",2020,county_population,15593,Number of persons
+19067,"Floyd, IA",2021,county_population,15458,Number of persons
+19067,"Floyd, IA",2022,county_population,15316,Number of persons
+19067,"Floyd, IA",2023,county_population,15266,Number of persons
+19067,"Floyd, IA",2024,county_population,15008,Number of persons
+19067,"Floyd, IA",2020,county_per_capita_income,48869,Dollars
+19067,"Floyd, IA",2021,county_per_capita_income,56211,Dollars
+19067,"Floyd, IA",2022,county_per_capita_income,61556,Dollars
+19067,"Floyd, IA",2023,county_per_capita_income,61973,Dollars
+19067,"Floyd, IA",2024,county_per_capita_income,64852,Dollars
+19069,"Franklin, IA",2020,county_personal_income,492070,Thousands of dollars
+19069,"Franklin, IA",2021,county_personal_income,615773,Thousands of dollars
+19069,"Franklin, IA",2022,county_personal_income,671957,Thousands of dollars
+19069,"Franklin, IA",2023,county_personal_income,641018,Thousands of dollars
+19069,"Franklin, IA",2024,county_personal_income,657281,Thousands of dollars
+19069,"Franklin, IA",2020,county_population,9995,Number of persons
+19069,"Franklin, IA",2021,county_population,9949,Number of persons
+19069,"Franklin, IA",2022,county_population,9918,Number of persons
+19069,"Franklin, IA",2023,county_population,9895,Number of persons
+19069,"Franklin, IA",2024,county_population,10024,Number of persons
+19069,"Franklin, IA",2020,county_per_capita_income,49232,Dollars
+19069,"Franklin, IA",2021,county_per_capita_income,61893,Dollars
+19069,"Franklin, IA",2022,county_per_capita_income,67751,Dollars
+19069,"Franklin, IA",2023,county_per_capita_income,64782,Dollars
+19069,"Franklin, IA",2024,county_per_capita_income,65571,Dollars
+19071,"Fremont, IA",2020,county_personal_income,339758,Thousands of dollars
+19071,"Fremont, IA",2021,county_personal_income,404597,Thousands of dollars
+19071,"Fremont, IA",2022,county_personal_income,392112,Thousands of dollars
+19071,"Fremont, IA",2023,county_personal_income,393809,Thousands of dollars
+19071,"Fremont, IA",2024,county_personal_income,405596,Thousands of dollars
+19071,"Fremont, IA",2020,county_population,6567,Number of persons
+19071,"Fremont, IA",2021,county_population,6584,Number of persons
+19071,"Fremont, IA",2022,county_population,6465,Number of persons
+19071,"Fremont, IA",2023,county_population,6458,Number of persons
+19071,"Fremont, IA",2024,county_population,6494,Number of persons
+19071,"Fremont, IA",2020,county_per_capita_income,51737,Dollars
+19071,"Fremont, IA",2021,county_per_capita_income,61452,Dollars
+19071,"Fremont, IA",2022,county_per_capita_income,60652,Dollars
+19071,"Fremont, IA",2023,county_per_capita_income,60980,Dollars
+19071,"Fremont, IA",2024,county_per_capita_income,62457,Dollars
+19073,"Greene, IA",2020,county_personal_income,448248,Thousands of dollars
+19073,"Greene, IA",2021,county_personal_income,526007,Thousands of dollars
+19073,"Greene, IA",2022,county_personal_income,541534,Thousands of dollars
+19073,"Greene, IA",2023,county_personal_income,521737,Thousands of dollars
+19073,"Greene, IA",2024,county_personal_income,531808,Thousands of dollars
+19073,"Greene, IA",2020,county_population,8750,Number of persons
+19073,"Greene, IA",2021,county_population,8726,Number of persons
+19073,"Greene, IA",2022,county_population,8707,Number of persons
+19073,"Greene, IA",2023,county_population,8597,Number of persons
+19073,"Greene, IA",2024,county_population,8662,Number of persons
+19073,"Greene, IA",2020,county_per_capita_income,51228,Dollars
+19073,"Greene, IA",2021,county_per_capita_income,60280,Dollars
+19073,"Greene, IA",2022,county_per_capita_income,62195,Dollars
+19073,"Greene, IA",2023,county_per_capita_income,60688,Dollars
+19073,"Greene, IA",2024,county_per_capita_income,61396,Dollars
+19075,"Grundy, IA",2020,county_personal_income,672693,Thousands of dollars
+19075,"Grundy, IA",2021,county_personal_income,774530,Thousands of dollars
+19075,"Grundy, IA",2022,county_personal_income,815554,Thousands of dollars
+19075,"Grundy, IA",2023,county_personal_income,808454,Thousands of dollars
+19075,"Grundy, IA",2024,county_personal_income,803526,Thousands of dollars
+19075,"Grundy, IA",2020,county_population,12347,Number of persons
+19075,"Grundy, IA",2021,county_population,12376,Number of persons
+19075,"Grundy, IA",2022,county_population,12379,Number of persons
+19075,"Grundy, IA",2023,county_population,12412,Number of persons
+19075,"Grundy, IA",2024,county_population,12405,Number of persons
+19075,"Grundy, IA",2020,county_per_capita_income,54482,Dollars
+19075,"Grundy, IA",2021,county_per_capita_income,62583,Dollars
+19075,"Grundy, IA",2022,county_per_capita_income,65882,Dollars
+19075,"Grundy, IA",2023,county_per_capita_income,65135,Dollars
+19075,"Grundy, IA",2024,county_per_capita_income,64774,Dollars
+19077,"Guthrie, IA",2020,county_personal_income,604896,Thousands of dollars
+19077,"Guthrie, IA",2021,county_personal_income,701968,Thousands of dollars
+19077,"Guthrie, IA",2022,county_personal_income,740111,Thousands of dollars
+19077,"Guthrie, IA",2023,county_personal_income,742992,Thousands of dollars
+19077,"Guthrie, IA",2024,county_personal_income,784919,Thousands of dollars
+19077,"Guthrie, IA",2020,county_population,10619,Number of persons
+19077,"Guthrie, IA",2021,county_population,10598,Number of persons
+19077,"Guthrie, IA",2022,county_population,10687,Number of persons
+19077,"Guthrie, IA",2023,county_population,10763,Number of persons
+19077,"Guthrie, IA",2024,county_population,10774,Number of persons
+19077,"Guthrie, IA",2020,county_per_capita_income,56964,Dollars
+19077,"Guthrie, IA",2021,county_per_capita_income,66236,Dollars
+19077,"Guthrie, IA",2022,county_per_capita_income,69253,Dollars
+19077,"Guthrie, IA",2023,county_per_capita_income,69032,Dollars
+19077,"Guthrie, IA",2024,county_per_capita_income,72853,Dollars
+19079,"Hamilton, IA",2020,county_personal_income,745920,Thousands of dollars
+19079,"Hamilton, IA",2021,county_personal_income,876207,Thousands of dollars
+19079,"Hamilton, IA",2022,county_personal_income,994105,Thousands of dollars
+19079,"Hamilton, IA",2023,county_personal_income,928179,Thousands of dollars
+19079,"Hamilton, IA",2024,county_personal_income,968173,Thousands of dollars
+19079,"Hamilton, IA",2020,county_population,15011,Number of persons
+19079,"Hamilton, IA",2021,county_population,14866,Number of persons
+19079,"Hamilton, IA",2022,county_population,14848,Number of persons
+19079,"Hamilton, IA",2023,county_population,14848,Number of persons
+19079,"Hamilton, IA",2024,county_population,14856,Number of persons
+19079,"Hamilton, IA",2020,county_per_capita_income,49692,Dollars
+19079,"Hamilton, IA",2021,county_per_capita_income,58940,Dollars
+19079,"Hamilton, IA",2022,county_per_capita_income,66952,Dollars
+19079,"Hamilton, IA",2023,county_per_capita_income,62512,Dollars
+19079,"Hamilton, IA",2024,county_per_capita_income,65171,Dollars
+19081,"Hancock, IA",2020,county_personal_income,550439,Thousands of dollars
+19081,"Hancock, IA",2021,county_personal_income,659270,Thousands of dollars
+19081,"Hancock, IA",2022,county_personal_income,734813,Thousands of dollars
+19081,"Hancock, IA",2023,county_personal_income,685837,Thousands of dollars
+19081,"Hancock, IA",2024,county_personal_income,723613,Thousands of dollars
+19081,"Hancock, IA",2020,county_population,10758,Number of persons
+19081,"Hancock, IA",2021,county_population,10687,Number of persons
+19081,"Hancock, IA",2022,county_population,10664,Number of persons
+19081,"Hancock, IA",2023,county_population,10631,Number of persons
+19081,"Hancock, IA",2024,county_population,10616,Number of persons
+19081,"Hancock, IA",2020,county_per_capita_income,51166,Dollars
+19081,"Hancock, IA",2021,county_per_capita_income,61689,Dollars
+19081,"Hancock, IA",2022,county_per_capita_income,68906,Dollars
+19081,"Hancock, IA",2023,county_per_capita_income,64513,Dollars
+19081,"Hancock, IA",2024,county_per_capita_income,68162,Dollars
+19083,"Hardin, IA",2020,county_personal_income,824377,Thousands of dollars
+19083,"Hardin, IA",2021,county_personal_income,1046803,Thousands of dollars
+19083,"Hardin, IA",2022,county_personal_income,1281896,Thousands of dollars
+19083,"Hardin, IA",2023,county_personal_income,1087181,Thousands of dollars
+19083,"Hardin, IA",2024,county_personal_income,1105014,Thousands of dollars
+19083,"Hardin, IA",2020,county_population,16826,Number of persons
+19083,"Hardin, IA",2021,county_population,16705,Number of persons
+19083,"Hardin, IA",2022,county_population,16677,Number of persons
+19083,"Hardin, IA",2023,county_population,16523,Number of persons
+19083,"Hardin, IA",2024,county_population,16464,Number of persons
+19083,"Hardin, IA",2020,county_per_capita_income,48994,Dollars
+19083,"Hardin, IA",2021,county_per_capita_income,62664,Dollars
+19083,"Hardin, IA",2022,county_per_capita_income,76866,Dollars
+19083,"Hardin, IA",2023,county_per_capita_income,65798,Dollars
+19083,"Hardin, IA",2024,county_per_capita_income,67117,Dollars
+19085,"Harrison, IA",2020,county_personal_income,698187,Thousands of dollars
+19085,"Harrison, IA",2021,county_personal_income,820771,Thousands of dollars
+19085,"Harrison, IA",2022,county_personal_income,878106,Thousands of dollars
+19085,"Harrison, IA",2023,county_personal_income,889108,Thousands of dollars
+19085,"Harrison, IA",2024,county_personal_income,898320,Thousands of dollars
+19085,"Harrison, IA",2020,county_population,14567,Number of persons
+19085,"Harrison, IA",2021,county_population,14692,Number of persons
+19085,"Harrison, IA",2022,county_population,14635,Number of persons
+19085,"Harrison, IA",2023,county_population,14638,Number of persons
+19085,"Harrison, IA",2024,county_population,14626,Number of persons
+19085,"Harrison, IA",2020,county_per_capita_income,47929,Dollars
+19085,"Harrison, IA",2021,county_per_capita_income,55865,Dollars
+19085,"Harrison, IA",2022,county_per_capita_income,60000,Dollars
+19085,"Harrison, IA",2023,county_per_capita_income,60740,Dollars
+19085,"Harrison, IA",2024,county_per_capita_income,61419,Dollars
+19087,"Henry, IA",2020,county_personal_income,923716,Thousands of dollars
+19087,"Henry, IA",2021,county_personal_income,1012450,Thousands of dollars
+19087,"Henry, IA",2022,county_personal_income,1032578,Thousands of dollars
+19087,"Henry, IA",2023,county_personal_income,1025632,Thousands of dollars
+19087,"Henry, IA",2024,county_personal_income,1037723,Thousands of dollars
+19087,"Henry, IA",2020,county_population,20447,Number of persons
+19087,"Henry, IA",2021,county_population,20387,Number of persons
+19087,"Henry, IA",2022,county_population,20253,Number of persons
+19087,"Henry, IA",2023,county_population,19573,Number of persons
+19087,"Henry, IA",2024,county_population,19361,Number of persons
+19087,"Henry, IA",2020,county_per_capita_income,45176,Dollars
+19087,"Henry, IA",2021,county_per_capita_income,49662,Dollars
+19087,"Henry, IA",2022,county_per_capita_income,50984,Dollars
+19087,"Henry, IA",2023,county_per_capita_income,52400,Dollars
+19087,"Henry, IA",2024,county_per_capita_income,53599,Dollars
+19089,"Howard, IA",2020,county_personal_income,470503,Thousands of dollars
+19089,"Howard, IA",2021,county_personal_income,574170,Thousands of dollars
+19089,"Howard, IA",2022,county_personal_income,624828,Thousands of dollars
+19089,"Howard, IA",2023,county_personal_income,608418,Thousands of dollars
+19089,"Howard, IA",2024,county_personal_income,625343,Thousands of dollars
+19089,"Howard, IA",2020,county_population,9497,Number of persons
+19089,"Howard, IA",2021,county_population,9509,Number of persons
+19089,"Howard, IA",2022,county_population,9502,Number of persons
+19089,"Howard, IA",2023,county_population,9357,Number of persons
+19089,"Howard, IA",2024,county_population,9360,Number of persons
+19089,"Howard, IA",2020,county_per_capita_income,49542,Dollars
+19089,"Howard, IA",2021,county_per_capita_income,60382,Dollars
+19089,"Howard, IA",2022,county_per_capita_income,65758,Dollars
+19089,"Howard, IA",2023,county_per_capita_income,65023,Dollars
+19089,"Howard, IA",2024,county_per_capita_income,66810,Dollars
+19091,"Humboldt, IA",2020,county_personal_income,482191,Thousands of dollars
+19091,"Humboldt, IA",2021,county_personal_income,551731,Thousands of dollars
+19091,"Humboldt, IA",2022,county_personal_income,580420,Thousands of dollars
+19091,"Humboldt, IA",2023,county_personal_income,569199,Thousands of dollars
+19091,"Humboldt, IA",2024,county_personal_income,578832,Thousands of dollars
+19091,"Humboldt, IA",2020,county_population,9597,Number of persons
+19091,"Humboldt, IA",2021,county_population,9630,Number of persons
+19091,"Humboldt, IA",2022,county_population,9545,Number of persons
+19091,"Humboldt, IA",2023,county_population,9564,Number of persons
+19091,"Humboldt, IA",2024,county_population,9617,Number of persons
+19091,"Humboldt, IA",2020,county_per_capita_income,50244,Dollars
+19091,"Humboldt, IA",2021,county_per_capita_income,57293,Dollars
+19091,"Humboldt, IA",2022,county_per_capita_income,60809,Dollars
+19091,"Humboldt, IA",2023,county_per_capita_income,59515,Dollars
+19091,"Humboldt, IA",2024,county_per_capita_income,60188,Dollars
+19093,"Ida, IA",2020,county_personal_income,384301,Thousands of dollars
+19093,"Ida, IA",2021,county_personal_income,485359,Thousands of dollars
+19093,"Ida, IA",2022,county_personal_income,513664,Thousands of dollars
+19093,"Ida, IA",2023,county_personal_income,474422,Thousands of dollars
+19093,"Ida, IA",2024,county_personal_income,471697,Thousands of dollars
+19093,"Ida, IA",2020,county_population,7029,Number of persons
+19093,"Ida, IA",2021,county_population,6980,Number of persons
+19093,"Ida, IA",2022,county_population,6900,Number of persons
+19093,"Ida, IA",2023,county_population,6835,Number of persons
+19093,"Ida, IA",2024,county_population,6810,Number of persons
+19093,"Ida, IA",2020,county_per_capita_income,54674,Dollars
+19093,"Ida, IA",2021,county_per_capita_income,69536,Dollars
+19093,"Ida, IA",2022,county_per_capita_income,74444,Dollars
+19093,"Ida, IA",2023,county_per_capita_income,69411,Dollars
+19093,"Ida, IA",2024,county_per_capita_income,69265,Dollars
+19095,"Iowa, IA",2020,county_personal_income,915908,Thousands of dollars
+19095,"Iowa, IA",2021,county_personal_income,1001636,Thousands of dollars
+19095,"Iowa, IA",2022,county_personal_income,1015248,Thousands of dollars
+19095,"Iowa, IA",2023,county_personal_income,1013124,Thousands of dollars
+19095,"Iowa, IA",2024,county_personal_income,1042142,Thousands of dollars
+19095,"Iowa, IA",2020,county_population,16653,Number of persons
+19095,"Iowa, IA",2021,county_population,16583,Number of persons
+19095,"Iowa, IA",2022,county_population,16491,Number of persons
+19095,"Iowa, IA",2023,county_population,16386,Number of persons
+19095,"Iowa, IA",2024,county_population,16423,Number of persons
+19095,"Iowa, IA",2020,county_per_capita_income,55000,Dollars
+19095,"Iowa, IA",2021,county_per_capita_income,60401,Dollars
+19095,"Iowa, IA",2022,county_per_capita_income,61564,Dollars
+19095,"Iowa, IA",2023,county_per_capita_income,61829,Dollars
+19095,"Iowa, IA",2024,county_per_capita_income,63456,Dollars
+19097,"Jackson, IA",2020,county_personal_income,949457,Thousands of dollars
+19097,"Jackson, IA",2021,county_personal_income,1048056,Thousands of dollars
+19097,"Jackson, IA",2022,county_personal_income,1085981,Thousands of dollars
+19097,"Jackson, IA",2023,county_personal_income,1107037,Thousands of dollars
+19097,"Jackson, IA",2024,county_personal_income,1159621,Thousands of dollars
+19097,"Jackson, IA",2020,county_population,19453,Number of persons
+19097,"Jackson, IA",2021,county_population,19402,Number of persons
+19097,"Jackson, IA",2022,county_population,19350,Number of persons
+19097,"Jackson, IA",2023,county_population,19353,Number of persons
+19097,"Jackson, IA",2024,county_population,19390,Number of persons
+19097,"Jackson, IA",2020,county_per_capita_income,48808,Dollars
+19097,"Jackson, IA",2021,county_per_capita_income,54018,Dollars
+19097,"Jackson, IA",2022,county_per_capita_income,56123,Dollars
+19097,"Jackson, IA",2023,county_per_capita_income,57202,Dollars
+19097,"Jackson, IA",2024,county_per_capita_income,59805,Dollars
+19099,"Jasper, IA",2020,county_personal_income,1737109,Thousands of dollars
+19099,"Jasper, IA",2021,county_personal_income,1905286,Thousands of dollars
+19099,"Jasper, IA",2022,county_personal_income,1945781,Thousands of dollars
+19099,"Jasper, IA",2023,county_personal_income,1988265,Thousands of dollars
+19099,"Jasper, IA",2024,county_personal_income,2052410,Thousands of dollars
+19099,"Jasper, IA",2020,county_population,37818,Number of persons
+19099,"Jasper, IA",2021,county_population,37887,Number of persons
+19099,"Jasper, IA",2022,county_population,37966,Number of persons
+19099,"Jasper, IA",2023,county_population,37991,Number of persons
+19099,"Jasper, IA",2024,county_population,38107,Number of persons
+19099,"Jasper, IA",2020,county_per_capita_income,45933,Dollars
+19099,"Jasper, IA",2021,county_per_capita_income,50289,Dollars
+19099,"Jasper, IA",2022,county_per_capita_income,51251,Dollars
+19099,"Jasper, IA",2023,county_per_capita_income,52335,Dollars
+19099,"Jasper, IA",2024,county_per_capita_income,53859,Dollars
+19101,"Jefferson, IA",2020,county_personal_income,763403,Thousands of dollars
+19101,"Jefferson, IA",2021,county_personal_income,842287,Thousands of dollars
+19101,"Jefferson, IA",2022,county_personal_income,889917,Thousands of dollars
+19101,"Jefferson, IA",2023,county_personal_income,897200,Thousands of dollars
+19101,"Jefferson, IA",2024,county_personal_income,929767,Thousands of dollars
+19101,"Jefferson, IA",2020,county_population,15699,Number of persons
+19101,"Jefferson, IA",2021,county_population,15786,Number of persons
+19101,"Jefferson, IA",2022,county_population,15632,Number of persons
+19101,"Jefferson, IA",2023,county_population,15626,Number of persons
+19101,"Jefferson, IA",2024,county_population,15781,Number of persons
+19101,"Jefferson, IA",2020,county_per_capita_income,48627,Dollars
+19101,"Jefferson, IA",2021,county_per_capita_income,53357,Dollars
+19101,"Jefferson, IA",2022,county_per_capita_income,56929,Dollars
+19101,"Jefferson, IA",2023,county_per_capita_income,57417,Dollars
+19101,"Jefferson, IA",2024,county_per_capita_income,58917,Dollars
+19103,"Johnson, IA",2020,county_personal_income,8607871,Thousands of dollars
+19103,"Johnson, IA",2021,county_personal_income,9455046,Thousands of dollars
+19103,"Johnson, IA",2022,county_personal_income,9542730,Thousands of dollars
+19103,"Johnson, IA",2023,county_personal_income,10079453,Thousands of dollars
+19103,"Johnson, IA",2024,county_personal_income,10569810,Thousands of dollars
+19103,"Johnson, IA",2020,county_population,153052,Number of persons
+19103,"Johnson, IA",2021,county_population,155047,Number of persons
+19103,"Johnson, IA",2022,county_population,156815,Number of persons
+19103,"Johnson, IA",2023,county_population,158202,Number of persons
+19103,"Johnson, IA",2024,county_population,160080,Number of persons
+19103,"Johnson, IA",2020,county_per_capita_income,56241,Dollars
+19103,"Johnson, IA",2021,county_per_capita_income,60982,Dollars
+19103,"Johnson, IA",2022,county_per_capita_income,60853,Dollars
+19103,"Johnson, IA",2023,county_per_capita_income,63713,Dollars
+19103,"Johnson, IA",2024,county_per_capita_income,66028,Dollars
+19105,"Jones, IA",2020,county_personal_income,977402,Thousands of dollars
+19105,"Jones, IA",2021,county_personal_income,1088458,Thousands of dollars
+19105,"Jones, IA",2022,county_personal_income,1147006,Thousands of dollars
+19105,"Jones, IA",2023,county_personal_income,1163205,Thousands of dollars
+19105,"Jones, IA",2024,county_personal_income,1193879,Thousands of dollars
+19105,"Jones, IA",2020,county_population,20654,Number of persons
+19105,"Jones, IA",2021,county_population,20832,Number of persons
+19105,"Jones, IA",2022,county_population,20960,Number of persons
+19105,"Jones, IA",2023,county_population,20917,Number of persons
+19105,"Jones, IA",2024,county_population,21116,Number of persons
+19105,"Jones, IA",2020,county_per_capita_income,47323,Dollars
+19105,"Jones, IA",2021,county_per_capita_income,52249,Dollars
+19105,"Jones, IA",2022,county_per_capita_income,54724,Dollars
+19105,"Jones, IA",2023,county_per_capita_income,55611,Dollars
+19105,"Jones, IA",2024,county_per_capita_income,56539,Dollars
+19107,"Keokuk, IA",2020,county_personal_income,482465,Thousands of dollars
+19107,"Keokuk, IA",2021,county_personal_income,540926,Thousands of dollars
+19107,"Keokuk, IA",2022,county_personal_income,567442,Thousands of dollars
+19107,"Keokuk, IA",2023,county_personal_income,563112,Thousands of dollars
+19107,"Keokuk, IA",2024,county_personal_income,575522,Thousands of dollars
+19107,"Keokuk, IA",2020,county_population,10012,Number of persons
+19107,"Keokuk, IA",2021,county_population,9912,Number of persons
+19107,"Keokuk, IA",2022,county_population,9895,Number of persons
+19107,"Keokuk, IA",2023,county_population,9947,Number of persons
+19107,"Keokuk, IA",2024,county_population,9855,Number of persons
+19107,"Keokuk, IA",2020,county_per_capita_income,48189,Dollars
+19107,"Keokuk, IA",2021,county_per_capita_income,54573,Dollars
+19107,"Keokuk, IA",2022,county_per_capita_income,57346,Dollars
+19107,"Keokuk, IA",2023,county_per_capita_income,56611,Dollars
+19107,"Keokuk, IA",2024,county_per_capita_income,58399,Dollars
+19109,"Kossuth, IA",2020,county_personal_income,758527,Thousands of dollars
+19109,"Kossuth, IA",2021,county_personal_income,923625,Thousands of dollars
+19109,"Kossuth, IA",2022,county_personal_income,1005180,Thousands of dollars
+19109,"Kossuth, IA",2023,county_personal_income,959717,Thousands of dollars
+19109,"Kossuth, IA",2024,county_personal_income,989456,Thousands of dollars
+19109,"Kossuth, IA",2020,county_population,14791,Number of persons
+19109,"Kossuth, IA",2021,county_population,14511,Number of persons
+19109,"Kossuth, IA",2022,county_population,14462,Number of persons
+19109,"Kossuth, IA",2023,county_population,14410,Number of persons
+19109,"Kossuth, IA",2024,county_population,14408,Number of persons
+19109,"Kossuth, IA",2020,county_per_capita_income,51283,Dollars
+19109,"Kossuth, IA",2021,county_per_capita_income,63650,Dollars
+19109,"Kossuth, IA",2022,county_per_capita_income,69505,Dollars
+19109,"Kossuth, IA",2023,county_per_capita_income,66601,Dollars
+19109,"Kossuth, IA",2024,county_per_capita_income,68674,Dollars
+19111,"Lee, IA",2020,county_personal_income,1555171,Thousands of dollars
+19111,"Lee, IA",2021,county_personal_income,1644667,Thousands of dollars
+19111,"Lee, IA",2022,county_personal_income,1659187,Thousands of dollars
+19111,"Lee, IA",2023,county_personal_income,1696584,Thousands of dollars
+19111,"Lee, IA",2024,county_personal_income,1789925,Thousands of dollars
+19111,"Lee, IA",2020,county_population,33529,Number of persons
+19111,"Lee, IA",2021,county_population,33260,Number of persons
+19111,"Lee, IA",2022,county_population,32793,Number of persons
+19111,"Lee, IA",2023,county_population,32509,Number of persons
+19111,"Lee, IA",2024,county_population,32376,Number of persons
+19111,"Lee, IA",2020,county_per_capita_income,46383,Dollars
+19111,"Lee, IA",2021,county_per_capita_income,49449,Dollars
+19111,"Lee, IA",2022,county_per_capita_income,50596,Dollars
+19111,"Lee, IA",2023,county_per_capita_income,52188,Dollars
+19111,"Lee, IA",2024,county_per_capita_income,55286,Dollars
+19113,"Linn, IA",2020,county_personal_income,12815466,Thousands of dollars
+19113,"Linn, IA",2021,county_personal_income,13718957,Thousands of dollars
+19113,"Linn, IA",2022,county_personal_income,13939698,Thousands of dollars
+19113,"Linn, IA",2023,county_personal_income,14659008,Thousands of dollars
+19113,"Linn, IA",2024,county_personal_income,15417877,Thousands of dollars
+19113,"Linn, IA",2020,county_population,230433,Number of persons
+19113,"Linn, IA",2021,county_population,229474,Number of persons
+19113,"Linn, IA",2022,county_population,228947,Number of persons
+19113,"Linn, IA",2023,county_population,229402,Number of persons
+19113,"Linn, IA",2024,county_population,231762,Number of persons
+19113,"Linn, IA",2020,county_per_capita_income,55615,Dollars
+19113,"Linn, IA",2021,county_per_capita_income,59784,Dollars
+19113,"Linn, IA",2022,county_per_capita_income,60886,Dollars
+19113,"Linn, IA",2023,county_per_capita_income,63901,Dollars
+19113,"Linn, IA",2024,county_per_capita_income,66525,Dollars
+19115,"Louisa, IA",2020,county_personal_income,497174,Thousands of dollars
+19115,"Louisa, IA",2021,county_personal_income,556966,Thousands of dollars
+19115,"Louisa, IA",2022,county_personal_income,582716,Thousands of dollars
+19115,"Louisa, IA",2023,county_personal_income,567430,Thousands of dollars
+19115,"Louisa, IA",2024,county_personal_income,587951,Thousands of dollars
+19115,"Louisa, IA",2020,county_population,10825,Number of persons
+19115,"Louisa, IA",2021,county_population,10736,Number of persons
+19115,"Louisa, IA",2022,county_population,10657,Number of persons
+19115,"Louisa, IA",2023,county_population,10540,Number of persons
+19115,"Louisa, IA",2024,county_population,10630,Number of persons
+19115,"Louisa, IA",2020,county_per_capita_income,45928,Dollars
+19115,"Louisa, IA",2021,county_per_capita_income,51878,Dollars
+19115,"Louisa, IA",2022,county_per_capita_income,54679,Dollars
+19115,"Louisa, IA",2023,county_per_capita_income,53836,Dollars
+19115,"Louisa, IA",2024,county_per_capita_income,55311,Dollars
+19117,"Lucas, IA",2020,county_personal_income,381454,Thousands of dollars
+19117,"Lucas, IA",2021,county_personal_income,423765,Thousands of dollars
+19117,"Lucas, IA",2022,county_personal_income,427504,Thousands of dollars
+19117,"Lucas, IA",2023,county_personal_income,433483,Thousands of dollars
+19117,"Lucas, IA",2024,county_personal_income,470027,Thousands of dollars
+19117,"Lucas, IA",2020,county_population,8620,Number of persons
+19117,"Lucas, IA",2021,county_population,8708,Number of persons
+19117,"Lucas, IA",2022,county_population,8720,Number of persons
+19117,"Lucas, IA",2023,county_population,8775,Number of persons
+19117,"Lucas, IA",2024,county_population,8758,Number of persons
+19117,"Lucas, IA",2020,county_per_capita_income,44252,Dollars
+19117,"Lucas, IA",2021,county_per_capita_income,48664,Dollars
+19117,"Lucas, IA",2022,county_per_capita_income,49026,Dollars
+19117,"Lucas, IA",2023,county_per_capita_income,49400,Dollars
+19117,"Lucas, IA",2024,county_per_capita_income,53668,Dollars
+19119,"Lyon, IA",2020,county_personal_income,686738,Thousands of dollars
+19119,"Lyon, IA",2021,county_personal_income,793291,Thousands of dollars
+19119,"Lyon, IA",2022,county_personal_income,908661,Thousands of dollars
+19119,"Lyon, IA",2023,county_personal_income,853008,Thousands of dollars
+19119,"Lyon, IA",2024,county_personal_income,930861,Thousands of dollars
+19119,"Lyon, IA",2020,county_population,11923,Number of persons
+19119,"Lyon, IA",2021,county_population,12035,Number of persons
+19119,"Lyon, IA",2022,county_population,12185,Number of persons
+19119,"Lyon, IA",2023,county_population,12288,Number of persons
+19119,"Lyon, IA",2024,county_population,12378,Number of persons
+19119,"Lyon, IA",2020,county_per_capita_income,57598,Dollars
+19119,"Lyon, IA",2021,county_per_capita_income,65915,Dollars
+19119,"Lyon, IA",2022,county_per_capita_income,74572,Dollars
+19119,"Lyon, IA",2023,county_per_capita_income,69418,Dollars
+19119,"Lyon, IA",2024,county_per_capita_income,75203,Dollars
+19121,"Madison, IA",2020,county_personal_income,879105,Thousands of dollars
+19121,"Madison, IA",2021,county_personal_income,965819,Thousands of dollars
+19121,"Madison, IA",2022,county_personal_income,1016848,Thousands of dollars
+19121,"Madison, IA",2023,county_personal_income,1045556,Thousands of dollars
+19121,"Madison, IA",2024,county_personal_income,1099178,Thousands of dollars
+19121,"Madison, IA",2020,county_population,16628,Number of persons
+19121,"Madison, IA",2021,county_population,16792,Number of persons
+19121,"Madison, IA",2022,county_population,17050,Number of persons
+19121,"Madison, IA",2023,county_population,16999,Number of persons
+19121,"Madison, IA",2024,county_population,17161,Number of persons
+19121,"Madison, IA",2020,county_per_capita_income,52869,Dollars
+19121,"Madison, IA",2021,county_per_capita_income,57517,Dollars
+19121,"Madison, IA",2022,county_per_capita_income,59639,Dollars
+19121,"Madison, IA",2023,county_per_capita_income,61507,Dollars
+19121,"Madison, IA",2024,county_per_capita_income,64051,Dollars
+19123,"Mahaska, IA",2020,county_personal_income,998069,Thousands of dollars
+19123,"Mahaska, IA",2021,county_personal_income,1107612,Thousands of dollars
+19123,"Mahaska, IA",2022,county_personal_income,1173083,Thousands of dollars
+19123,"Mahaska, IA",2023,county_personal_income,1215206,Thousands of dollars
+19123,"Mahaska, IA",2024,county_personal_income,1266746,Thousands of dollars
+19123,"Mahaska, IA",2020,county_population,22162,Number of persons
+19123,"Mahaska, IA",2021,county_population,21982,Number of persons
+19123,"Mahaska, IA",2022,county_population,21959,Number of persons
+19123,"Mahaska, IA",2023,county_population,21967,Number of persons
+19123,"Mahaska, IA",2024,county_population,22034,Number of persons
+19123,"Mahaska, IA",2020,county_per_capita_income,45035,Dollars
+19123,"Mahaska, IA",2021,county_per_capita_income,50387,Dollars
+19123,"Mahaska, IA",2022,county_per_capita_income,53422,Dollars
+19123,"Mahaska, IA",2023,county_per_capita_income,55320,Dollars
+19123,"Mahaska, IA",2024,county_per_capita_income,57491,Dollars
+19125,"Marion, IA",2020,county_personal_income,1773196,Thousands of dollars
+19125,"Marion, IA",2021,county_personal_income,1942659,Thousands of dollars
+19125,"Marion, IA",2022,county_personal_income,2031862,Thousands of dollars
+19125,"Marion, IA",2023,county_personal_income,2175693,Thousands of dollars
+19125,"Marion, IA",2024,county_personal_income,2278809,Thousands of dollars
+19125,"Marion, IA",2020,county_population,33414,Number of persons
+19125,"Marion, IA",2021,county_population,33450,Number of persons
+19125,"Marion, IA",2022,county_population,33582,Number of persons
+19125,"Marion, IA",2023,county_population,33718,Number of persons
+19125,"Marion, IA",2024,county_population,34048,Number of persons
+19125,"Marion, IA",2020,county_per_capita_income,53067,Dollars
+19125,"Marion, IA",2021,county_per_capita_income,58077,Dollars
+19125,"Marion, IA",2022,county_per_capita_income,60504,Dollars
+19125,"Marion, IA",2023,county_per_capita_income,64526,Dollars
+19125,"Marion, IA",2024,county_per_capita_income,66929,Dollars
+19127,"Marshall, IA",2020,county_personal_income,1830589,Thousands of dollars
+19127,"Marshall, IA",2021,county_personal_income,1997226,Thousands of dollars
+19127,"Marshall, IA",2022,county_personal_income,1959300,Thousands of dollars
+19127,"Marshall, IA",2023,county_personal_income,1985818,Thousands of dollars
+19127,"Marshall, IA",2024,county_personal_income,2098147,Thousands of dollars
+19127,"Marshall, IA",2020,county_population,40091,Number of persons
+19127,"Marshall, IA",2021,county_population,39915,Number of persons
+19127,"Marshall, IA",2022,county_population,39940,Number of persons
+19127,"Marshall, IA",2023,county_population,40230,Number of persons
+19127,"Marshall, IA",2024,county_population,40392,Number of persons
+19127,"Marshall, IA",2020,county_per_capita_income,45661,Dollars
+19127,"Marshall, IA",2021,county_per_capita_income,50037,Dollars
+19127,"Marshall, IA",2022,county_per_capita_income,49056,Dollars
+19127,"Marshall, IA",2023,county_per_capita_income,49362,Dollars
+19127,"Marshall, IA",2024,county_per_capita_income,51945,Dollars
+19129,"Mills, IA",2020,county_personal_income,868065,Thousands of dollars
+19129,"Mills, IA",2021,county_personal_income,974014,Thousands of dollars
+19129,"Mills, IA",2022,county_personal_income,987645,Thousands of dollars
+19129,"Mills, IA",2023,county_personal_income,983965,Thousands of dollars
+19129,"Mills, IA",2024,county_personal_income,1012293,Thousands of dollars
+19129,"Mills, IA",2020,county_population,14418,Number of persons
+19129,"Mills, IA",2021,county_population,14491,Number of persons
+19129,"Mills, IA",2022,county_population,14572,Number of persons
+19129,"Mills, IA",2023,county_population,14642,Number of persons
+19129,"Mills, IA",2024,county_population,14717,Number of persons
+19129,"Mills, IA",2020,county_per_capita_income,60207,Dollars
+19129,"Mills, IA",2021,county_per_capita_income,67215,Dollars
+19129,"Mills, IA",2022,county_per_capita_income,67777,Dollars
+19129,"Mills, IA",2023,county_per_capita_income,67202,Dollars
+19129,"Mills, IA",2024,county_per_capita_income,68784,Dollars
+19131,"Mitchell, IA",2020,county_personal_income,611123,Thousands of dollars
+19131,"Mitchell, IA",2021,county_personal_income,805159,Thousands of dollars
+19131,"Mitchell, IA",2022,county_personal_income,1095568,Thousands of dollars
+19131,"Mitchell, IA",2023,county_personal_income,1057725,Thousands of dollars
+19131,"Mitchell, IA",2024,county_personal_income,1044181,Thousands of dollars
+19131,"Mitchell, IA",2020,county_population,10586,Number of persons
+19131,"Mitchell, IA",2021,county_population,10555,Number of persons
+19131,"Mitchell, IA",2022,county_population,10557,Number of persons
+19131,"Mitchell, IA",2023,county_population,10544,Number of persons
+19131,"Mitchell, IA",2024,county_population,10632,Number of persons
+19131,"Mitchell, IA",2020,county_per_capita_income,57729,Dollars
+19131,"Mitchell, IA",2021,county_per_capita_income,76282,Dollars
+19131,"Mitchell, IA",2022,county_per_capita_income,103776,Dollars
+19131,"Mitchell, IA",2023,county_per_capita_income,100315,Dollars
+19131,"Mitchell, IA",2024,county_per_capita_income,98211,Dollars
+19133,"Monona, IA",2020,county_personal_income,417454,Thousands of dollars
+19133,"Monona, IA",2021,county_personal_income,496037,Thousands of dollars
+19133,"Monona, IA",2022,county_personal_income,519757,Thousands of dollars
+19133,"Monona, IA",2023,county_personal_income,518403,Thousands of dollars
+19133,"Monona, IA",2024,county_personal_income,508321,Thousands of dollars
+19133,"Monona, IA",2020,county_population,8742,Number of persons
+19133,"Monona, IA",2021,county_population,8595,Number of persons
+19133,"Monona, IA",2022,county_population,8515,Number of persons
+19133,"Monona, IA",2023,county_population,8503,Number of persons
+19133,"Monona, IA",2024,county_population,8429,Number of persons
+19133,"Monona, IA",2020,county_per_capita_income,47753,Dollars
+19133,"Monona, IA",2021,county_per_capita_income,57712,Dollars
+19133,"Monona, IA",2022,county_per_capita_income,61040,Dollars
+19133,"Monona, IA",2023,county_per_capita_income,60967,Dollars
+19133,"Monona, IA",2024,county_per_capita_income,60306,Dollars
+19135,"Monroe, IA",2020,county_personal_income,376583,Thousands of dollars
+19135,"Monroe, IA",2021,county_personal_income,413516,Thousands of dollars
+19135,"Monroe, IA",2022,county_personal_income,417972,Thousands of dollars
+19135,"Monroe, IA",2023,county_personal_income,440098,Thousands of dollars
+19135,"Monroe, IA",2024,county_personal_income,447478,Thousands of dollars
+19135,"Monroe, IA",2020,county_population,7596,Number of persons
+19135,"Monroe, IA",2021,county_population,7586,Number of persons
+19135,"Monroe, IA",2022,county_population,7524,Number of persons
+19135,"Monroe, IA",2023,county_population,7486,Number of persons
+19135,"Monroe, IA",2024,county_population,7373,Number of persons
+19135,"Monroe, IA",2020,county_per_capita_income,49576,Dollars
+19135,"Monroe, IA",2021,county_per_capita_income,54510,Dollars
+19135,"Monroe, IA",2022,county_per_capita_income,55552,Dollars
+19135,"Monroe, IA",2023,county_per_capita_income,58789,Dollars
+19135,"Monroe, IA",2024,county_per_capita_income,60691,Dollars
+19137,"Montgomery, IA",2020,county_personal_income,452152,Thousands of dollars
+19137,"Montgomery, IA",2021,county_personal_income,507874,Thousands of dollars
+19137,"Montgomery, IA",2022,county_personal_income,520221,Thousands of dollars
+19137,"Montgomery, IA",2023,county_personal_income,524838,Thousands of dollars
+19137,"Montgomery, IA",2024,county_personal_income,544443,Thousands of dollars
+19137,"Montgomery, IA",2020,county_population,10330,Number of persons
+19137,"Montgomery, IA",2021,county_population,10317,Number of persons
+19137,"Montgomery, IA",2022,county_population,10210,Number of persons
+19137,"Montgomery, IA",2023,county_population,10148,Number of persons
+19137,"Montgomery, IA",2024,county_population,10063,Number of persons
+19137,"Montgomery, IA",2020,county_per_capita_income,43771,Dollars
+19137,"Montgomery, IA",2021,county_per_capita_income,49227,Dollars
+19137,"Montgomery, IA",2022,county_per_capita_income,50952,Dollars
+19137,"Montgomery, IA",2023,county_per_capita_income,51718,Dollars
+19137,"Montgomery, IA",2024,county_per_capita_income,54103,Dollars
+19139,"Muscatine, IA",2020,county_personal_income,2188676,Thousands of dollars
+19139,"Muscatine, IA",2021,county_personal_income,2287761,Thousands of dollars
+19139,"Muscatine, IA",2022,county_personal_income,2352710,Thousands of dollars
+19139,"Muscatine, IA",2023,county_personal_income,2433815,Thousands of dollars
+19139,"Muscatine, IA",2024,county_personal_income,2541892,Thousands of dollars
+19139,"Muscatine, IA",2020,county_population,43155,Number of persons
+19139,"Muscatine, IA",2021,county_population,42693,Number of persons
+19139,"Muscatine, IA",2022,county_population,42501,Number of persons
+19139,"Muscatine, IA",2023,county_population,42316,Number of persons
+19139,"Muscatine, IA",2024,county_population,42132,Number of persons
+19139,"Muscatine, IA",2020,county_per_capita_income,50717,Dollars
+19139,"Muscatine, IA",2021,county_per_capita_income,53586,Dollars
+19139,"Muscatine, IA",2022,county_per_capita_income,55357,Dollars
+19139,"Muscatine, IA",2023,county_per_capita_income,57515,Dollars
+19139,"Muscatine, IA",2024,county_per_capita_income,60332,Dollars
+19141,"O'Brien, IA",2020,county_personal_income,765595,Thousands of dollars
+19141,"O'Brien, IA",2021,county_personal_income,859847,Thousands of dollars
+19141,"O'Brien, IA",2022,county_personal_income,937444,Thousands of dollars
+19141,"O'Brien, IA",2023,county_personal_income,902883,Thousands of dollars
+19141,"O'Brien, IA",2024,county_personal_income,961824,Thousands of dollars
+19141,"O'Brien, IA",2020,county_population,14149,Number of persons
+19141,"O'Brien, IA",2021,county_population,14048,Number of persons
+19141,"O'Brien, IA",2022,county_population,14107,Number of persons
+19141,"O'Brien, IA",2023,county_population,14067,Number of persons
+19141,"O'Brien, IA",2024,county_population,14260,Number of persons
+19141,"O'Brien, IA",2020,county_per_capita_income,54109,Dollars
+19141,"O'Brien, IA",2021,county_per_capita_income,61208,Dollars
+19141,"O'Brien, IA",2022,county_per_capita_income,66452,Dollars
+19141,"O'Brien, IA",2023,county_per_capita_income,64184,Dollars
+19141,"O'Brien, IA",2024,county_per_capita_income,67449,Dollars
+19143,"Osceola, IA",2020,county_personal_income,298399,Thousands of dollars
+19143,"Osceola, IA",2021,county_personal_income,353560,Thousands of dollars
+19143,"Osceola, IA",2022,county_personal_income,399455,Thousands of dollars
+19143,"Osceola, IA",2023,county_personal_income,371368,Thousands of dollars
+19143,"Osceola, IA",2024,county_personal_income,407028,Thousands of dollars
+19143,"Osceola, IA",2020,county_population,6200,Number of persons
+19143,"Osceola, IA",2021,county_population,6174,Number of persons
+19143,"Osceola, IA",2022,county_population,6073,Number of persons
+19143,"Osceola, IA",2023,county_population,6016,Number of persons
+19143,"Osceola, IA",2024,county_population,6036,Number of persons
+19143,"Osceola, IA",2020,county_per_capita_income,48129,Dollars
+19143,"Osceola, IA",2021,county_per_capita_income,57266,Dollars
+19143,"Osceola, IA",2022,county_per_capita_income,65776,Dollars
+19143,"Osceola, IA",2023,county_per_capita_income,61730,Dollars
+19143,"Osceola, IA",2024,county_per_capita_income,67433,Dollars
+19145,"Page, IA",2020,county_personal_income,702658,Thousands of dollars
+19145,"Page, IA",2021,county_personal_income,797016,Thousands of dollars
+19145,"Page, IA",2022,county_personal_income,815472,Thousands of dollars
+19145,"Page, IA",2023,county_personal_income,821137,Thousands of dollars
+19145,"Page, IA",2024,county_personal_income,839229,Thousands of dollars
+19145,"Page, IA",2020,county_population,15200,Number of persons
+19145,"Page, IA",2021,county_population,15232,Number of persons
+19145,"Page, IA",2022,county_population,15169,Number of persons
+19145,"Page, IA",2023,county_population,15012,Number of persons
+19145,"Page, IA",2024,county_population,15038,Number of persons
+19145,"Page, IA",2020,county_per_capita_income,46227,Dollars
+19145,"Page, IA",2021,county_per_capita_income,52325,Dollars
+19145,"Page, IA",2022,county_per_capita_income,53759,Dollars
+19145,"Page, IA",2023,county_per_capita_income,54699,Dollars
+19145,"Page, IA",2024,county_per_capita_income,55807,Dollars
+19147,"Palo Alto, IA",2020,county_personal_income,429068,Thousands of dollars
+19147,"Palo Alto, IA",2021,county_personal_income,516564,Thousands of dollars
+19147,"Palo Alto, IA",2022,county_personal_income,596026,Thousands of dollars
+19147,"Palo Alto, IA",2023,county_personal_income,539983,Thousands of dollars
+19147,"Palo Alto, IA",2024,county_personal_income,577294,Thousands of dollars
+19147,"Palo Alto, IA",2020,county_population,8993,Number of persons
+19147,"Palo Alto, IA",2021,county_population,8932,Number of persons
+19147,"Palo Alto, IA",2022,county_population,8772,Number of persons
+19147,"Palo Alto, IA",2023,county_population,8807,Number of persons
+19147,"Palo Alto, IA",2024,county_population,8809,Number of persons
+19147,"Palo Alto, IA",2020,county_per_capita_income,47711,Dollars
+19147,"Palo Alto, IA",2021,county_per_capita_income,57833,Dollars
+19147,"Palo Alto, IA",2022,county_per_capita_income,67946,Dollars
+19147,"Palo Alto, IA",2023,county_per_capita_income,61313,Dollars
+19147,"Palo Alto, IA",2024,county_per_capita_income,65535,Dollars
+19149,"Plymouth, IA",2020,county_personal_income,1452110,Thousands of dollars
+19149,"Plymouth, IA",2021,county_personal_income,1621197,Thousands of dollars
+19149,"Plymouth, IA",2022,county_personal_income,1786171,Thousands of dollars
+19149,"Plymouth, IA",2023,county_personal_income,1748810,Thousands of dollars
+19149,"Plymouth, IA",2024,county_personal_income,1804839,Thousands of dollars
+19149,"Plymouth, IA",2020,county_population,25694,Number of persons
+19149,"Plymouth, IA",2021,county_population,25738,Number of persons
+19149,"Plymouth, IA",2022,county_population,25714,Number of persons
+19149,"Plymouth, IA",2023,county_population,25765,Number of persons
+19149,"Plymouth, IA",2024,county_population,25825,Number of persons
+19149,"Plymouth, IA",2020,county_per_capita_income,56516,Dollars
+19149,"Plymouth, IA",2021,county_per_capita_income,62988,Dollars
+19149,"Plymouth, IA",2022,county_per_capita_income,69463,Dollars
+19149,"Plymouth, IA",2023,county_per_capita_income,67875,Dollars
+19149,"Plymouth, IA",2024,county_per_capita_income,69887,Dollars
+19151,"Pocahontas, IA",2020,county_personal_income,340300,Thousands of dollars
+19151,"Pocahontas, IA",2021,county_personal_income,429544,Thousands of dollars
+19151,"Pocahontas, IA",2022,county_personal_income,477165,Thousands of dollars
+19151,"Pocahontas, IA",2023,county_personal_income,424141,Thousands of dollars
+19151,"Pocahontas, IA",2024,county_personal_income,427198,Thousands of dollars
+19151,"Pocahontas, IA",2020,county_population,7068,Number of persons
+19151,"Pocahontas, IA",2021,county_population,7043,Number of persons
+19151,"Pocahontas, IA",2022,county_population,7090,Number of persons
+19151,"Pocahontas, IA",2023,county_population,7024,Number of persons
+19151,"Pocahontas, IA",2024,county_population,7006,Number of persons
+19151,"Pocahontas, IA",2020,county_per_capita_income,48147,Dollars
+19151,"Pocahontas, IA",2021,county_per_capita_income,60989,Dollars
+19151,"Pocahontas, IA",2022,county_per_capita_income,67301,Dollars
+19151,"Pocahontas, IA",2023,county_per_capita_income,60385,Dollars
+19151,"Pocahontas, IA",2024,county_per_capita_income,60976,Dollars
+19153,"Polk, IA",2020,county_personal_income,28324520,Thousands of dollars
+19153,"Polk, IA",2021,county_personal_income,30797753,Thousands of dollars
+19153,"Polk, IA",2022,county_personal_income,31918500,Thousands of dollars
+19153,"Polk, IA",2023,county_personal_income,34049556,Thousands of dollars
+19153,"Polk, IA",2024,county_personal_income,36029709,Thousands of dollars
+19153,"Polk, IA",2020,county_population,493039,Number of persons
+19153,"Polk, IA",2021,county_population,497903,Number of persons
+19153,"Polk, IA",2022,county_population,501261,Number of persons
+19153,"Polk, IA",2023,county_population,507487,Number of persons
+19153,"Polk, IA",2024,county_population,516185,Number of persons
+19153,"Polk, IA",2020,county_per_capita_income,57449,Dollars
+19153,"Polk, IA",2021,county_per_capita_income,61855,Dollars
+19153,"Polk, IA",2022,county_per_capita_income,63676,Dollars
+19153,"Polk, IA",2023,county_per_capita_income,67094,Dollars
+19153,"Polk, IA",2024,county_per_capita_income,69800,Dollars
+19155,"Pottawattamie, IA",2020,county_personal_income,4466093,Thousands of dollars
+19155,"Pottawattamie, IA",2021,county_personal_income,4812914,Thousands of dollars
+19155,"Pottawattamie, IA",2022,county_personal_income,5189922,Thousands of dollars
+19155,"Pottawattamie, IA",2023,county_personal_income,5465676,Thousands of dollars
+19155,"Pottawattamie, IA",2024,county_personal_income,5876958,Thousands of dollars
+19155,"Pottawattamie, IA",2020,county_population,93655,Number of persons
+19155,"Pottawattamie, IA",2021,county_population,93403,Number of persons
+19155,"Pottawattamie, IA",2022,county_population,93180,Number of persons
+19155,"Pottawattamie, IA",2023,county_population,93353,Number of persons
+19155,"Pottawattamie, IA",2024,county_population,93529,Number of persons
+19155,"Pottawattamie, IA",2020,county_per_capita_income,47687,Dollars
+19155,"Pottawattamie, IA",2021,county_per_capita_income,51528,Dollars
+19155,"Pottawattamie, IA",2022,county_per_capita_income,55698,Dollars
+19155,"Pottawattamie, IA",2023,county_per_capita_income,58548,Dollars
+19155,"Pottawattamie, IA",2024,county_per_capita_income,62836,Dollars
+19157,"Poweshiek, IA",2020,county_personal_income,893868,Thousands of dollars
+19157,"Poweshiek, IA",2021,county_personal_income,986747,Thousands of dollars
+19157,"Poweshiek, IA",2022,county_personal_income,1044491,Thousands of dollars
+19157,"Poweshiek, IA",2023,county_personal_income,1056835,Thousands of dollars
+19157,"Poweshiek, IA",2024,county_personal_income,1116019,Thousands of dollars
+19157,"Poweshiek, IA",2020,county_population,18628,Number of persons
+19157,"Poweshiek, IA",2021,county_population,18623,Number of persons
+19157,"Poweshiek, IA",2022,county_population,18521,Number of persons
+19157,"Poweshiek, IA",2023,county_population,18497,Number of persons
+19157,"Poweshiek, IA",2024,county_population,18454,Number of persons
+19157,"Poweshiek, IA",2020,county_per_capita_income,47985,Dollars
+19157,"Poweshiek, IA",2021,county_per_capita_income,52985,Dollars
+19157,"Poweshiek, IA",2022,county_per_capita_income,56395,Dollars
+19157,"Poweshiek, IA",2023,county_per_capita_income,57135,Dollars
+19157,"Poweshiek, IA",2024,county_per_capita_income,60476,Dollars
+19159,"Ringgold, IA",2020,county_personal_income,231743,Thousands of dollars
+19159,"Ringgold, IA",2021,county_personal_income,272852,Thousands of dollars
+19159,"Ringgold, IA",2022,county_personal_income,277490,Thousands of dollars
+19159,"Ringgold, IA",2023,county_personal_income,260816,Thousands of dollars
+19159,"Ringgold, IA",2024,county_personal_income,281698,Thousands of dollars
+19159,"Ringgold, IA",2020,county_population,4643,Number of persons
+19159,"Ringgold, IA",2021,county_population,4636,Number of persons
+19159,"Ringgold, IA",2022,county_population,4692,Number of persons
+19159,"Ringgold, IA",2023,county_population,4646,Number of persons
+19159,"Ringgold, IA",2024,county_population,4608,Number of persons
+19159,"Ringgold, IA",2020,county_per_capita_income,49912,Dollars
+19159,"Ringgold, IA",2021,county_per_capita_income,58855,Dollars
+19159,"Ringgold, IA",2022,county_per_capita_income,59141,Dollars
+19159,"Ringgold, IA",2023,county_per_capita_income,56138,Dollars
+19159,"Ringgold, IA",2024,county_per_capita_income,61132,Dollars
+19161,"Sac, IA",2020,county_personal_income,537409,Thousands of dollars
+19161,"Sac, IA",2021,county_personal_income,671579,Thousands of dollars
+19161,"Sac, IA",2022,county_personal_income,784082,Thousands of dollars
+19161,"Sac, IA",2023,county_personal_income,700243,Thousands of dollars
+19161,"Sac, IA",2024,county_personal_income,717793,Thousands of dollars
+19161,"Sac, IA",2020,county_population,9800,Number of persons
+19161,"Sac, IA",2021,county_population,9771,Number of persons
+19161,"Sac, IA",2022,county_population,9680,Number of persons
+19161,"Sac, IA",2023,county_population,9663,Number of persons
+19161,"Sac, IA",2024,county_population,9533,Number of persons
+19161,"Sac, IA",2020,county_per_capita_income,54838,Dollars
+19161,"Sac, IA",2021,county_per_capita_income,68732,Dollars
+19161,"Sac, IA",2022,county_per_capita_income,81000,Dollars
+19161,"Sac, IA",2023,county_per_capita_income,72466,Dollars
+19161,"Sac, IA",2024,county_per_capita_income,75296,Dollars
+19163,"Scott, IA",2020,county_personal_income,9857177,Thousands of dollars
+19163,"Scott, IA",2021,county_personal_income,10737013,Thousands of dollars
+19163,"Scott, IA",2022,county_personal_income,10962033,Thousands of dollars
+19163,"Scott, IA",2023,county_personal_income,11617662,Thousands of dollars
+19163,"Scott, IA",2024,county_personal_income,12293269,Thousands of dollars
+19163,"Scott, IA",2020,county_population,174617,Number of persons
+19163,"Scott, IA",2021,county_population,174250,Number of persons
+19163,"Scott, IA",2022,county_population,173985,Number of persons
+19163,"Scott, IA",2023,county_population,174589,Number of persons
+19163,"Scott, IA",2024,county_population,175601,Number of persons
+19163,"Scott, IA",2020,county_per_capita_income,56450,Dollars
+19163,"Scott, IA",2021,county_per_capita_income,61618,Dollars
+19163,"Scott, IA",2022,county_per_capita_income,63006,Dollars
+19163,"Scott, IA",2023,county_per_capita_income,66543,Dollars
+19163,"Scott, IA",2024,county_per_capita_income,70007,Dollars
+19165,"Shelby, IA",2020,county_personal_income,619472,Thousands of dollars
+19165,"Shelby, IA",2021,county_personal_income,755456,Thousands of dollars
+19165,"Shelby, IA",2022,county_personal_income,777195,Thousands of dollars
+19165,"Shelby, IA",2023,county_personal_income,787959,Thousands of dollars
+19165,"Shelby, IA",2024,county_personal_income,794608,Thousands of dollars
+19165,"Shelby, IA",2020,county_population,11727,Number of persons
+19165,"Shelby, IA",2021,county_population,11776,Number of persons
+19165,"Shelby, IA",2022,county_population,11745,Number of persons
+19165,"Shelby, IA",2023,county_population,11823,Number of persons
+19165,"Shelby, IA",2024,county_population,11821,Number of persons
+19165,"Shelby, IA",2020,county_per_capita_income,52824,Dollars
+19165,"Shelby, IA",2021,county_per_capita_income,64152,Dollars
+19165,"Shelby, IA",2022,county_per_capita_income,66172,Dollars
+19165,"Shelby, IA",2023,county_per_capita_income,66646,Dollars
+19165,"Shelby, IA",2024,county_per_capita_income,67220,Dollars
+19167,"Sioux, IA",2020,county_personal_income,1979363,Thousands of dollars
+19167,"Sioux, IA",2021,county_personal_income,2141200,Thousands of dollars
+19167,"Sioux, IA",2022,county_personal_income,2501484,Thousands of dollars
+19167,"Sioux, IA",2023,county_personal_income,2392829,Thousands of dollars
+19167,"Sioux, IA",2024,county_personal_income,2659367,Thousands of dollars
+19167,"Sioux, IA",2020,county_population,35897,Number of persons
+19167,"Sioux, IA",2021,county_population,35979,Number of persons
+19167,"Sioux, IA",2022,county_population,36231,Number of persons
+19167,"Sioux, IA",2023,county_population,36399,Number of persons
+19167,"Sioux, IA",2024,county_population,36554,Number of persons
+19167,"Sioux, IA",2020,county_per_capita_income,55140,Dollars
+19167,"Sioux, IA",2021,county_per_capita_income,59512,Dollars
+19167,"Sioux, IA",2022,county_per_capita_income,69043,Dollars
+19167,"Sioux, IA",2023,county_per_capita_income,65739,Dollars
+19167,"Sioux, IA",2024,county_per_capita_income,72752,Dollars
+19169,"Story, IA",2020,county_personal_income,4438916,Thousands of dollars
+19169,"Story, IA",2021,county_personal_income,4822879,Thousands of dollars
+19169,"Story, IA",2022,county_personal_income,5264199,Thousands of dollars
+19169,"Story, IA",2023,county_personal_income,5548240,Thousands of dollars
+19169,"Story, IA",2024,county_personal_income,5780080,Thousands of dollars
+19169,"Story, IA",2020,county_population,98651,Number of persons
+19169,"Story, IA",2021,county_population,99683,Number of persons
+19169,"Story, IA",2022,county_population,99995,Number of persons
+19169,"Story, IA",2023,county_population,101501,Number of persons
+19169,"Story, IA",2024,county_population,102498,Number of persons
+19169,"Story, IA",2020,county_per_capita_income,44996,Dollars
+19169,"Story, IA",2021,county_per_capita_income,48382,Dollars
+19169,"Story, IA",2022,county_per_capita_income,52645,Dollars
+19169,"Story, IA",2023,county_per_capita_income,54662,Dollars
+19169,"Story, IA",2024,county_per_capita_income,56392,Dollars
+19171,"Tama, IA",2020,county_personal_income,841633,Thousands of dollars
+19171,"Tama, IA",2021,county_personal_income,960253,Thousands of dollars
+19171,"Tama, IA",2022,county_personal_income,981859,Thousands of dollars
+19171,"Tama, IA",2023,county_personal_income,954808,Thousands of dollars
+19171,"Tama, IA",2024,county_personal_income,961490,Thousands of dollars
+19171,"Tama, IA",2020,county_population,17044,Number of persons
+19171,"Tama, IA",2021,county_population,16862,Number of persons
+19171,"Tama, IA",2022,county_population,16910,Number of persons
+19171,"Tama, IA",2023,county_population,16787,Number of persons
+19171,"Tama, IA",2024,county_population,16738,Number of persons
+19171,"Tama, IA",2020,county_per_capita_income,49380,Dollars
+19171,"Tama, IA",2021,county_per_capita_income,56948,Dollars
+19171,"Tama, IA",2022,county_per_capita_income,58064,Dollars
+19171,"Tama, IA",2023,county_per_capita_income,56878,Dollars
+19171,"Tama, IA",2024,county_per_capita_income,57444,Dollars
+19173,"Taylor, IA",2020,county_personal_income,270467,Thousands of dollars
+19173,"Taylor, IA",2021,county_personal_income,331381,Thousands of dollars
+19173,"Taylor, IA",2022,county_personal_income,344033,Thousands of dollars
+19173,"Taylor, IA",2023,county_personal_income,328052,Thousands of dollars
+19173,"Taylor, IA",2024,county_personal_income,333963,Thousands of dollars
+19173,"Taylor, IA",2020,county_population,5861,Number of persons
+19173,"Taylor, IA",2021,county_population,5868,Number of persons
+19173,"Taylor, IA",2022,county_population,5870,Number of persons
+19173,"Taylor, IA",2023,county_population,5917,Number of persons
+19173,"Taylor, IA",2024,county_population,5825,Number of persons
+19173,"Taylor, IA",2020,county_per_capita_income,46147,Dollars
+19173,"Taylor, IA",2021,county_per_capita_income,56473,Dollars
+19173,"Taylor, IA",2022,county_per_capita_income,58609,Dollars
+19173,"Taylor, IA",2023,county_per_capita_income,55442,Dollars
+19173,"Taylor, IA",2024,county_per_capita_income,57333,Dollars
+19175,"Union, IA",2020,county_personal_income,529790,Thousands of dollars
+19175,"Union, IA",2021,county_personal_income,595090,Thousands of dollars
+19175,"Union, IA",2022,county_personal_income,603713,Thousands of dollars
+19175,"Union, IA",2023,county_personal_income,593856,Thousands of dollars
+19175,"Union, IA",2024,county_personal_income,643243,Thousands of dollars
+19175,"Union, IA",2020,county_population,12128,Number of persons
+19175,"Union, IA",2021,county_population,12048,Number of persons
+19175,"Union, IA",2022,county_population,11922,Number of persons
+19175,"Union, IA",2023,county_population,11913,Number of persons
+19175,"Union, IA",2024,county_population,11955,Number of persons
+19175,"Union, IA",2020,county_per_capita_income,43683,Dollars
+19175,"Union, IA",2021,county_per_capita_income,49393,Dollars
+19175,"Union, IA",2022,county_per_capita_income,50639,Dollars
+19175,"Union, IA",2023,county_per_capita_income,49849,Dollars
+19175,"Union, IA",2024,county_per_capita_income,53805,Dollars
+19177,"Van Buren, IA",2020,county_personal_income,297036,Thousands of dollars
+19177,"Van Buren, IA",2021,county_personal_income,347350,Thousands of dollars
+19177,"Van Buren, IA",2022,county_personal_income,366537,Thousands of dollars
+19177,"Van Buren, IA",2023,county_personal_income,353678,Thousands of dollars
+19177,"Van Buren, IA",2024,county_personal_income,363931,Thousands of dollars
+19177,"Van Buren, IA",2020,county_population,7218,Number of persons
+19177,"Van Buren, IA",2021,county_population,7256,Number of persons
+19177,"Van Buren, IA",2022,county_population,7250,Number of persons
+19177,"Van Buren, IA",2023,county_population,7266,Number of persons
+19177,"Van Buren, IA",2024,county_population,7217,Number of persons
+19177,"Van Buren, IA",2020,county_per_capita_income,41152,Dollars
+19177,"Van Buren, IA",2021,county_per_capita_income,47871,Dollars
+19177,"Van Buren, IA",2022,county_per_capita_income,50557,Dollars
+19177,"Van Buren, IA",2023,county_per_capita_income,48676,Dollars
+19177,"Van Buren, IA",2024,county_per_capita_income,50427,Dollars
+19179,"Wapello, IA",2020,county_personal_income,1498465,Thousands of dollars
+19179,"Wapello, IA",2021,county_personal_income,1600330,Thousands of dollars
+19179,"Wapello, IA",2022,county_personal_income,1625479,Thousands of dollars
+19179,"Wapello, IA",2023,county_personal_income,1662277,Thousands of dollars
+19179,"Wapello, IA",2024,county_personal_income,1734920,Thousands of dollars
+19179,"Wapello, IA",2020,county_population,35327,Number of persons
+19179,"Wapello, IA",2021,county_population,35304,Number of persons
+19179,"Wapello, IA",2022,county_population,35080,Number of persons
+19179,"Wapello, IA",2023,county_population,35417,Number of persons
+19179,"Wapello, IA",2024,county_population,35681,Number of persons
+19179,"Wapello, IA",2020,county_per_capita_income,42417,Dollars
+19179,"Wapello, IA",2021,county_per_capita_income,45330,Dollars
+19179,"Wapello, IA",2022,county_per_capita_income,46336,Dollars
+19179,"Wapello, IA",2023,county_per_capita_income,46934,Dollars
+19179,"Wapello, IA",2024,county_per_capita_income,48623,Dollars
+19181,"Warren, IA",2020,county_personal_income,2846530,Thousands of dollars
+19181,"Warren, IA",2021,county_personal_income,3182870,Thousands of dollars
+19181,"Warren, IA",2022,county_personal_income,3355160,Thousands of dollars
+19181,"Warren, IA",2023,county_personal_income,3551708,Thousands of dollars
+19181,"Warren, IA",2024,county_personal_income,3754565,Thousands of dollars
+19181,"Warren, IA",2020,county_population,52591,Number of persons
+19181,"Warren, IA",2021,county_population,53487,Number of persons
+19181,"Warren, IA",2022,county_population,54325,Number of persons
+19181,"Warren, IA",2023,county_population,55298,Number of persons
+19181,"Warren, IA",2024,county_population,56343,Number of persons
+19181,"Warren, IA",2020,county_per_capita_income,54126,Dollars
+19181,"Warren, IA",2021,county_per_capita_income,59507,Dollars
+19181,"Warren, IA",2022,county_per_capita_income,61761,Dollars
+19181,"Warren, IA",2023,county_per_capita_income,64229,Dollars
+19181,"Warren, IA",2024,county_per_capita_income,66638,Dollars
+19183,"Washington, IA",2020,county_personal_income,1320161,Thousands of dollars
+19183,"Washington, IA",2021,county_personal_income,1617228,Thousands of dollars
+19183,"Washington, IA",2022,county_personal_income,1850810,Thousands of dollars
+19183,"Washington, IA",2023,county_personal_income,1814411,Thousands of dollars
+19183,"Washington, IA",2024,county_personal_income,1913209,Thousands of dollars
+19183,"Washington, IA",2020,county_population,22541,Number of persons
+19183,"Washington, IA",2021,county_population,22526,Number of persons
+19183,"Washington, IA",2022,county_population,22541,Number of persons
+19183,"Washington, IA",2023,county_population,22554,Number of persons
+19183,"Washington, IA",2024,county_population,22631,Number of persons
+19183,"Washington, IA",2020,county_per_capita_income,58567,Dollars
+19183,"Washington, IA",2021,county_per_capita_income,71794,Dollars
+19183,"Washington, IA",2022,county_per_capita_income,82109,Dollars
+19183,"Washington, IA",2023,county_per_capita_income,80447,Dollars
+19183,"Washington, IA",2024,county_per_capita_income,84539,Dollars
+19185,"Wayne, IA",2020,county_personal_income,289932,Thousands of dollars
+19185,"Wayne, IA",2021,county_personal_income,345128,Thousands of dollars
+19185,"Wayne, IA",2022,county_personal_income,360478,Thousands of dollars
+19185,"Wayne, IA",2023,county_personal_income,355620,Thousands of dollars
+19185,"Wayne, IA",2024,county_personal_income,365358,Thousands of dollars
+19185,"Wayne, IA",2020,county_population,6502,Number of persons
+19185,"Wayne, IA",2021,county_population,6522,Number of persons
+19185,"Wayne, IA",2022,county_population,6472,Number of persons
+19185,"Wayne, IA",2023,county_population,6542,Number of persons
+19185,"Wayne, IA",2024,county_population,6622,Number of persons
+19185,"Wayne, IA",2020,county_per_capita_income,44591,Dollars
+19185,"Wayne, IA",2021,county_per_capita_income,52918,Dollars
+19185,"Wayne, IA",2022,county_per_capita_income,55698,Dollars
+19185,"Wayne, IA",2023,county_per_capita_income,54360,Dollars
+19185,"Wayne, IA",2024,county_per_capita_income,55173,Dollars
+19187,"Webster, IA",2020,county_personal_income,1734182,Thousands of dollars
+19187,"Webster, IA",2021,county_personal_income,1912356,Thousands of dollars
+19187,"Webster, IA",2022,county_personal_income,1965080,Thousands of dollars
+19187,"Webster, IA",2023,county_personal_income,1981625,Thousands of dollars
+19187,"Webster, IA",2024,county_personal_income,2047151,Thousands of dollars
+19187,"Webster, IA",2020,county_population,36991,Number of persons
+19187,"Webster, IA",2021,county_population,37172,Number of persons
+19187,"Webster, IA",2022,county_population,36703,Number of persons
+19187,"Webster, IA",2023,county_population,36653,Number of persons
+19187,"Webster, IA",2024,county_population,36909,Number of persons
+19187,"Webster, IA",2020,county_per_capita_income,46881,Dollars
+19187,"Webster, IA",2021,county_per_capita_income,51446,Dollars
+19187,"Webster, IA",2022,county_per_capita_income,53540,Dollars
+19187,"Webster, IA",2023,county_per_capita_income,54064,Dollars
+19187,"Webster, IA",2024,county_per_capita_income,55465,Dollars
+19189,"Winnebago, IA",2020,county_personal_income,472284,Thousands of dollars
+19189,"Winnebago, IA",2021,county_personal_income,554497,Thousands of dollars
+19189,"Winnebago, IA",2022,county_personal_income,597110,Thousands of dollars
+19189,"Winnebago, IA",2023,county_personal_income,568180,Thousands of dollars
+19189,"Winnebago, IA",2024,county_personal_income,606115,Thousands of dollars
+19189,"Winnebago, IA",2020,county_population,10656,Number of persons
+19189,"Winnebago, IA",2021,county_population,10657,Number of persons
+19189,"Winnebago, IA",2022,county_population,10651,Number of persons
+19189,"Winnebago, IA",2023,county_population,10563,Number of persons
+19189,"Winnebago, IA",2024,county_population,10383,Number of persons
+19189,"Winnebago, IA",2020,county_per_capita_income,44321,Dollars
+19189,"Winnebago, IA",2021,county_per_capita_income,52031,Dollars
+19189,"Winnebago, IA",2022,county_per_capita_income,56061,Dollars
+19189,"Winnebago, IA",2023,county_per_capita_income,53790,Dollars
+19189,"Winnebago, IA",2024,county_per_capita_income,58376,Dollars
+19191,"Winneshiek, IA",2020,county_personal_income,1090666,Thousands of dollars
+19191,"Winneshiek, IA",2021,county_personal_income,1180933,Thousands of dollars
+19191,"Winneshiek, IA",2022,county_personal_income,1230232,Thousands of dollars
+19191,"Winneshiek, IA",2023,county_personal_income,1250128,Thousands of dollars
+19191,"Winneshiek, IA",2024,county_personal_income,1312455,Thousands of dollars
+19191,"Winneshiek, IA",2020,county_population,20051,Number of persons
+19191,"Winneshiek, IA",2021,county_population,19944,Number of persons
+19191,"Winneshiek, IA",2022,county_population,19915,Number of persons
+19191,"Winneshiek, IA",2023,county_population,19728,Number of persons
+19191,"Winneshiek, IA",2024,county_population,19723,Number of persons
+19191,"Winneshiek, IA",2020,county_per_capita_income,54395,Dollars
+19191,"Winneshiek, IA",2021,county_per_capita_income,59212,Dollars
+19191,"Winneshiek, IA",2022,county_per_capita_income,61774,Dollars
+19191,"Winneshiek, IA",2023,county_per_capita_income,63368,Dollars
+19191,"Winneshiek, IA",2024,county_per_capita_income,66544,Dollars
+19193,"Woodbury, IA",2020,county_personal_income,4926427,Thousands of dollars
+19193,"Woodbury, IA",2021,county_personal_income,5290075,Thousands of dollars
+19193,"Woodbury, IA",2022,county_personal_income,5473086,Thousands of dollars
+19193,"Woodbury, IA",2023,county_personal_income,5675691,Thousands of dollars
+19193,"Woodbury, IA",2024,county_personal_income,5936056,Thousands of dollars
+19193,"Woodbury, IA",2020,county_population,105952,Number of persons
+19193,"Woodbury, IA",2021,county_population,105801,Number of persons
+19193,"Woodbury, IA",2022,county_population,105674,Number of persons
+19193,"Woodbury, IA",2023,county_population,106544,Number of persons
+19193,"Woodbury, IA",2024,county_population,107257,Number of persons
+19193,"Woodbury, IA",2020,county_per_capita_income,46497,Dollars
+19193,"Woodbury, IA",2021,county_per_capita_income,50000,Dollars
+19193,"Woodbury, IA",2022,county_per_capita_income,51792,Dollars
+19193,"Woodbury, IA",2023,county_per_capita_income,53271,Dollars
+19193,"Woodbury, IA",2024,county_per_capita_income,55344,Dollars
+19195,"Worth, IA",2020,county_personal_income,330012,Thousands of dollars
+19195,"Worth, IA",2021,county_personal_income,401400,Thousands of dollars
+19195,"Worth, IA",2022,county_personal_income,418386,Thousands of dollars
+19195,"Worth, IA",2023,county_personal_income,420004,Thousands of dollars
+19195,"Worth, IA",2024,county_personal_income,424598,Thousands of dollars
+19195,"Worth, IA",2020,county_population,7430,Number of persons
+19195,"Worth, IA",2021,county_population,7374,Number of persons
+19195,"Worth, IA",2022,county_population,7316,Number of persons
+19195,"Worth, IA",2023,county_population,7322,Number of persons
+19195,"Worth, IA",2024,county_population,7307,Number of persons
+19195,"Worth, IA",2020,county_per_capita_income,44416,Dollars
+19195,"Worth, IA",2021,county_per_capita_income,54434,Dollars
+19195,"Worth, IA",2022,county_per_capita_income,57188,Dollars
+19195,"Worth, IA",2023,county_per_capita_income,57362,Dollars
+19195,"Worth, IA",2024,county_per_capita_income,58108,Dollars
+19197,"Wright, IA",2020,county_personal_income,612866,Thousands of dollars
+19197,"Wright, IA",2021,county_personal_income,745976,Thousands of dollars
+19197,"Wright, IA",2022,county_personal_income,926057,Thousands of dollars
+19197,"Wright, IA",2023,county_personal_income,852127,Thousands of dollars
+19197,"Wright, IA",2024,county_personal_income,967735,Thousands of dollars
+19197,"Wright, IA",2020,county_population,12923,Number of persons
+19197,"Wright, IA",2021,county_population,12821,Number of persons
+19197,"Wright, IA",2022,county_population,12740,Number of persons
+19197,"Wright, IA",2023,county_population,12744,Number of persons
+19197,"Wright, IA",2024,county_population,12729,Number of persons
+19197,"Wright, IA",2020,county_per_capita_income,47424,Dollars
+19197,"Wright, IA",2021,county_per_capita_income,58184,Dollars
+19197,"Wright, IA",2022,county_per_capita_income,72689,Dollars
+19197,"Wright, IA",2023,county_per_capita_income,66865,Dollars
+19197,"Wright, IA",2024,county_per_capita_income,76026,Dollars
