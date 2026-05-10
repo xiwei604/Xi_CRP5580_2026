@@ -36,8 +36,8 @@ permalink: /final-project/dashboards/
   var divElement = document.getElementById('viz1778373090575');
   var vizElement = divElement.getElementsByTagName('object')[0];
 
-  vizElement.style.width  = '900px';
-  vizElement.style.height = '1150px';
+  vizElement.style.width  = '950px';
+  vizElement.style.height = '1250px';
 
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
