@@ -3,7 +3,7 @@ title: "Final Project Data Overview"
 permalink: /final-project/data-overview/
 ---
 
-## Data Sources
+
 
 • State of Iowa. (n.d.). *Iowa Open Data Portal – Iowa Crashes Dashboard*.  
   https://data.iowa.gov/stories/s/Iowa-Crashes/m73g-tzgc
