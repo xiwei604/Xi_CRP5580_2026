@@ -17,7 +17,7 @@ main {
 </style>
 
 <!-- Tableau Embed -->
-<div class='tableauPlaceholder' id='viz1771736490870' style='position: relative; width:100%; height:1200px;'>
+<div class='tableauPlaceholder' id='viz1771736490870' style='position: relative; width:1200px; height:1200px;'>
   <noscript>
     <a href='#'>
       <img alt='Dashboard 1'
@@ -48,7 +48,7 @@ main {
   var divElement = document.getElementById('viz1771736490870');
   var vizElement = divElement.getElementsByTagName('object')[0];
 
-  vizElement.style.width = '100%';
+  vizElement.style.width  = '1200px';
   vizElement.style.height = '1200px';
 
   var scriptElement = document.createElement('script');
