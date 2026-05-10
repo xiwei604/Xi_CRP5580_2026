@@ -37,4 +37,5 @@ permalink: /final-project/dashboards/
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>    i do not want scoll bar in my web, how to auto scale the storybook? cause my size is 850x1100, maybe need to make it smaller
+  </script>
+
