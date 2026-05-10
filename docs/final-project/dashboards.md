@@ -4,17 +4,34 @@ permalink: /final-project/dashboards/
 ---
 
 
-<style>
-  .tableau-wrapper {
-    width: 100%;
-    overflow: hidden;
-  }
-  .tableau-scaler {
-    width: 850px;
-    height: 1100px;
-    transform-origin: top left;
-  }
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Final Project Dashboards</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      width: 100%;
+    }
+    .tableau-wrapper {
+      width: 100%;
+      overflow: hidden;
+      padding: 0;
+      margin: 0;
+    }
+    .tableau-scaler {
+      width: 850px;
+      height: 1100px;
+      transform-origin: top left;
+    }
+  </style>
+</head>
+<body>
 
 <div class="tableau-wrapper" id="tableau-outer">
   <div class="tableau-scaler" id="tableau-inner">
@@ -60,10 +77,15 @@ permalink: /final-project/dashboards/
   function scaleTableau() {
     var outer = document.getElementById('tableau-outer');
     var inner = document.getElementById('tableau-inner');
-    var scale = outer.offsetWidth / 850;
+    var availableWidth = window.innerWidth;
+    var scale = Math.min(availableWidth / 850, 1);
     inner.style.transform = 'scale(' + scale + ')';
-    outer.style.height = Math.round(1100 * scale) + 'px';
+    inner.style.transformOrigin = 'top left';
+    outer.style.height = Math.ceil(1100 * scale) + 'px';
   }
   scaleTableau();
   window.addEventListener('resize', scaleTableau);
 </script>
+
+</body>
+</html>
