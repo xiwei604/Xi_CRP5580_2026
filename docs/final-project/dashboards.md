@@ -4,8 +4,9 @@ permalink: /final-project/dashboards/
 ---
 
 
+
 <!-- Tableau Embed -->
-<div class='tableauPlaceholder' id='viz1778369572912' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1778373090575' style='position: relative'>
   <noscript>
     <a href='#'>
       <img alt='CRP5580_FinalProject'
@@ -32,7 +33,7 @@ permalink: /final-project/dashboards/
 </div>
 
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1778369572912');
+  var divElement = document.getElementById('viz1778373090575');
   var vizElement = divElement.getElementsByTagName('object')[0];
 
   vizElement.style.width  = '900px';
