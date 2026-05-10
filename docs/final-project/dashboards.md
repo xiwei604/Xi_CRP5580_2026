@@ -13,6 +13,7 @@ permalink: /final-project/dashboards/
            style='border: none' />
     </a>
   </noscript>
+
   <object class='tableauViz' style='display:none;'>
     <param name='host_url'             value='https%3A%2F%2Fpublic.tableau.com%2F' />
     <param name='embed_code_version'   value='3' />
@@ -29,13 +30,15 @@ permalink: /final-project/dashboards/
     <param name='language'             value='en-US' />
   </object>
 </div>
+
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1778369572912');
   var vizElement = divElement.getElementsByTagName('object')[0];
+
   vizElement.style.width  = '900px';
   vizElement.style.height = '1150px';
+
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
-  </script>
-
+</script>
